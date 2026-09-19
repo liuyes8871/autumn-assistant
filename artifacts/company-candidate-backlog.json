@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T15:06:21.366690+00:00",
+  "generatedAt": "2026-09-19T10:58:08.560867+00:00",
   "cadence": "weekly",
   "coverageStatus": "IN_PROGRESS",
   "coverageDefinition": "覆盖所有能够从企业官网或官方 ATS 公开发现、无需登录且通过访问边界审核的活跃校招来源；不存在永久全网抓完日期。",
@@ -117,10 +117,12 @@
     {
       "id": "sasac-central-soes",
       "name": "国务院国资委中央企业名录",
-      "url": "https://wap.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
+      "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
       "scope": "中央企业",
       "cadence": "weekly",
       "mode": "discovery_only",
+      "parser": "sasac_two_column",
+      "expectedCount": 99,
       "requiresReview": true
     }
   ],
@@ -175,11 +177,13 @@
     "entryUrlCount": 73,
     "discoveryOnly": true
   },
-  "companyCount": 356,
+  "companyCount": 358,
   "candidateWithoutOfficialSource": 125,
-  "companiesWithRunnableSources": 19,
+  "companiesWithRunnableSources": 20,
   "confirmed500PlusCompanies": 97,
-  "verifiedCompanySources": 19,
+  "verifiedCompanySources": 20,
+  "manualVerifiedCompanySources": 20,
+  "autoVerifiedCompanySources": 0,
   "saturation": {
     "status": "IN_PROGRESS",
     "consecutiveNoNewCycles": 0,
@@ -4806,6 +4810,48 @@
     },
     {
       "rank": 219,
+      "companyId": "point72",
+      "companyName": "Point72",
+      "industry": "金融/投研",
+      "priorityBand": 3,
+      "focusPriority": null,
+      "focusSegment": null,
+      "isFocusCompany": false,
+      "listingStatus": "UNKNOWN",
+      "employeeCount": null,
+      "largeCompanyEvidence": false,
+      "sourceStatus": "TARGET",
+      "careerUrl": "https://point72.com/students-early-career/",
+      "discoverySource": null,
+      "hiringRadar": null,
+      "sourceCount": 1,
+      "runnableSourceCount": 0,
+      "nextAction": "REVIEW_SOURCE",
+      "doNotPublishAsConnected": true
+    },
+    {
+      "rank": 220,
+      "companyId": "robinhood",
+      "companyName": "Robinhood",
+      "industry": "金融科技",
+      "priorityBand": 3,
+      "focusPriority": null,
+      "focusSegment": null,
+      "isFocusCompany": false,
+      "listingStatus": "UNKNOWN",
+      "employeeCount": null,
+      "largeCompanyEvidence": false,
+      "sourceStatus": "VERIFIED",
+      "careerUrl": "https://careers.robinhood.com/",
+      "discoverySource": null,
+      "hiringRadar": null,
+      "sourceCount": 1,
+      "runnableSourceCount": 1,
+      "nextAction": "COLLECT",
+      "doNotPublishAsConnected": false
+    },
+    {
+      "rank": 221,
       "companyId": "candidate-a00fd03791af",
       "companyName": "Sharpa",
       "industry": "互联网与数字服务",
@@ -4834,7 +4880,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 220,
+      "rank": 222,
       "companyId": "candidate-8f40521b81e1",
       "companyName": "Shopee",
       "industry": "互联网与数字服务",
@@ -4863,7 +4909,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 221,
+      "rank": 223,
       "companyId": "candidate-70c52a79bbeb",
       "companyName": "VAST",
       "industry": "互联网与数字服务",
@@ -4892,7 +4938,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 222,
+      "rank": 224,
       "companyId": "vivo",
       "companyName": "vivo",
       "industry": "智能制造、汽车与硬件",
@@ -4913,7 +4959,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 223,
+      "rank": 225,
       "companyId": "candidate-366d4c50146d",
       "companyName": "xTool",
       "industry": "互联网与数字服务",
@@ -4942,7 +4988,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 224,
+      "rank": 226,
       "companyId": "wantai",
       "companyName": "万泰生物",
       "industry": "专业服务与医药",
@@ -4963,7 +5009,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 225,
+      "rank": 227,
       "companyId": "candidate-9807068eb68e",
       "companyName": "万豪",
       "industry": "互联网与数字服务",
@@ -4992,7 +5038,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 226,
+      "rank": 228,
       "companyId": "candidate-cc013209a124",
       "companyName": "万集科技",
       "industry": "互联网与数字服务",
@@ -5021,7 +5067,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 227,
+      "rank": 229,
       "companyId": "candidate-970546b12a57",
       "companyName": "三一集团",
       "industry": "互联网与数字服务",
@@ -5050,7 +5096,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 228,
+      "rank": 230,
       "companyId": "candidate-9ce2a0ae2e6b",
       "companyName": "三只松鼠",
       "industry": "互联网与数字服务",
@@ -5079,7 +5125,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 229,
+      "rank": 231,
       "companyId": "candidate-d546e2395fa7",
       "companyName": "三花智控",
       "industry": "互联网与数字服务",
@@ -5108,7 +5154,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 230,
+      "rank": 232,
       "companyId": "candidate-dad71a1e47bc",
       "companyName": "上海创智学院",
       "industry": "互联网与数字服务",
@@ -5137,7 +5183,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 231,
+      "rank": 233,
       "companyId": "candidate-isc-088",
       "companyName": "东方明珠新媒体股份有限公司",
       "industry": "互联网与数字服务",
@@ -5158,7 +5204,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 232,
+      "rank": 234,
       "companyId": "candidate-b205ebb8bc42",
       "companyName": "东方海外",
       "industry": "互联网与数字服务",
@@ -5187,7 +5233,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 233,
+      "rank": 235,
       "companyId": "zte",
       "companyName": "中兴通讯",
       "industry": "智能制造、汽车与硬件",
@@ -5208,7 +5254,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 234,
+      "rank": 236,
       "companyId": "crrc",
       "companyName": "中国中车",
       "industry": "国央企、能源与基建",
@@ -5229,7 +5275,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 235,
+      "rank": 237,
       "companyId": "cnooc",
       "companyName": "中国海油",
       "industry": "国央企、能源与基建",
@@ -5250,7 +5296,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 236,
+      "rank": 238,
       "companyId": "china-telecom",
       "companyName": "中国电信",
       "industry": "国央企、能源与基建",
@@ -5271,7 +5317,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 237,
+      "rank": 239,
       "companyId": "sinopec",
       "companyName": "中国石化",
       "industry": "国央企、能源与基建",
@@ -5292,7 +5338,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 238,
+      "rank": 240,
       "companyId": "china-mobile",
       "companyName": "中国移动",
       "industry": "通信与数字服务",
@@ -5313,7 +5359,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 239,
+      "rank": 241,
       "companyId": "boc",
       "companyName": "中国银行",
       "industry": "金融",
@@ -5334,7 +5380,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 240,
+      "rank": 242,
       "companyId": "candidate-fbe3da4b43f9",
       "companyName": "乐刻运动",
       "industry": "互联网与数字服务",
@@ -5363,7 +5409,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 241,
+      "rank": 243,
       "companyId": "candidate-2360dbf6f8b9",
       "companyName": "乐府互娱",
       "industry": "互联网与数字服务",
@@ -5392,7 +5438,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 242,
+      "rank": 244,
       "companyId": "candidate-df885348b1c8",
       "companyName": "九号公司",
       "industry": "互联网与数字服务",
@@ -5421,7 +5467,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 243,
+      "rank": 245,
       "companyId": "candidate-e692c3eaf141",
       "companyName": "九坤投资",
       "industry": "互联网与数字服务",
@@ -5450,7 +5496,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 244,
+      "rank": 246,
       "companyId": "boe",
       "companyName": "京东方",
       "industry": "智能制造、汽车与硬件",
@@ -5471,7 +5517,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 245,
+      "rank": 247,
       "companyId": "jd-logistics",
       "companyName": "京东物流",
       "industry": "快消、零售与物流",
@@ -5492,7 +5538,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 246,
+      "rank": 248,
       "companyId": "candidate-9e08a267fa29",
       "companyName": "倍轻松",
       "industry": "互联网与数字服务",
@@ -5521,7 +5567,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 247,
+      "rank": 249,
       "companyId": "candidate-1bee7162d59c",
       "companyName": "元气森林",
       "industry": "互联网与数字服务",
@@ -5550,7 +5596,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 248,
+      "rank": 250,
       "companyId": "candidate-9456c48de4f8",
       "companyName": "光明之芯",
       "industry": "互联网与数字服务",
@@ -5579,7 +5625,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 249,
+      "rank": 251,
       "companyId": "candidate-isc-089",
       "companyName": "创梦天地科技控股有限公司",
       "industry": "互联网与数字服务",
@@ -5600,7 +5646,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 250,
+      "rank": 252,
       "companyId": "candidate-0b6582f1b974",
       "companyName": "北京人形机器人创新中心",
       "industry": "互联网与数字服务",
@@ -5629,7 +5675,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 251,
+      "rank": 253,
       "companyId": "candidate-isc-095",
       "companyName": "北京国都互联科技有限公司",
       "industry": "互联网与数字服务",
@@ -5650,7 +5696,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 252,
+      "rank": 254,
       "companyId": "candidate-isc-060",
       "companyName": "北京网聘信息技术有限公司",
       "industry": "互联网与数字服务",
@@ -5671,7 +5717,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 253,
+      "rank": 255,
       "companyId": "candidate-isc-049",
       "companyName": "北京趣拿信息科技有限公司",
       "industry": "互联网与数字服务",
@@ -5692,7 +5738,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 254,
+      "rank": 256,
       "companyId": "candidate-3832a41ef4dc",
       "companyName": "千寻智能",
       "industry": "互联网与数字服务",
@@ -5721,7 +5767,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 255,
+      "rank": 257,
       "companyId": "candidate-bed7bf1caaf9",
       "companyName": "千里科技",
       "industry": "互联网与数字服务",
@@ -5750,7 +5796,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 256,
+      "rank": 258,
       "companyId": "huawei",
       "companyName": "华为",
       "industry": "智能制造、汽车与硬件",
@@ -5771,7 +5817,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 257,
+      "rank": 259,
       "companyId": "candidate-e7bd0ada845a",
       "companyName": "华虹集团",
       "industry": "互联网与数字服务",
@@ -5800,7 +5846,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 258,
+      "rank": 260,
       "companyId": "candidate-84381feaf8c3",
       "companyName": "博世中国",
       "industry": "互联网与数字服务",
@@ -5829,7 +5875,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 259,
+      "rank": 261,
       "companyId": "candidate-e6cf4fbe645a",
       "companyName": "博乐科技",
       "industry": "互联网与数字服务",
@@ -5858,7 +5904,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 260,
+      "rank": 262,
       "companyId": "candidate-9e609b541165",
       "companyName": "博瑞迪",
       "industry": "互联网与数字服务",
@@ -5887,7 +5933,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 261,
+      "rank": 263,
       "companyId": "candidate-isc-070",
       "companyName": "厦门众联世纪股份有限公司",
       "industry": "互联网与数字服务",
@@ -5908,7 +5954,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 262,
+      "rank": 264,
       "companyId": "candidate-isc-080",
       "companyName": "厦门延趣网络科技有限公司",
       "industry": "互联网与数字服务",
@@ -5929,7 +5975,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 263,
+      "rank": 265,
       "companyId": "candidate-d69b7c49309c",
       "companyName": "古茗",
       "industry": "互联网与数字服务",
@@ -5958,7 +6004,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 264,
+      "rank": 266,
       "companyId": "candidate-70a603fd320e",
       "companyName": "吉利",
       "industry": "互联网与数字服务",
@@ -5987,7 +6033,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 265,
+      "rank": 267,
       "companyId": "candidate-9bd631e935f0",
       "companyName": "后摩智能",
       "industry": "互联网与数字服务",
@@ -6016,7 +6062,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 266,
+      "rank": 268,
       "companyId": "candidate-79a773d4b870",
       "companyName": "和而泰",
       "industry": "互联网与数字服务",
@@ -6045,7 +6091,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 267,
+      "rank": 269,
       "companyId": "candidate-fc11dad6d2a3",
       "companyName": "嘉士伯",
       "industry": "互联网与数字服务",
@@ -6074,7 +6120,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 268,
+      "rank": 270,
       "companyId": "candidate-7e001ef3749d",
       "companyName": "固生堂",
       "industry": "互联网与数字服务",
@@ -6103,7 +6149,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 269,
+      "rank": 271,
       "companyId": "state-grid",
       "companyName": "国家电网",
       "industry": "国央企、能源与基建",
@@ -6124,7 +6170,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 270,
+      "rank": 272,
       "companyId": "candidate-385763661158",
       "companyName": "均胜集团",
       "industry": "互联网与数字服务",
@@ -6153,7 +6199,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 271,
+      "rank": 273,
       "companyId": "candidate-f466ce3a9ed5",
       "companyName": "壁仞科技",
       "industry": "互联网与数字服务",
@@ -6182,7 +6228,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 272,
+      "rank": 274,
       "companyId": "dji",
       "companyName": "大疆",
       "industry": "智能制造、汽车与硬件",
@@ -6203,7 +6249,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 273,
+      "rank": 275,
       "companyId": "candidate-10c12dac97ba",
       "companyName": "天合光能",
       "industry": "互联网与数字服务",
@@ -6232,7 +6278,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 274,
+      "rank": 276,
       "companyId": "candidate-db93144ce8c6",
       "companyName": "天演资本",
       "industry": "互联网与数字服务",
@@ -6261,7 +6307,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 275,
+      "rank": 277,
       "companyId": "candidate-bd1f039831df",
       "companyName": "太初",
       "industry": "互联网与数字服务",
@@ -6290,7 +6336,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 276,
+      "rank": 278,
       "companyId": "candidate-isc-036",
       "companyName": "央视国际网络有限公司",
       "industry": "互联网与数字服务",
@@ -6311,7 +6357,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 277,
+      "rank": 279,
       "companyId": "chery",
       "companyName": "奇瑞汽车",
       "industry": "智能制造、汽车与硬件",
@@ -6332,7 +6378,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 278,
+      "rank": 280,
       "companyId": "catl",
       "companyName": "宁德时代",
       "industry": "智能制造、汽车与硬件",
@@ -6353,7 +6399,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 279,
+      "rank": 281,
       "companyId": "candidate-b27c0d600131",
       "companyName": "它石智航",
       "industry": "互联网与数字服务",
@@ -6382,7 +6428,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 280,
+      "rank": 282,
       "companyId": "ey",
       "companyName": "安永",
       "industry": "专业服务与医药",
@@ -6403,7 +6449,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 281,
+      "rank": 283,
       "companyId": "candidate-8161f066842f",
       "companyName": "安踏",
       "industry": "互联网与数字服务",
@@ -6432,7 +6478,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 282,
+      "rank": 284,
       "companyId": "pg",
       "companyName": "宝洁",
       "industry": "快消、零售与物流",
@@ -6453,7 +6499,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 283,
+      "rank": 285,
       "companyId": "candidate-35b47a8fd93c",
       "companyName": "寒武纪",
       "industry": "互联网与数字服务",
@@ -6482,7 +6528,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 284,
+      "rank": 286,
       "companyId": "candidate-3a78bfe187f2",
       "companyName": "尚游游戏",
       "industry": "互联网与数字服务",
@@ -6511,7 +6557,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 285,
+      "rank": 287,
       "companyId": "candidate-278754037dcb",
       "companyName": "岚图汽车",
       "industry": "互联网与数字服务",
@@ -6540,7 +6586,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 286,
+      "rank": 288,
       "companyId": "icbc",
       "companyName": "工商银行",
       "industry": "金融",
@@ -6561,7 +6607,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 287,
+      "rank": 289,
       "companyId": "pingan",
       "companyName": "平安集团",
       "industry": "金融",
@@ -6582,7 +6628,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 288,
+      "rank": 290,
       "companyId": "candidate-81119e024550",
       "companyName": "幻方量化",
       "industry": "互联网与数字服务",
@@ -6611,7 +6657,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 289,
+      "rank": 291,
       "companyId": "candidate-isc-094",
       "companyName": "广州津虹网络传媒有限公司",
       "industry": "互联网与数字服务",
@@ -6632,7 +6678,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 290,
+      "rank": 292,
       "companyId": "candidate-isc-042",
       "companyName": "广州铁动科技股份有限公司",
       "industry": "互联网与数字服务",
@@ -6653,7 +6699,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 291,
+      "rank": 293,
       "companyId": "candidate-ce9435339f66",
       "companyName": "库犸科技",
       "industry": "互联网与数字服务",
@@ -6682,7 +6728,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 292,
+      "rank": 294,
       "companyId": "candidate-bf0bae10b94b",
       "companyName": "延锋",
       "industry": "互联网与数字服务",
@@ -6711,7 +6757,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 293,
+      "rank": 295,
       "companyId": "ccb",
       "companyName": "建设银行",
       "industry": "金融",
@@ -6732,7 +6778,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 294,
+      "rank": 296,
       "companyId": "deloitte",
       "companyName": "德勤",
       "industry": "专业服务与医药",
@@ -6753,7 +6799,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 295,
+      "rank": 297,
       "companyId": "candidate-8d7666383a10",
       "companyName": "思勰投资",
       "industry": "互联网与数字服务",
@@ -6782,7 +6828,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 296,
+      "rank": 298,
       "companyId": "candidate-0785ad5e08e7",
       "companyName": "思摩尔国际",
       "industry": "互联网与数字服务",
@@ -6811,7 +6857,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 297,
+      "rank": 299,
       "companyId": "candidate-8d20d90f8e21",
       "companyName": "思瑞浦",
       "industry": "互联网与数字服务",
@@ -6840,7 +6886,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 298,
+      "rank": 300,
       "companyId": "bambulab",
       "companyName": "拓竹科技",
       "industry": "智能制造、汽车与硬件",
@@ -6861,7 +6907,7 @@
       "doNotPublishAsConnected": false
     },
     {
-      "rank": 299,
+      "rank": 301,
       "companyId": "cmb",
       "companyName": "招商银行",
       "industry": "金融",
@@ -6882,7 +6928,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 300,
+      "rank": 302,
       "companyId": "cmbchina-network",
       "companyName": "招银网络",
       "industry": "金融",
@@ -6903,7 +6949,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 301,
+      "rank": 303,
       "companyId": "bayer",
       "companyName": "拜耳",
       "industry": "专业服务与医药",
@@ -6924,7 +6970,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 302,
+      "rank": 304,
       "companyId": "candidate-496f3cf5f03f",
       "companyName": "摩尔线程",
       "industry": "互联网与数字服务",
@@ -6953,7 +6999,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 303,
+      "rank": 305,
       "companyId": "candidate-5ad73d902f55",
       "companyName": "施耐德电气",
       "industry": "互联网与数字服务",
@@ -6982,7 +7028,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 304,
+      "rank": 306,
       "companyId": "candidate-de85ce72218e",
       "companyName": "无问芯穹",
       "industry": "互联网与数字服务",
@@ -7011,7 +7057,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 305,
+      "rank": 307,
       "companyId": "candidate-b6549c41c9c4",
       "companyName": "时代新安",
       "industry": "互联网与数字服务",
@@ -7040,7 +7086,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 306,
+      "rank": 308,
       "companyId": "candidate-ad01d958383a",
       "companyName": "易咖智车",
       "industry": "互联网与数字服务",
@@ -7069,7 +7115,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 307,
+      "rank": 309,
       "companyId": "candidate-03e2ea59ee63",
       "companyName": "星动纪元",
       "industry": "互联网与数字服务",
@@ -7098,7 +7144,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 308,
+      "rank": 310,
       "companyId": "pwc",
       "companyName": "普华永道",
       "industry": "专业服务与医药",
@@ -7119,7 +7165,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 309,
+      "rank": 311,
       "companyId": "candidate-82a7fe0ba96c",
       "companyName": "晶科能源",
       "industry": "互联网与数字服务",
@@ -7148,7 +7194,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 310,
+      "rank": 312,
       "companyId": "candidate-731cfe6541c6",
       "companyName": "智元机器人",
       "industry": "互联网与数字服务",
@@ -7177,7 +7223,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 311,
+      "rank": 313,
       "companyId": "candidate-f82764afda40",
       "companyName": "智源研究院",
       "industry": "互联网与数字服务",
@@ -7206,7 +7252,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 312,
+      "rank": 314,
       "companyId": "candidate-5c19e41699d6",
       "companyName": "智驾新程",
       "industry": "互联网与数字服务",
@@ -7235,7 +7281,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 313,
+      "rank": 315,
       "companyId": "candidate-e3a74810d5ab",
       "companyName": "极佳科技",
       "industry": "互联网与数字服务",
@@ -7264,7 +7310,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 314,
+      "rank": 316,
       "companyId": "loreal",
       "companyName": "欧莱雅",
       "industry": "快消、零售与物流",
@@ -7285,7 +7331,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 315,
+      "rank": 317,
       "companyId": "candidate-isc-043",
       "companyName": "武汉理工数字传播工程有限公司",
       "industry": "互联网与数字服务",
@@ -7306,7 +7352,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 316,
+      "rank": 318,
       "companyId": "candidate-isc-069",
       "companyName": "武汉百度集团有限公司",
       "industry": "互联网与数字服务",
@@ -7327,7 +7373,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 317,
+      "rank": 319,
       "companyId": "byd",
       "companyName": "比亚迪",
       "industry": "智能制造、汽车与硬件",
@@ -7348,7 +7394,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 318,
+      "rank": 320,
       "companyId": "kpmg",
       "companyName": "毕马威",
       "industry": "专业服务与医药",
@@ -7369,7 +7415,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 319,
+      "rank": 321,
       "companyId": "candidate-isc-084",
       "companyName": "江苏瑞祥科技集团有限公司",
       "industry": "互联网与数字服务",
@@ -7390,7 +7436,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 320,
+      "rank": 322,
       "companyId": "candidate-isc-078",
       "companyName": "江西傲星科技有限公司",
       "industry": "互联网与数字服务",
@@ -7411,7 +7457,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 321,
+      "rank": 323,
       "companyId": "candidate-3b65743eb5cd",
       "companyName": "沃尔沃汽车",
       "industry": "互联网与数字服务",
@@ -7440,7 +7486,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 322,
+      "rank": 324,
       "companyId": "hisense",
       "companyName": "海信",
       "industry": "智能制造、汽车与硬件",
@@ -7461,7 +7507,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 323,
+      "rank": 325,
       "companyId": "candidate-isc-091",
       "companyName": "海南元游信息技术有限公司",
       "industry": "互联网与数字服务",
@@ -7482,7 +7528,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 324,
+      "rank": 326,
       "companyId": "haier",
       "companyName": "海尔",
       "industry": "智能制造、汽车与硬件",
@@ -7503,7 +7549,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 325,
+      "rank": 327,
       "companyId": "candidate-9a7f1c06adfb",
       "companyName": "海辰储能",
       "industry": "互联网与数字服务",
@@ -7532,7 +7578,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 326,
+      "rank": 328,
       "companyId": "candidate-isc-096",
       "companyName": "湖南兴盛优选电子商务有限公司",
       "industry": "互联网与数字服务",
@@ -7553,7 +7599,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 327,
+      "rank": 329,
       "companyId": "candidate-isc-038",
       "companyName": "满帮集团有限公司",
       "industry": "互联网与数字服务",
@@ -7574,7 +7620,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 328,
+      "rank": 330,
       "companyId": "candidate-96104153dbe8",
       "companyName": "灵均投资",
       "industry": "互联网与数字服务",
@@ -7603,7 +7649,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 329,
+      "rank": 331,
       "companyId": "li-auto",
       "companyName": "理想汽车",
       "industry": "智能制造、汽车与硬件",
@@ -7624,7 +7670,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 330,
+      "rank": 332,
       "companyId": "candidate-isc-071",
       "companyName": "福建游龙共创网络技术有限公司",
       "industry": "互联网与数字服务",
@@ -7645,7 +7691,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 331,
+      "rank": 333,
       "companyId": "candidate-145e25ee7498",
       "companyName": "禾多科技",
       "industry": "互联网与数字服务",
@@ -7674,7 +7720,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 332,
+      "rank": 334,
       "companyId": "candidate-3a29e7974c38",
       "companyName": "禾赛科技",
       "industry": "互联网与数字服务",
@@ -7703,7 +7749,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 333,
+      "rank": 335,
       "companyId": "candidate-5676ee51ebc2",
       "companyName": "科捷智能",
       "industry": "互联网与数字服务",
@@ -7732,7 +7778,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 334,
+      "rank": 336,
       "companyId": "candidate-34af9d479b56",
       "companyName": "紫金矿业",
       "industry": "互联网与数字服务",
@@ -7761,7 +7807,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 335,
+      "rank": 337,
       "companyId": "candidate-e619ffa09950",
       "companyName": "红杉中国",
       "industry": "互联网与数字服务",
@@ -7790,7 +7836,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 336,
+      "rank": 338,
       "companyId": "candidate-isc-033",
       "companyName": "美图公司",
       "industry": "互联网与数字服务",
@@ -7811,7 +7857,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 337,
+      "rank": 339,
       "companyId": "midea",
       "companyName": "美的集团",
       "industry": "智能制造、汽车与硬件",
@@ -7832,7 +7878,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 338,
+      "rank": 340,
       "companyId": "unilever",
       "companyName": "联合利华",
       "industry": "快消、零售与物流",
@@ -7853,7 +7899,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 339,
+      "rank": 341,
       "companyId": "lenovo",
       "companyName": "联想",
       "industry": "互联网与 AI",
@@ -7874,7 +7920,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 340,
+      "rank": 342,
       "companyId": "candidate-cf88bab82841",
       "companyName": "自变量机器人",
       "industry": "互联网与数字服务",
@@ -7903,7 +7949,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 341,
+      "rank": 343,
       "companyId": "candidate-5a17a5c43fff",
       "companyName": "艾罗能源",
       "industry": "互联网与数字服务",
@@ -7932,7 +7978,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 342,
+      "rank": 344,
       "companyId": "candidate-871931b097c0",
       "companyName": "芯盟科技",
       "industry": "互联网与数字服务",
@@ -7961,7 +8007,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 343,
+      "rank": 345,
       "companyId": "candidate-7926da7a591c",
       "companyName": "蓝晶微生物",
       "industry": "互联网与数字服务",
@@ -7990,7 +8036,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 344,
+      "rank": 346,
       "companyId": "candidate-bd94c3fecac1",
       "companyName": "蔡司",
       "industry": "互联网与数字服务",
@@ -8019,7 +8065,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 345,
+      "rank": 347,
       "companyId": "candidate-6e542a06e5fd",
       "companyName": "西湖大学",
       "industry": "互联网与数字服务",
@@ -8048,7 +8094,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 346,
+      "rank": 348,
       "companyId": "candidate-ff3486bd87a8",
       "companyName": "赛智SAJ",
       "industry": "互联网与数字服务",
@@ -8077,7 +8123,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 347,
+      "rank": 349,
       "companyId": "candidate-6c22ccb4b966",
       "companyName": "远景能源",
       "industry": "互联网与数字服务",
@@ -8106,7 +8152,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 348,
+      "rank": 350,
       "companyId": "candidate-4c03f2ec1c3e",
       "companyName": "追觅",
       "industry": "互联网与数字服务",
@@ -8135,7 +8181,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 349,
+      "rank": 351,
       "companyId": "candidate-02f2325e4abe",
       "companyName": "道通智能",
       "industry": "互联网与数字服务",
@@ -8164,7 +8210,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 350,
+      "rank": 352,
       "companyId": "candidate-a2719ed930b6",
       "companyName": "酷睿程",
       "industry": "互联网与数字服务",
@@ -8193,7 +8239,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 351,
+      "rank": 353,
       "companyId": "candidate-53ac3b31ee8d",
       "companyName": "银河通用",
       "industry": "互联网与数字服务",
@@ -8222,7 +8268,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 352,
+      "rank": 354,
       "companyId": "candidate-95fbfb1c6785",
       "companyName": "阿维塔",
       "industry": "互联网与数字服务",
@@ -8251,7 +8297,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 353,
+      "rank": 355,
       "companyId": "nestle",
       "companyName": "雀巢",
       "industry": "快消、零售与物流",
@@ -8272,7 +8318,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 354,
+      "rank": 356,
       "companyId": "candidate-4b07b022217f",
       "companyName": "零一汽车",
       "industry": "互联网与数字服务",
@@ -8301,7 +8347,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 355,
+      "rank": 357,
       "companyId": "candidate-0a0704b8620c",
       "companyName": "零跑汽车",
       "industry": "互联网与数字服务",
@@ -8330,7 +8376,7 @@
       "doNotPublishAsConnected": true
     },
     {
-      "rank": 356,
+      "rank": 358,
       "companyId": "candidate-1abe0105cd0e",
       "companyName": "非夕机器人",
       "industry": "互联网与数字服务",

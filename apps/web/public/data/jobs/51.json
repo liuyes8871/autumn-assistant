@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.14.1542",
+  "catalogVersion": "2026.09.19.1057",
   "jobs": [
     {
       "sourceId": "asiainfo-security-campus",
@@ -8,7 +8,7 @@
       "companyId": "asiainfo-security",
       "companyName": "亚信安全",
       "title": "【27届校招】-大客户销售",
-      "city": "北京",
+      "city": "北京、昆明、广州",
       "locations": [
         {
           "scope": "MAINLAND_CHINA",
@@ -18,6 +18,24 @@
           "districtCode": null,
           "displayName": "北京",
           "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
         }
       ],
       "roleCategory": "销售/商务",
@@ -53,7 +71,7 @@
       "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
       "id": "asiainfo-security:7680767146033678635",
       "firstSeenAt": "2026-09-03T04:50:01.850347Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "959f09393a21b52bca79c0ef8adc6ef00225de00b7de64e59c64ca5030c50ce2",
       "status": "ACTIVE",
       "detailShard": "51",
@@ -115,7 +133,7 @@
       "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
       "id": "asiainfo-security:7680763872403425572",
       "firstSeenAt": "2026-09-03T04:50:01.850347Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "c3caab3c499622e871a593d7f24c42b42bd0cb4acf78b9e35aa80f018f85ff56",
       "status": "ACTIVE",
       "detailShard": "51",

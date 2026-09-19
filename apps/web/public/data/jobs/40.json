@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.14.1542",
+  "catalogVersion": "2026.09.19.1057",
   "jobs": [
     {
       "sourceId": "thundersoft-campus",
@@ -54,7 +54,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7684097483668965638",
       "firstSeenAt": "2026-09-13T10:31:01.906196Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "9219721b37853868fd4992eb8585731168e15b261541221ebf4bc23b54bf253a",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -126,7 +126,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681886755960703268",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "0ef8103ce75f1f135db206c4cf519949f25b7e2f3581e291988bc7a0635a9120",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -189,7 +189,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681883133865150739",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "8c1ea88f23530567898d7087a2ef5c5b8cbd0cae0b752736bae0804f6493774f",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -229,7 +229,7 @@
       "skills": [],
       "description": "2027届的小伙伴，你好。在中科创达智能汽车事业群该岗位下，你可能会负责如下某一领域工作： 1.协助PM完成项目交付：设定项目目标，并制定项目运作方式，协调各方面资源达成项目目标； 2.协助PM负责整个项目阶段流程管理； 3.针对项目进行报价与跟踪； 4.协助技术部门进行新品沟通； 5.与品质部门进行问题沟通。 福利待遇 1.自有员工，五险一金，13薪，午餐补助/交通补助/误（晚）餐补助 2.每周双休，上班时间：早9:30-晚19:00，可提前1H弹性打卡；午休时间12:00-13:30 3.清晰的晋升通道/明确的培养计划/导师1对1学习，雏鹰计划/superman计划提供丰富的晋升通道",
       "requirements": [
-        "1.全日制统招本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
+        "1.本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
       ],
       "publishDate": "2026-09-05",
       "publishDateSource": "OFFICIAL",
@@ -252,12 +252,12 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681875773506521382",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
-      "contentHash": "d239003902bc7cc4716d6faf9572c5e080ab1b687c5c52e89cf439cfcdde26da",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
+      "contentHash": "5c2266a6b2c620df1cdd66a1a0ec2bafe03f9aa5258e3f05366afa9f013af144",
       "status": "ACTIVE",
       "detailShard": "40",
       "firstMissingSuccesses": 0,
-      "changedAt": null,
+      "changedAt": "2026-09-19T10:57:04.368717Z",
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
         "ALLOWED_GENERALIST_TITLE"
@@ -301,7 +301,7 @@
       "skills": [],
       "description": "2027届的小伙伴，你好。在中科创达智能汽车事业群该岗位下，你可能会负责如下某一领域工作： 1.协助PM完成项目交付：设定项目目标，并制定项目运作方式，协调各方面资源达成项目目标； 2.协助PM负责整个项目阶段流程管理； 3.针对项目进行报价与跟踪； 4.协助技术部门进行新品沟通； 5.与品质部门进行问题沟通。 福利待遇 1.自有员工，五险一金，13薪，午餐补助/交通补助/误（晚）餐补助 2.每周双休，上班时间：早9:30-晚19:00，可提前1H弹性打卡；午休时间12:00-13:30 3.清晰的晋升通道/明确的培养计划/导师1对1学习，雏鹰计划/superman计划提供丰富的晋升通道",
       "requirements": [
-        "1.全日制统招本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
+        "1.本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
       ],
       "publishDate": "2026-09-05",
       "publishDateSource": "OFFICIAL",
@@ -324,12 +324,12 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681874864173992242",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
-      "contentHash": "6beae3000ce706958ed21a073662ad3766baece5f7b7fcc8e4e8e18bdc7fd773",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
+      "contentHash": "34aa07e970ac11e5d4a8038157f4feecc1ec0a63a01c998580996593a6d62b66",
       "status": "ACTIVE",
       "detailShard": "40",
       "firstMissingSuccesses": 0,
-      "changedAt": null,
+      "changedAt": "2026-09-19T10:57:04.368717Z",
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
         "ALLOWED_GENERALIST_TITLE"
@@ -373,7 +373,7 @@
       "skills": [],
       "description": "2027届的小伙伴，你好。在中科创达智能汽车事业群该岗位下，你可能会负责如下某一领域工作： 1.协助PM完成项目交付：设定项目目标，并制定项目运作方式，协调各方面资源达成项目目标； 2.协助PM负责整个项目阶段流程管理； 3.针对项目进行报价与跟踪； 4.协助技术部门进行新品沟通； 5.与品质部门进行问题沟通。 福利待遇 1.自有员工，五险一金，13薪，午餐补助/交通补助/误（晚）餐补助 2.每周双休，上班时间：早9:30-晚19:00，可提前1H弹性打卡；午休时间12:00-13:30 3.清晰的晋升通道/明确的培养计划/导师1对1学习，雏鹰计划/superman计划提供丰富的晋升通道",
       "requirements": [
-        "1.全日制统招本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
+        "1.本科及以上学历；计算机、电子、通信相关专业，有海外留学经验优先； 2.能熟练应用各种OFFICE软件（word/excel/ppt/邮件）； 3.具备较强的逻辑思维能力，能够同研发进行沟通与交流； 4.做事积极主动、推动力强，结果导向意识强，具有良好的组织能力和沟通能力及团队合作精神； 5.项目经理or产品经理的实习经历。了解PMP项目管理知识 6. 具备基础的英文或其他语言读写能力，拥有CET4级、其他语言证书"
       ],
       "publishDate": "2026-09-05",
       "publishDateSource": "OFFICIAL",
@@ -396,12 +396,12 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681871205174954278",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
-      "contentHash": "0b077d837ee5f6ad741254316a1bcef4f60a535dcca2dd86390bbb850814e06d",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
+      "contentHash": "a83e72f3e93c9b6022f01483f650757884e2b5c6d0b3034f3d587ce4f38b1997",
       "status": "ACTIVE",
       "detailShard": "40",
       "firstMissingSuccesses": 0,
-      "changedAt": null,
+      "changedAt": "2026-09-19T10:57:04.368717Z",
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
         "ALLOWED_GENERALIST_TITLE"
@@ -459,7 +459,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7618881787998144774",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "9ded98f3185b3e57b4e4d4a9f7df7dea6697dd63839b03e78e63cf98ba482aba",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -531,7 +531,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7545746085987715366",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "048288ea3ad7fed22eec988d29650675412712a133002d3f774fe12f78e84ba0",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -594,7 +594,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7528378021284399398",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "75272ee76d6817fd05dc30669b7ab88b1dc62528f9ba15551001a74b38a8f459",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -657,7 +657,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7524895522356840754",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "lastVerifiedAt": "2026-09-19T10:57:04.368717Z",
       "contentHash": "5c8d3831d2d2802a9250632061123e463ac4ecc781485babb84d530cc16d0c97",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -724,7 +724,7 @@
       "contentHash": "9ea9ffbb3feaa4c057876996b98bf3c26d34697cbc8e4f148e06f2f259b89413",
       "status": "ACTIVE",
       "detailShard": "40",
-      "firstMissingSuccesses": 0,
+      "firstMissingSuccesses": 1,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
@@ -787,7 +787,7 @@
       "contentHash": "d6a152f05b71e622e5010b497503ca71aaf9ea693b62488bb655052749e9669b",
       "status": "ACTIVE",
       "detailShard": "40",
-      "firstMissingSuccesses": 0,
+      "firstMissingSuccesses": 1,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
@@ -850,7 +850,7 @@
       "contentHash": "5a9fc10f7766fd080a4523400ccd3312fb8ebeeceb9a31bd516e11d2b13f71c6",
       "status": "CLOSED",
       "detailShard": "40",
-      "firstMissingSuccesses": 4,
+      "firstMissingSuccesses": 5,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [

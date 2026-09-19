@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T07:52:56.057785+00:00",
-  "catalogVersion": "2026.09.09.0729",
-  "jobCount": 988,
-  "sourceCount": 16,
+  "generatedAt": "2026-09-19T10:58:50.189858+00:00",
+  "catalogVersion": "2026.09.19.1057",
+  "jobCount": 1045,
+  "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
   "linkChecksPerformed": true,
@@ -13,14 +13,14 @@
       "jobCount": 86,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 59,
+      "unknownCohortCount": 13,
       "unknownBatchCount": 81,
       "samples": [
         {
           "jobId": "anker:7678288562307336458",
-          "title": "Regional Sales Manager - UK",
+          "title": "Regional Sales Specialist - UK",
           "companyName": "安克创新",
-          "cohort": "未知",
+          "cohort": "2027",
           "batch": "未知",
           "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7678288562307336458/detail",
           "domainValid": true,
@@ -30,7 +30,7 @@
           "jobId": "anker:7678256668485404955",
           "title": "Brand Communications Specialist - Argentina",
           "companyName": "安克创新",
-          "cohort": "未知",
+          "cohort": "2027",
           "batch": "未知",
           "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7678256668485404955/detail",
           "domainValid": true,
@@ -160,29 +160,29 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 415,
+      "jobCount": 440,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 410,
+      "unknownBatchCount": 434,
       "samples": [
         {
-          "jobId": "bytedance:7683420356470720773",
-          "title": "模型数据运营（研判） - TikTok",
+          "jobId": "bytedance:7686449876511279413",
+          "title": "标准知识库运营 - 抖音社区治理",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7683420356470720773/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7686449876511279413/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "bytedance:7668520016222603525",
-          "title": "国际物流经营分析产品经理 - TikTok Shop",
+          "jobId": "bytedance:7668544733795780917",
+          "title": "搜索产品经理 - TikTok Shop",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7668520016222603525/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7668544733795780917/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -243,7 +243,7 @@
       "jobCount": 80,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 1,
+      "unknownCohortCount": 3,
       "unknownBatchCount": 41,
       "samples": [
         {
@@ -320,12 +320,22 @@
     },
     {
       "sourceId": "lilith-campus",
-      "jobCount": 1,
-      "sampleCount": 1,
+      "jobCount": 2,
+      "sampleCount": 2,
       "meetsThreeSampleTarget": false,
       "unknownCohortCount": 0,
       "unknownBatchCount": 0,
       "samples": [
+        {
+          "jobId": "lilith:7685305468067023167",
+          "title": "【2027秋招】系统策划（AFK）",
+          "companyName": "莉莉丝",
+          "cohort": "2027",
+          "batch": "秋招正式批",
+          "applyUrl": "https://lilithgames.jobs.feishu.cn/campus/position/7685305468067023167/detail",
+          "domainValid": true,
+          "httpStatus": 200
+        },
         {
           "jobId": "lilith:7660794310065457451",
           "title": "【2027秋招】全球发行策略管培生",
@@ -340,12 +350,22 @@
     },
     {
       "sourceId": "meihua-campus",
-      "jobCount": 1,
-      "sampleCount": 1,
+      "jobCount": 2,
+      "sampleCount": 2,
       "meetsThreeSampleTarget": false,
-      "unknownCohortCount": 0,
-      "unknownBatchCount": 0,
+      "unknownCohortCount": 1,
+      "unknownBatchCount": 1,
       "samples": [
+        {
+          "jobId": "meihua:7685927866488457526",
+          "title": "外贸销售经理",
+          "companyName": "梅花生物",
+          "cohort": "未知",
+          "batch": "未知",
+          "applyUrl": "https://j8fq0c3gg7.jobs.feishu.cn/905946/position/7685927866488457526/detail",
+          "domainValid": true,
+          "httpStatus": 200
+        },
         {
           "jobId": "meihua:7673020318063495462",
           "title": "梅花集团-2027届致远计划管培生",
@@ -360,29 +380,29 @@
     },
     {
       "sourceId": "nio-campus",
-      "jobCount": 72,
+      "jobCount": 73,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 71,
+      "unknownBatchCount": 72,
       "samples": [
         {
-          "jobId": "nio:7683114755917842734",
-          "title": "校招-悦享出行收益管理专员",
+          "jobId": "nio:7683874573008095524",
+          "title": "校招-数据运营",
           "companyName": "蔚来",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7683114755917842734/detail",
+          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7683874573008095524/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "nio:7673027351077620018",
-          "title": "校招-市场活动运营专员",
+          "jobId": "nio:7673026817335363890",
+          "title": "校招-总装运营管理（生产主管）（MF2）",
           "companyName": "蔚来",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7673027351077620018/detail",
+          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7673026817335363890/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -429,30 +449,70 @@
       ]
     },
     {
-      "sourceId": "syoung-campus",
-      "jobCount": 10,
+      "sourceId": "robinhood-early-career",
+      "jobCount": 11,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 9,
+      "unknownBatchCount": 11,
       "samples": [
         {
-          "jobId": "syoung:7677421421694339391",
-          "title": "运营专员(线下)-2027届远洋校招",
-          "companyName": "水羊股份",
+          "jobId": "robinhood:8198262",
+          "title": "Special Projects Intern (Summer 2027)",
+          "companyName": "Robinhood",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://syounggroup.jobs.feishu.cn/campus/position/7677421421694339391/detail",
+          "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "syoung:7676358468434217279",
-          "title": "媒介策划-2027届远洋校招",
+          "jobId": "robinhood:8193710",
+          "title": "Crypto Partnership Intern (Summer 2027)",
+          "companyName": "Robinhood",
+          "cohort": "2027",
+          "batch": "未知",
+          "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710",
+          "domainValid": true,
+          "httpStatus": 200
+        },
+        {
+          "jobId": "robinhood:8198153",
+          "title": "Accounting Intern (Summer 2027)",
+          "companyName": "Robinhood",
+          "cohort": "2027",
+          "batch": "未知",
+          "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+          "domainValid": true,
+          "httpStatus": 200
+        }
+      ]
+    },
+    {
+      "sourceId": "syoung-campus",
+      "jobCount": 16,
+      "sampleCount": 3,
+      "meetsThreeSampleTarget": true,
+      "unknownCohortCount": 5,
+      "unknownBatchCount": 15,
+      "samples": [
+        {
+          "jobId": "syoung:7685270922007791891",
+          "title": "直播商务-2027届银河校招",
           "companyName": "水羊股份",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://syounggroup.jobs.feishu.cn/campus/position/7676358468434217279/detail",
+          "applyUrl": "https://syounggroup.jobs.feishu.cn/campus/position/7685270922007791891/detail",
+          "domainValid": true,
+          "httpStatus": 200
+        },
+        {
+          "jobId": "syoung:7676359223421700361",
+          "title": "证券事务专员-2027届远洋校招",
+          "companyName": "水羊股份",
+          "cohort": "2027",
+          "batch": "未知",
+          "applyUrl": "https://syounggroup.jobs.feishu.cn/campus/position/7676359223421700361/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -470,11 +530,11 @@
     },
     {
       "sourceId": "tencent-campus",
-      "jobCount": 24,
+      "jobCount": 27,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 24,
-      "unknownBatchCount": 24,
+      "unknownCohortCount": 27,
+      "unknownBatchCount": 27,
       "samples": [
         {
           "jobId": "tencent:2087016233965895680",
@@ -510,29 +570,29 @@
     },
     {
       "sourceId": "thundersoft-campus",
-      "jobCount": 12,
+      "jobCount": 13,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 6,
-      "unknownBatchCount": 8,
+      "unknownCohortCount": 7,
+      "unknownBatchCount": 9,
       "samples": [
         {
-          "jobId": "thundersoft:7681886755960703268",
-          "title": "智能汽车-项目专员-视觉产品中心",
+          "jobId": "thundersoft:7684097483668965638",
+          "title": "智能汽车-采购专员-苏州",
           "companyName": "中科创达",
-          "cohort": "2027",
+          "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7681886755960703268/detail",
+          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7684097483668965638/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "thundersoft:7548781402419923254",
-          "title": "招聘实习生（可转正）",
+          "jobId": "thundersoft:7618881787998144774",
+          "title": "管培生（小语种支持方向）",
           "companyName": "中科创达",
-          "cohort": "2027",
-          "batch": "未知",
-          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7548781402419923254/detail",
+          "cohort": "未知",
+          "batch": "管培生/专项计划",
+          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7618881787998144774/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -550,29 +610,29 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 148,
+      "jobCount": 156,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 147,
+      "unknownBatchCount": 155,
       "samples": [
         {
-          "jobId": "xpeng:7682993651451332910",
-          "title": "【27届校招】智造专业培训生（肇庆账务方向）",
+          "jobId": "xpeng:7686827181435324691",
+          "title": "【27届校招】金融培训生（培训方向）",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7682993651451332910/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7686827181435324691/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "xpeng:7663476510305224996",
-          "title": "【27届校招】渠道运营培训生",
+          "jobId": "xpeng:7663476510305569060",
+          "title": "【27届校招】私域运营培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7663476510305224996/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7663476510305569060/detail",
           "domainValid": true,
           "httpStatus": 200
         },
