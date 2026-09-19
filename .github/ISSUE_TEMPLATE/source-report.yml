@@ -1,0 +1,23 @@
+name: 来源纠错或移除
+description: 报告岗位来源、届别、链接或企业信息问题
+title: "[来源纠错] "
+labels: ["data-quality"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请不要在 Issue 中填写简历、手机号、Cookie、Token、内推码或其他个人投递信息。
+  - type: input
+    id: job-url
+    attributes:
+      label: 官方岗位链接
+      description: 只填写企业官方岗位或 ATS 链接。
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题说明
+      description: 请说明错误字段、页面变化或移除原因，并附访问日期。
+    validations:
+      required: true

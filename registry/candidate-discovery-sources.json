@@ -1,0 +1,63 @@
+[
+  {
+    "id": "sse-listed",
+    "name": "上海证券交易所上市公司名录",
+    "url": "https://www.sse.com.cn/assortment/stock/list/share/",
+    "apiUrl": "https://query.sse.com.cn/commonQuery.do",
+    "method": "POST",
+    "params": {
+      "STOCK_TYPE": "1",
+      "COMPANY_STATUS": "2,4,5,7,8",
+      "sqlId": "COMMON_SSE_CP_GPJCTPZ_GPLB_GP_L",
+      "type": "inParams",
+      "isPagination": "true",
+      "pageHelp.cacheSize": "1",
+      "pageHelp.beginPage": "1",
+      "pageHelp.pageSize": "100",
+      "pageHelp.pageNo": "1"
+    },
+    "maxPages": 50,
+    "scope": "A股上市公司",
+    "cadence": "weekly",
+    "mode": "discovery_only",
+    "requiresReview": true
+  },
+  {
+    "id": "szse-listed",
+    "name": "深圳证券交易所上市公司名录",
+    "url": "https://www.szse.cn/market/stock/company/",
+    "scope": "A股上市公司",
+    "cadence": "weekly",
+    "mode": "discovery_only",
+    "requiresReview": true
+  },
+  {
+    "id": "bse-listed",
+    "name": "北京证券交易所上市公司名录",
+    "url": "https://www.bse.cn/nq/listedcompany.html",
+    "scope": "北交所上市公司",
+    "cadence": "weekly",
+    "mode": "discovery_only",
+    "requiresReview": true
+  },
+  {
+    "id": "hkex-listed",
+    "name": "香港交易所证券名单",
+    "url": "https://www.hkex.com.hk/services/trading/securities/securities-lists?sc_lang=en",
+    "scope": "港股上市公司",
+    "cadence": "weekly",
+    "mode": "discovery_only",
+    "requiresReview": true
+  },
+  {
+    "id": "sasac-central-soes",
+    "name": "国务院国资委中央企业名录",
+    "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
+    "scope": "中央企业",
+    "cadence": "weekly",
+    "mode": "discovery_only",
+    "parser": "sasac_two_column",
+    "expectedCount": 99,
+    "requiresReview": true
+  }
+]

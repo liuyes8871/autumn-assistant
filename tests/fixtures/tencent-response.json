@@ -1,0 +1,16 @@
+{
+  "Data": {
+    "Count": 1,
+    "Posts": [
+      {
+        "PostId": 10001,
+        "RecruitPostName": "校园运营策划（武汉）",
+        "LocationName": "武汉",
+        "CategoryName": "市场与运营",
+        "Responsibility": "参与用户运营与活动策划。",
+        "Requirement": "面向应届毕业生，具备沟通和数据分析能力。",
+        "PostURL": "https://careers.tencent.com/job-detail/10001"
+      }
+    ]
+  }
+}

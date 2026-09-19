@@ -1,0 +1,48 @@
+name: Discover newly opened official campus sources
+
+on:
+  schedule:
+    # Discovery is intentionally separate from the five-hour job refresh. It
+    # refreshes the auditable backlog daily; it never promotes a source or
+    # publishes an unreviewed job snapshot.
+    - cron: "41 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: open-source-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    # The discovery pass inspects every TARGET landing page.  Requests are
+    # bounded across domains but serial within a vendor, so a ten-minute cap
+    # could silently truncate the 214-source backlog during a slow ATS window.
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Refresh discovery-only coverage reports
+        run: |
+          python -m collector.discovery --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --check-authorities --check-candidate-sources --discover-target-sources --output artifacts/source-coverage.json
+          python -m collector.candidate_sync --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --output artifacts/company-candidate-backlog.json
+          python -m collector.company_discovery --companies registry/companies.json --focus registry/internet-focus.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --probe-career-entries --entry-state collector/company-directory-state.json --output artifacts/company-entry-discovery.json
+          # Publish only the lightweight current-cohort entry layer.  This
+          # does not change registry sourceStatus or run any job adapter.
+          python -m collector.directory_cli --companies registry/companies.json --sources registry/sources.json --data apps/web/public/data --entry-state collector/company-directory-state.json
+          python -m collector.authority_index --companies registry/companies.json --authority registry/internet-authority-top100.json --output artifacts/internet-authority-import.json
+          python -m collector.hiring_radar --companies registry/companies.json --seed registry/hiring-radar-seed.json --output artifacts/hiring-radar-import.json
+      - name: Run collector tests
+        run: python -m pytest tests
+      - name: Commit reports without promoting sources
+        run: |
+          git config user.name "autumn-assistant-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apps/web/public/data/companies.json apps/web/public/data/manifest.json artifacts/source-coverage.json artifacts/company-candidate-backlog.json artifacts/company-entry-discovery.json artifacts/internet-authority-import.json artifacts/hiring-radar-import.json collector/company-directory-state.json
+          git diff --cached --quiet || git commit -m "chore(discovery): refresh official source backlog"
+          git push

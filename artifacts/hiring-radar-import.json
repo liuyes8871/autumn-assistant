@@ -1,0 +1,3164 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-09T09:14:05.669649+00:00",
+  "importType": "hiring_radar_seed",
+  "source": {
+    "repository": "https://github.com/simonlin1212/Hiring-Radar",
+    "path": "parsers/companies.seed",
+    "commit": "3784ed9286e7e7c6f214e1d03e1196595b56b6a4",
+    "commitDate": "2026-09-04T08:32:27Z",
+    "license": "MIT",
+    "licenseFile": "https://github.com/simonlin1212/Hiring-Radar/blob/3784ed9286e7e7c6f214e1d03e1196595b56b6a4/LICENSE"
+  },
+  "summary": {
+    "recordCount": 157,
+    "uniqueCompanyCount": 67,
+    "matchedRegistryCompanyCount": 67,
+    "unmatchedRecordCount": 90,
+    "byAts": {
+      "feishu": 73,
+      "moka": 79,
+      "beisen": 5
+    }
+  },
+  "discoveryOnly": true,
+  "reuseBoundary": "只保留公司、ATS 类型和公开入口线索；不复制上游抓取代码，不使用 Moka AES 解密、隐藏接口、登录态或 Cookie。所有入口仍需企业官网反向确认、robots/条款和三条岗位抽查后才可升级为 VERIFIED。",
+  "promotionRule": "固定种子只用于发现公司和 ATS 入口线索；完成企业官网反向确认、robots/条款、校招识别和三条岗位抽查后，才可登记为可运行来源。",
+  "records": [
+    {
+      "key": "li",
+      "ats": "feishu",
+      "companyName": "理想汽车",
+      "entryUrl": "https://li.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "li.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "车厂",
+      "sourceLine": 11,
+      "companyId": "li-auto",
+      "matchedCompanyName": "理想汽车",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "avatr",
+      "ats": "feishu",
+      "companyName": "阿维塔",
+      "entryUrl": "https://xcn5vbnquq58.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "xcn5vbnquq58.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "车厂",
+      "sourceLine": 12,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zeron",
+      "ats": "feishu",
+      "companyName": "零一汽车",
+      "entryUrl": "https://zeron.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "zeron.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "新能源重卡",
+      "sourceLine": 13,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ecartech",
+      "ats": "feishu",
+      "companyName": "易咖智车",
+      "entryUrl": "https://ecartech.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "ecartech.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "无人物流车",
+      "sourceLine": 14,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ecarx",
+      "ats": "feishu",
+      "companyName": "亿咖通",
+      "entryUrl": "https://ecarxgroup.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "ecarxgroup.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "汽车电子",
+      "sourceLine": 15,
+      "companyId": "ecarx",
+      "matchedCompanyName": "亿咖通",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "desaysv",
+      "ats": "feishu",
+      "companyName": "德赛西威",
+      "entryUrl": "https://yesv-desaysv.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "yesv-desaysv.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "智驾Tier1",
+      "sourceLine": 16,
+      "companyId": "desay-sv",
+      "matchedCompanyName": "德赛西威",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "dcar",
+      "ats": "feishu",
+      "companyName": "懂车帝",
+      "entryUrl": "https://dcar.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "dcar.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "汽车互联网",
+      "sourceLine": 17,
+      "companyId": "dcar",
+      "matchedCompanyName": "懂车帝",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "x2robot",
+      "ats": "feishu",
+      "companyName": "自变量机器人",
+      "entryUrl": "https://x2-robot.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "x2-robot.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "具身智能",
+      "sourceLine": 19,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bjhumanoid",
+      "ats": "feishu",
+      "companyName": "北京人形机器人创新中心",
+      "entryUrl": "https://zitd5je6f7j.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "zitd5je6f7j.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "人形机器人",
+      "sourceLine": 20,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "agibot",
+      "ats": "feishu",
+      "companyName": "智元机器人",
+      "entryUrl": "https://agirobot.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "agirobot.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "人形机器人",
+      "sourceLine": 21,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "galbot",
+      "ats": "feishu",
+      "companyName": "银河通用",
+      "entryUrl": "https://owm6ymi5v9b.jobs.feishu.cn/870797/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "owm6ymi5v9b.jobs.feishu.cn/870797",
+        "path": "campus"
+      },
+      "segment": "具身智能(社招门户;校招门户在/584984)",
+      "sourceLine": 22,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "robotera",
+      "ats": "feishu",
+      "companyName": "星动纪元",
+      "entryUrl": "https://k0fqxcszc9.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "k0fqxcszc9.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "人形机器人",
+      "sourceLine": 23,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "spirit",
+      "ats": "feishu",
+      "companyName": "千寻智能",
+      "entryUrl": "https://nwd4iy9rd2s.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "nwd4iy9rd2s.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "具身智能",
+      "sourceLine": 24,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "tars",
+      "ats": "feishu",
+      "companyName": "它石智航",
+      "entryUrl": "https://tarsrobot.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "tarsrobot.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "具身智能",
+      "sourceLine": 25,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "flexiv",
+      "ats": "feishu",
+      "companyName": "非夕机器人",
+      "entryUrl": "https://flexivrobotics.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "flexivrobotics.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "机器人",
+      "sourceLine": 26,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sharpa",
+      "ats": "feishu",
+      "companyName": "Sharpa",
+      "entryUrl": "https://fcn5hvc5qbfs.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "fcn5hvc5qbfs.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "灵巧手",
+      "sourceLine": 27,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "mammotion",
+      "ats": "feishu",
+      "companyName": "库犸科技",
+      "entryUrl": "https://mammotion.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "mammotion.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "割草机器人",
+      "sourceLine": 28,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zhipu",
+      "ats": "feishu",
+      "companyName": "智谱AI",
+      "entryUrl": "https://zhipu-ai.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "zhipu-ai.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 30,
+      "companyId": "zhipu-ai",
+      "matchedCompanyName": "智谱AI",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "baichuan",
+      "ats": "feishu",
+      "companyName": "百川智能",
+      "entryUrl": "https://cq6qe6bvfr6.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "cq6qe6bvfr6.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 31,
+      "companyId": "baichuan",
+      "matchedCompanyName": "百川智能",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "minimax",
+      "ats": "feishu",
+      "companyName": "MiniMax",
+      "entryUrl": "https://vrfi1sk8a0.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "vrfi1sk8a0.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 32,
+      "companyId": "minimax",
+      "matchedCompanyName": "MiniMax",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "moonshot",
+      "ats": "feishu",
+      "companyName": "月之暗面",
+      "entryUrl": "https://moonshot.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "moonshot.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 33,
+      "companyId": "moonshot",
+      "matchedCompanyName": "月之暗面",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "modelbest",
+      "ats": "feishu",
+      "companyName": "面壁智能",
+      "entryUrl": "https://modelbest.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "modelbest.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 34,
+      "companyId": "modelbest",
+      "matchedCompanyName": "面壁智能",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "01ai",
+      "ats": "feishu",
+      "companyName": "零一万物",
+      "entryUrl": "https://01ai.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "01ai.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "大模型",
+      "sourceLine": 35,
+      "companyId": "01ai",
+      "matchedCompanyName": "零一万物",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "infinigence",
+      "ats": "feishu",
+      "companyName": "无问芯穹",
+      "entryUrl": "https://infinigence.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "infinigence.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AIInfra",
+      "sourceLine": 36,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shengshu",
+      "ats": "feishu",
+      "companyName": "生数科技",
+      "entryUrl": "https://shengshu.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "shengshu.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI视频",
+      "sourceLine": 37,
+      "companyId": "shengshu",
+      "matchedCompanyName": "生数科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "aisphere",
+      "ats": "feishu",
+      "companyName": "爱诗科技",
+      "entryUrl": "https://aisphere.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "aisphere.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI视频",
+      "sourceLine": 38,
+      "companyId": "aisphere",
+      "matchedCompanyName": "爱诗科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "gigaai",
+      "ats": "feishu",
+      "companyName": "极佳科技",
+      "entryUrl": "https://gigaai0118.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "gigaai0118.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "世界模型",
+      "sourceLine": 39,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "aibee",
+      "ats": "feishu",
+      "companyName": "爱笔智能",
+      "entryUrl": "https://aibee.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "aibee.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI",
+      "sourceLine": 40,
+      "companyId": "aibee",
+      "matchedCompanyName": "爱笔智能",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "juzibot",
+      "ats": "feishu",
+      "companyName": "句子互动",
+      "entryUrl": "https://juzihudong.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "juzihudong.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AIAgent",
+      "sourceLine": 41,
+      "companyId": "juzibot",
+      "matchedCompanyName": "句子互动",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shixiang",
+      "ats": "feishu",
+      "companyName": "拾象科技",
+      "entryUrl": "https://shixiangtech.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "shixiangtech.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI投研",
+      "sourceLine": 42,
+      "companyId": "shixiang",
+      "matchedCompanyName": "拾象科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sii",
+      "ats": "feishu",
+      "companyName": "上海创智学院",
+      "entryUrl": "https://sii-czxy.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "sii-czxy.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI科研",
+      "sourceLine": 43,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ponyai",
+      "ats": "feishu",
+      "companyName": "小马智行",
+      "entryUrl": "https://ponyai.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "ponyai.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "自动驾驶",
+      "sourceLine": 45,
+      "companyId": "pony-ai",
+      "matchedCompanyName": "小马智行",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "holomatic",
+      "ats": "feishu",
+      "companyName": "禾多科技",
+      "entryUrl": "https://holomatic.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "holomatic.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "自动驾驶",
+      "sourceLine": 46,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "neuehct",
+      "ats": "feishu",
+      "companyName": "智驾新程",
+      "entryUrl": "https://neuehct.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "neuehct.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "自动驾驶",
+      "sourceLine": 47,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "mthreads",
+      "ats": "feishu",
+      "companyName": "摩尔线程",
+      "entryUrl": "https://mthreads.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "mthreads.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "GPU",
+      "sourceLine": 49,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "houmo",
+      "ats": "feishu",
+      "companyName": "后摩智能",
+      "entryUrl": "https://houmo.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "houmo.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "存算一体",
+      "sourceLine": 50,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "brightchip",
+      "ats": "feishu",
+      "companyName": "光明之芯",
+      "entryUrl": "https://brightchip.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "brightchip.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "半导体",
+      "sourceLine": 51,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "icleague",
+      "ats": "feishu",
+      "companyName": "芯盟科技",
+      "entryUrl": "https://icleague.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "icleague.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "半导体",
+      "sourceLine": 52,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "carizon",
+      "ats": "feishu",
+      "companyName": "酷睿程",
+      "entryUrl": "https://carizon.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "carizon.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "智驾芯片",
+      "sourceLine": 53,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "hesai",
+      "ats": "feishu",
+      "companyName": "禾赛科技",
+      "entryUrl": "https://kwh0jtf778.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "kwh0jtf778.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "激光雷达",
+      "sourceLine": 54,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "wanji",
+      "ats": "feishu",
+      "companyName": "万集科技",
+      "entryUrl": "https://fpq5u8xh3h.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "fpq5u8xh3h.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "雷达V2X",
+      "sourceLine": 55,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "vast",
+      "ats": "feishu",
+      "companyName": "VAST",
+      "entryUrl": "https://a9ihi0un9c.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "a9ihi0un9c.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "AI3D",
+      "sourceLine": 56,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "anker",
+      "ats": "feishu",
+      "companyName": "安克创新",
+      "entryUrl": "https://anker-in.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "anker-in.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "消费电子",
+      "sourceLine": 58,
+      "companyId": "anker",
+      "matchedCompanyName": "安克创新",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "insta360",
+      "ats": "feishu",
+      "companyName": "影石Insta360",
+      "entryUrl": "https://arashivision.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "arashivision.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "消费电子",
+      "sourceLine": 59,
+      "companyId": "insta360",
+      "matchedCompanyName": "影石创新",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "xtool",
+      "ats": "feishu",
+      "companyName": "xTool",
+      "entryUrl": "https://xtool.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "xtool.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "激光雕刻",
+      "sourceLine": 60,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "autel",
+      "ats": "feishu",
+      "companyName": "道通智能",
+      "entryUrl": "https://iwpirwbutbu.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "iwpirwbutbu.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "无人机",
+      "sourceLine": 61,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "thundersoft",
+      "ats": "feishu",
+      "companyName": "中科创达",
+      "entryUrl": "https://thundersoft.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "thundersoft.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "智能软件",
+      "sourceLine": 62,
+      "companyId": "thundersoft",
+      "matchedCompanyName": "中科创达",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "hete",
+      "ats": "feishu",
+      "companyName": "和而泰",
+      "entryUrl": "https://salcje7shg.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "salcje7shg.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "智能控制器",
+      "sourceLine": 63,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "kengic",
+      "ats": "feishu",
+      "companyName": "科捷智能",
+      "entryUrl": "https://kengic.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "kengic.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "物流装备",
+      "sourceLine": 64,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "breo",
+      "ats": "feishu",
+      "companyName": "倍轻松",
+      "entryUrl": "https://e0cmewvq7v7.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "e0cmewvq7v7.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "智能穿戴",
+      "sourceLine": 65,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "lilith",
+      "ats": "feishu",
+      "companyName": "莉莉丝",
+      "entryUrl": "https://lilithgames.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "lilithgames.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 67,
+      "companyId": "lilith",
+      "matchedCompanyName": "莉莉丝",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "kurogame",
+      "ats": "feishu",
+      "companyName": "库洛游戏",
+      "entryUrl": "https://kurogame.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "kurogame.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 68,
+      "companyId": "kurogame",
+      "matchedCompanyName": "库洛游戏",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "moonton",
+      "ats": "feishu",
+      "companyName": "沐瞳科技",
+      "entryUrl": "https://moonton.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "moonton.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 69,
+      "companyId": "moonton",
+      "matchedCompanyName": "沐瞳科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "coconutisland",
+      "ats": "feishu",
+      "companyName": "椰岛游戏",
+      "entryUrl": "https://coconutisland.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "coconutisland.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 70,
+      "companyId": "coconutisland",
+      "matchedCompanyName": "椰岛游戏",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "boomingtech",
+      "ats": "feishu",
+      "companyName": "BoomingTech",
+      "entryUrl": "https://boomingtech.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "boomingtech.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 71,
+      "companyId": "boomingtech",
+      "matchedCompanyName": "不鸣科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "metaapp",
+      "ats": "feishu",
+      "companyName": "MetaApp",
+      "entryUrl": "https://meta.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "meta.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏平台",
+      "sourceLine": 72,
+      "companyId": "metaapp",
+      "matchedCompanyName": "MetaApp",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "xdinc",
+      "ats": "feishu",
+      "companyName": "心动网络",
+      "entryUrl": "https://xd-legacy.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "xd-legacy.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 73,
+      "companyId": "xdinc",
+      "matchedCompanyName": "心动网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "wepie",
+      "ats": "feishu",
+      "companyName": "微派网络",
+      "entryUrl": "https://wepie.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "wepie.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "游戏",
+      "sourceLine": 74,
+      "companyId": "wepie",
+      "matchedCompanyName": "微派网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "hongshan",
+      "ats": "feishu",
+      "companyName": "红杉中国",
+      "entryUrl": "https://hongshan.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "hongshan.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "投资",
+      "sourceLine": 76,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "dedao",
+      "ats": "feishu",
+      "companyName": "得到",
+      "entryUrl": "https://dedao.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "dedao.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "知识付费",
+      "sourceLine": 77,
+      "companyId": "dedao",
+      "matchedCompanyName": "得到",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "maimai",
+      "ats": "feishu",
+      "companyName": "脉脉",
+      "entryUrl": "https://maimai.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "maimai.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "互联网",
+      "sourceLine": 78,
+      "companyId": "maimai",
+      "matchedCompanyName": "脉脉",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zego",
+      "ats": "feishu",
+      "companyName": "即构科技",
+      "entryUrl": "https://zegocloud.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "zegocloud.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "RTC",
+      "sourceLine": 79,
+      "companyId": "zego",
+      "matchedCompanyName": "即构科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "blacklake",
+      "ats": "feishu",
+      "companyName": "黑湖科技",
+      "entryUrl": "https://blacklake.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "blacklake.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "工业软件",
+      "sourceLine": 80,
+      "companyId": "blacklake",
+      "matchedCompanyName": "黑湖科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "genki",
+      "ats": "feishu",
+      "companyName": "元气森林",
+      "entryUrl": "https://k11pnjpvz1.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "k11pnjpvz1.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "消费",
+      "sourceLine": 81,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ireader",
+      "ats": "feishu",
+      "companyName": "掌阅科技",
+      "entryUrl": "https://q7w8vltyes.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "q7w8vltyes.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "互联网",
+      "sourceLine": 82,
+      "companyId": "zhangyue",
+      "matchedCompanyName": "掌阅科技",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "babycare",
+      "ats": "feishu",
+      "companyName": "Babycare",
+      "entryUrl": "https://babycare.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "babycare.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "母婴",
+      "sourceLine": 83,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "leoao",
+      "ats": "feishu",
+      "companyName": "乐刻运动",
+      "entryUrl": "https://leoao-inc.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "leoao-inc.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "健身",
+      "sourceLine": 84,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "mediastorm",
+      "ats": "feishu",
+      "companyName": "影视飓风",
+      "entryUrl": "https://mediastorm.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "mediastorm.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "内容",
+      "sourceLine": 85,
+      "companyId": "mediastorm",
+      "matchedCompanyName": "影视飓风",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bluefocus",
+      "ats": "feishu",
+      "companyName": "蓝色光标",
+      "entryUrl": "https://bluefocus.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "bluefocus.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "营销",
+      "sourceLine": 86,
+      "companyId": "bluefocus",
+      "matchedCompanyName": "蓝色光标",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "cider",
+      "ats": "feishu",
+      "companyName": "Cider",
+      "entryUrl": "https://ciderglobal.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "ciderglobal.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "跨境电商",
+      "sourceLine": 87,
+      "companyId": "cider",
+      "matchedCompanyName": "Cider",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "molbreeding",
+      "ats": "feishu",
+      "companyName": "博瑞迪",
+      "entryUrl": "https://molbreeding.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "molbreeding.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "生物育种",
+      "sourceLine": 88,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bluepha",
+      "ats": "feishu",
+      "companyName": "蓝晶微生物",
+      "entryUrl": "https://bluepha.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "bluepha.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "合成生物",
+      "sourceLine": 89,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "lizhi",
+      "ats": "feishu",
+      "companyName": "荔枝",
+      "entryUrl": "https://lizhi2021.jobs.feishu.cn/",
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "host": "lizhi2021.jobs.feishu.cn",
+        "path": "campus"
+      },
+      "segment": "音频",
+      "sourceLine": 90,
+      "companyId": "lizhi",
+      "matchedCompanyName": "荔枝",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "yoka",
+      "ats": "moka",
+      "companyName": "游卡",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "yokagames",
+        "siteId": "41939"
+      },
+      "segment": "游戏",
+      "sourceLine": 94,
+      "companyId": "yoka",
+      "matchedCompanyName": "游卡网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "eyugame",
+      "ats": "moka",
+      "companyName": "鳄游",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "eyugame",
+        "siteId": "47373"
+      },
+      "segment": "游戏",
+      "sourceLine": 95,
+      "companyId": "eyugame",
+      "matchedCompanyName": "易娱网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bole",
+      "ats": "moka",
+      "companyName": "博乐科技",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "bolegames",
+        "siteId": "37642"
+      },
+      "segment": "游戏",
+      "sourceLine": 96,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "dianhun",
+      "ats": "moka",
+      "companyName": "电魂网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "dianhun",
+        "siteId": "55952"
+      },
+      "segment": "游戏",
+      "sourceLine": 97,
+      "companyId": "dianhun",
+      "matchedCompanyName": "电魂网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "pwrd",
+      "ats": "moka",
+      "companyName": "完美世界",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "pwrd",
+        "siteId": "140155"
+      },
+      "segment": "游戏",
+      "sourceLine": 98,
+      "companyId": "perfect-world",
+      "matchedCompanyName": "完美世界",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "kingnet",
+      "ats": "moka",
+      "companyName": "恺英网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "kingnet",
+        "siteId": "2247"
+      },
+      "segment": "游戏",
+      "sourceLine": 99,
+      "companyId": "kingnet",
+      "matchedCompanyName": "恺英网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shengqu",
+      "ats": "moka",
+      "companyName": "盛趣游戏",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "shengqu",
+        "siteId": "4077"
+      },
+      "segment": "游戏",
+      "sourceLine": 100,
+      "companyId": "sjhuatong",
+      "matchedCompanyName": "世纪华通",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "yoozoo",
+      "ats": "moka",
+      "companyName": "游族网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "yoozoo",
+        "siteId": "91950"
+      },
+      "segment": "游戏",
+      "sourceLine": 101,
+      "companyId": "yoozoo",
+      "matchedCompanyName": "游族网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "leyuansu",
+      "ats": "moka",
+      "companyName": "乐元素",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "leyuansu",
+        "siteId": "2358"
+      },
+      "segment": "游戏",
+      "sourceLine": 102,
+      "companyId": "leyuansu",
+      "matchedCompanyName": "乐元素",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "lovegames",
+      "ats": "moka",
+      "companyName": "乐府互娱",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "lovegames",
+        "siteId": "21946"
+      },
+      "segment": "游戏",
+      "sourceLine": 103,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "micateam",
+      "ats": "moka",
+      "companyName": "散爆网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "micateam",
+        "siteId": "142158"
+      },
+      "segment": "游戏",
+      "sourceLine": 104,
+      "companyId": "sandbox",
+      "matchedCompanyName": "散爆网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shiyue",
+      "ats": "moka",
+      "companyName": "诗悦网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "shiyuehr",
+        "siteId": "72054"
+      },
+      "segment": "游戏",
+      "sourceLine": 105,
+      "companyId": "shiyue",
+      "matchedCompanyName": "诗悦网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shangyou",
+      "ats": "moka",
+      "companyName": "尚游游戏",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "shangyou",
+        "siteId": "42165"
+      },
+      "segment": "游戏",
+      "sourceLine": 106,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "hypergryph",
+      "ats": "moka",
+      "companyName": "鹰角网络",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "hypergryph",
+        "siteId": "28713"
+      },
+      "segment": "游戏",
+      "sourceLine": 107,
+      "companyId": "hypergryph",
+      "matchedCompanyName": "鹰角网络",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ztgame",
+      "ats": "moka",
+      "companyName": "中手游",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "ztgame",
+        "siteId": "92438"
+      },
+      "segment": "游戏",
+      "sourceLine": 108,
+      "companyId": "ztgame",
+      "matchedCompanyName": "中手游",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bayer",
+      "ats": "moka",
+      "companyName": "拜耳中国",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "bayer",
+        "siteId": "148387"
+      },
+      "segment": "外企",
+      "sourceLine": 110,
+      "companyId": "bayer",
+      "matchedCompanyName": "拜耳",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ey",
+      "ats": "moka",
+      "companyName": "安永",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "ey",
+        "siteId": "102474"
+      },
+      "segment": "外企",
+      "sourceLine": 111,
+      "companyId": "ey",
+      "matchedCompanyName": "安永",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "marriott",
+      "ats": "moka",
+      "companyName": "万豪",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "marriott",
+        "siteId": "141002"
+      },
+      "segment": "外企",
+      "sourceLine": 112,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zeiss",
+      "ats": "moka",
+      "companyName": "蔡司",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zeiss",
+        "siteId": "70004"
+      },
+      "segment": "外企",
+      "sourceLine": 113,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "prada",
+      "ats": "moka",
+      "companyName": "PRADA",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "pradagroup",
+        "siteId": "151069"
+      },
+      "segment": "外企",
+      "sourceLine": 114,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "kpmg",
+      "ats": "moka",
+      "companyName": "毕马威",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "kpmg",
+        "siteId": "68240"
+      },
+      "segment": "外企",
+      "sourceLine": 115,
+      "companyId": "kpmg",
+      "matchedCompanyName": "毕马威",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "schneider",
+      "ats": "moka",
+      "companyName": "施耐德电气",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "se",
+        "siteId": "98712"
+      },
+      "segment": "外企",
+      "sourceLine": 116,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bosch",
+      "ats": "moka",
+      "companyName": "博世中国",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "bosch",
+        "siteId": "73873"
+      },
+      "segment": "外企汽车",
+      "sourceLine": 117,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "volvo",
+      "ats": "moka",
+      "companyName": "沃尔沃汽车",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "volvocars",
+        "siteId": "56034"
+      },
+      "segment": "外企汽车",
+      "sourceLine": 118,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "nestle",
+      "ats": "moka",
+      "companyName": "雀巢大中华",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "nestlezgc",
+        "siteId": "91898"
+      },
+      "segment": "外企食品",
+      "sourceLine": 119,
+      "companyId": "nestle",
+      "matchedCompanyName": "雀巢",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "carlsberg",
+      "ats": "moka",
+      "companyName": "嘉士伯",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "carlsberg",
+        "siteId": "37541"
+      },
+      "segment": "外企食品",
+      "sourceLine": 120,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "garena",
+      "ats": "moka",
+      "companyName": "Garena",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "garena",
+        "siteId": "147001"
+      },
+      "segment": "外企游戏",
+      "sourceLine": 121,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "bigo",
+      "ats": "moka",
+      "companyName": "BIGO",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "bigo",
+        "siteId": "37723"
+      },
+      "segment": "外企互联网",
+      "sourceLine": 122,
+      "companyId": "bigo",
+      "matchedCompanyName": "BIGO",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shopee",
+      "ats": "moka",
+      "companyName": "Shopee",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "shopee",
+        "siteId": "2962"
+      },
+      "segment": "外企电商",
+      "sourceLine": 123,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "shein",
+      "ats": "moka",
+      "companyName": "SHEIN希音",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "shein",
+        "siteId": "2933"
+      },
+      "segment": "外企电商",
+      "sourceLine": 124,
+      "companyId": "shein",
+      "matchedCompanyName": "SHEIN",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "oocl",
+      "ats": "moka",
+      "companyName": "东方海外",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "oocl",
+        "siteId": "44732"
+      },
+      "segment": "外企物流",
+      "sourceLine": 125,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "biren",
+      "ats": "moka",
+      "companyName": "壁仞科技",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "biren",
+        "siteId": "44726"
+      },
+      "segment": "半导体",
+      "sourceLine": 127,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "tecorigin",
+      "ats": "moka",
+      "companyName": "太初",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "tecorigin",
+        "siteId": "47401"
+      },
+      "segment": "半导体",
+      "sourceLine": 128,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "3peak",
+      "ats": "moka",
+      "companyName": "思瑞浦",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "3peakic",
+        "siteId": "67894"
+      },
+      "segment": "半导体",
+      "sourceLine": 129,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "cambricon",
+      "ats": "moka",
+      "companyName": "寒武纪",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "cambricon",
+        "siteId": "44201"
+      },
+      "segment": "半导体",
+      "sourceLine": 130,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "huahong",
+      "ats": "moka",
+      "companyName": "华虹集团",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "huahong",
+        "siteId": "70000"
+      },
+      "segment": "半导体",
+      "sourceLine": 131,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "highflyer",
+      "ats": "moka",
+      "companyName": "幻方量化",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "high-flyer",
+        "siteId": "140576"
+      },
+      "segment": "AI量化",
+      "sourceLine": 133,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "stepfun",
+      "ats": "moka",
+      "companyName": "阶跃星辰",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "step",
+        "siteId": "94904"
+      },
+      "segment": "大模型",
+      "sourceLine": 134,
+      "companyId": "stepfun",
+      "matchedCompanyName": "阶跃星辰",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "baai",
+      "ats": "moka",
+      "companyName": "智源研究院",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "baai",
+        "siteId": "42174"
+      },
+      "segment": "AI科研",
+      "sourceLine": 135,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "smartmore",
+      "ats": "moka",
+      "companyName": "思谋科技",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "smartmore",
+        "siteId": "40505"
+      },
+      "segment": "AI",
+      "sourceLine": 136,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "meshy",
+      "ats": "moka",
+      "companyName": "Meshy太极图形",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "taichi",
+        "siteId": "148086"
+      },
+      "segment": "AI",
+      "sourceLine": 137,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "dolphindb",
+      "ats": "moka",
+      "companyName": "DolphinDB",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "dolphindb",
+        "siteId": "37785"
+      },
+      "segment": "数据库",
+      "sourceLine": 138,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "threatbook",
+      "ats": "moka",
+      "companyName": "微步在线",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "threatbook",
+        "siteId": "39679"
+      },
+      "segment": "AI安全",
+      "sourceLine": 139,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "jiukun",
+      "ats": "moka",
+      "companyName": "九坤投资",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "jhlfund",
+        "siteId": "46283"
+      },
+      "segment": "量化私募",
+      "sourceLine": 140,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "lingjun",
+      "ats": "moka",
+      "companyName": "灵均投资",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "lingjuninvest",
+        "siteId": "46355"
+      },
+      "segment": "量化私募",
+      "sourceLine": 141,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sixie",
+      "ats": "moka",
+      "companyName": "思勰投资",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "sixiecapital",
+        "siteId": "42909"
+      },
+      "segment": "量化私募",
+      "sourceLine": 142,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "tianyan",
+      "ats": "moka",
+      "companyName": "天演资本",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "tianyancapital",
+        "siteId": "98901"
+      },
+      "segment": "量化私募",
+      "sourceLine": 143,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "alpha2",
+      "ats": "moka",
+      "companyName": "Alpha2Fund",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "alpha2fund",
+        "siteId": "151123"
+      },
+      "segment": "量化私募",
+      "sourceLine": 144,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "voyah",
+      "ats": "moka",
+      "companyName": "岚图汽车",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "voyah",
+        "siteId": "146292"
+      },
+      "segment": "新能源车",
+      "sourceLine": 146,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "geely",
+      "ats": "moka",
+      "companyName": "吉利",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "geely",
+        "siteId": "102042"
+      },
+      "segment": "车企",
+      "sourceLine": 147,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "qianli",
+      "ats": "moka",
+      "companyName": "千里科技",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "qianli1",
+        "siteId": "147197"
+      },
+      "segment": "智驾",
+      "sourceLine": 148,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "ninebot",
+      "ats": "moka",
+      "companyName": "九号公司",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "ninebot",
+        "siteId": "45627"
+      },
+      "segment": "出行",
+      "sourceLine": 149,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "yanfeng",
+      "ats": "moka",
+      "companyName": "延锋",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "yanfeng",
+        "siteId": "45086"
+      },
+      "segment": "汽车零部件",
+      "sourceLine": 150,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "joyson",
+      "ats": "moka",
+      "companyName": "均胜集团",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "joyson",
+        "siteId": "94310"
+      },
+      "segment": "汽车零部件",
+      "sourceLine": 151,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "hithium",
+      "ats": "moka",
+      "companyName": "海辰储能",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "hithium",
+        "siteId": "141287"
+      },
+      "segment": "储能",
+      "sourceLine": 152,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "jinko",
+      "ats": "moka",
+      "companyName": "晶科能源",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "jinkosolar",
+        "siteId": "41896"
+      },
+      "segment": "光伏",
+      "sourceLine": 153,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "envision",
+      "ats": "moka",
+      "companyName": "远景能源",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "envisiongroup",
+        "siteId": "43123"
+      },
+      "segment": "新能源",
+      "sourceLine": 154,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "solax",
+      "ats": "moka",
+      "companyName": "艾罗能源",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "solaxpower",
+        "siteId": "151400"
+      },
+      "segment": "光伏储能",
+      "sourceLine": 155,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "trina",
+      "ats": "moka",
+      "companyName": "天合光能",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "trinasolar",
+        "siteId": "39871"
+      },
+      "segment": "光伏",
+      "sourceLine": 156,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sanhua",
+      "ats": "moka",
+      "companyName": "三花智控",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zjshc",
+        "siteId": "56208"
+      },
+      "segment": "汽零",
+      "sourceLine": 157,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "synland",
+      "ats": "moka",
+      "companyName": "时代新安",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "synland",
+        "siteId": "58041"
+      },
+      "segment": "电池",
+      "sourceLine": 158,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "saj",
+      "ats": "moka",
+      "companyName": "赛智SAJ",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "saj",
+        "siteId": "54336"
+      },
+      "segment": "电气",
+      "sourceLine": 159,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "smoore",
+      "ats": "moka",
+      "companyName": "思摩尔国际",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "smoore",
+        "siteId": "126055"
+      },
+      "segment": "雾化",
+      "sourceLine": 161,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sansongshu",
+      "ats": "moka",
+      "companyName": "三只松鼠",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "3songshu",
+        "siteId": "457"
+      },
+      "segment": "食品",
+      "sourceLine": 162,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "anta",
+      "ats": "moka",
+      "companyName": "安踏",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "antahr",
+        "siteId": "142914"
+      },
+      "segment": "服饰",
+      "sourceLine": 163,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "guming",
+      "ats": "moka",
+      "companyName": "古茗",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "guming",
+        "siteId": "39377"
+      },
+      "segment": "茶饮",
+      "sourceLine": 164,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "wantai",
+      "ats": "moka",
+      "companyName": "万泰生物",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "ystwt",
+        "siteId": "97880"
+      },
+      "segment": "生物医药",
+      "sourceLine": 165,
+      "companyId": "wantai",
+      "matchedCompanyName": "万泰生物",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "gstzy",
+      "ats": "moka",
+      "companyName": "固生堂",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "gstzy",
+        "siteId": "147395"
+      },
+      "segment": "医疗",
+      "sourceLine": 166,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "didi",
+      "ats": "moka",
+      "companyName": "滴滴",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "didiglobal",
+        "siteId": "96064"
+      },
+      "segment": "互联网",
+      "sourceLine": 167,
+      "companyId": "didi",
+      "matchedCompanyName": "滴滴",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zhihu",
+      "ats": "moka",
+      "companyName": "知乎",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zhihu",
+        "siteId": "68321"
+      },
+      "segment": "互联网",
+      "sourceLine": 168,
+      "companyId": "zhihu",
+      "matchedCompanyName": "知乎",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "xunlei",
+      "ats": "moka",
+      "companyName": "迅雷",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "xunlei",
+        "siteId": "26599"
+      },
+      "segment": "互联网",
+      "sourceLine": 169,
+      "companyId": "xunlei",
+      "matchedCompanyName": "迅雷",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zuoyebang",
+      "ats": "moka",
+      "companyName": "作业帮",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zuoyebang",
+        "siteId": "41328"
+      },
+      "segment": "教育",
+      "sourceLine": 170,
+      "companyId": "zuoyebang",
+      "matchedCompanyName": "作业帮",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sina",
+      "ats": "moka",
+      "companyName": "新浪微博",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "sina",
+        "siteId": "43535"
+      },
+      "segment": "互联网",
+      "sourceLine": 171,
+      "companyId": "sina",
+      "matchedCompanyName": "新浪",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "manbang",
+      "ats": "moka",
+      "companyName": "满帮集团",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "manbang",
+        "siteId": "46269"
+      },
+      "segment": "物流",
+      "sourceLine": 172,
+      "companyId": "manbang",
+      "matchedCompanyName": "满帮",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zijin",
+      "ats": "moka",
+      "companyName": "紫金矿业",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zijinmining",
+        "siteId": "140688"
+      },
+      "segment": "矿业",
+      "sourceLine": 173,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "pg",
+      "ats": "moka",
+      "companyName": "宝洁",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "pg",
+        "siteId": "92352"
+      },
+      "segment": "快消",
+      "sourceLine": 174,
+      "companyId": "pg",
+      "matchedCompanyName": "宝洁",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "zte",
+      "ats": "moka",
+      "companyName": "中兴",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "zte",
+        "siteId": "47588"
+      },
+      "segment": "通信",
+      "sourceLine": 175,
+      "companyId": "zte",
+      "matchedCompanyName": "中兴通讯",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "eastmoney",
+      "ats": "moka",
+      "companyName": "东方财富",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "eastmoney",
+        "siteId": "57970"
+      },
+      "segment": "金融科技",
+      "sourceLine": 176,
+      "companyId": "eastmoney",
+      "matchedCompanyName": "东方财富",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "westlake",
+      "ats": "moka",
+      "companyName": "西湖大学",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "orgId": "westlake",
+        "siteId": "43525"
+      },
+      "segment": "科研",
+      "sourceLine": 177,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "dreame",
+      "ats": "beisen",
+      "companyName": "追觅",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "slug": "dreame"
+      },
+      "segment": "智能清洁/造车/机器人",
+      "sourceLine": 182,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "chery",
+      "ats": "beisen",
+      "companyName": "奇瑞汽车",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "slug": "chery"
+      },
+      "segment": "车企",
+      "sourceLine": 183,
+      "companyId": "chery",
+      "matchedCompanyName": "奇瑞汽车",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "leapmotor",
+      "ats": "beisen",
+      "companyName": "零跑汽车",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "slug": "leapmotor"
+      },
+      "segment": "新势力车企",
+      "sourceLine": 184,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "boe",
+      "ats": "beisen",
+      "companyName": "京东方",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "slug": "boe"
+      },
+      "segment": "显示面板",
+      "sourceLine": 185,
+      "companyId": "boe",
+      "matchedCompanyName": "京东方",
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "key": "sany",
+      "ats": "beisen",
+      "companyName": "三一集团",
+      "entryUrl": null,
+      "entryUrlVerified": false,
+      "entryType": "ENTRY_LEAD",
+      "atsArgs": {
+        "slug": "sany"
+      },
+      "segment": "工程机械/机器人",
+      "sourceLine": 186,
+      "companyId": null,
+      "matchedCompanyName": null,
+      "sourceStatus": "TARGET",
+      "runnable": false,
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    }
+  ]
+}

@@ -1,0 +1,5962 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.09.14.1542",
+  "jobs": [
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9329",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "销售拓展",
+      "city": "上海、北京、西安、重庆、海口、贵阳、福州、漳州、泉州、厦门、莆田、宁德、南平、龙岩、石家庄、济南、常",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "贵阳",
+          "raw": "贵阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-福州",
+          "districtCode": null,
+          "displayName": "福州",
+          "raw": "福州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "漳州",
+          "raw": "漳州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "泉州",
+          "raw": "泉州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "莆田",
+          "raw": "莆田"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宁德",
+          "raw": "宁德"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南平",
+          "raw": "南平"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "龙岩",
+          "raw": "龙岩"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "石家庄",
+          "raw": "石家庄"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "常州",
+          "raw": "常州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "淮安",
+          "raw": "淮安"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南通",
+          "raw": "南通"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-苏州",
+          "districtCode": null,
+          "displayName": "苏州",
+          "raw": "苏州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "泰州",
+          "raw": "泰州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "无锡",
+          "raw": "无锡"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乐山",
+          "raw": "乐山"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "德阳",
+          "raw": "德阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "遵义",
+          "raw": "遵义"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乌鲁木齐",
+          "raw": "乌鲁木齐"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "桂林",
+          "raw": "桂林"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "柳州",
+          "raw": "柳州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "玉林",
+          "raw": "玉林"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "梧州",
+          "raw": "梧州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "贵港",
+          "raw": "贵港"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "北海",
+          "raw": "北海"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南宁",
+          "raw": "南宁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-佛山",
+          "districtCode": null,
+          "displayName": "佛山",
+          "raw": "佛山"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "湛江",
+          "raw": "湛江"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "银川",
+          "raw": "银川"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "西宁",
+          "raw": "西宁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "吉安",
+          "raw": "吉安"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宜春",
+          "raw": "宜春"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-东莞",
+          "districtCode": null,
+          "displayName": "东莞",
+          "raw": "东莞"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "潮州",
+          "raw": "潮州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-宁波",
+          "districtCode": null,
+          "displayName": "宁波",
+          "raw": "宁波"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-南京",
+          "districtCode": null,
+          "displayName": "南京",
+          "raw": "南京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "长春",
+          "raw": "长春"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HLJ",
+          "cityCode": "HLJ-哈尔滨",
+          "districtCode": null,
+          "displayName": "哈尔滨",
+          "raw": "哈尔滨"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "太原",
+          "raw": "太原"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宜昌",
+          "raw": "宜昌"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "商丘",
+          "raw": "商丘"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "驻马店",
+          "raw": "驻马店"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "赣州",
+          "raw": "赣州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "益阳",
+          "raw": "益阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南阳",
+          "raw": "南阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "新乡",
+          "raw": "新乡"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "焦作",
+          "raw": "焦作"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "安阳",
+          "raw": "安阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "濮阳",
+          "raw": "濮阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "鹤壁",
+          "raw": "鹤壁"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "周口",
+          "raw": "周口"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "信阳",
+          "raw": "信阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "洛阳",
+          "raw": "洛阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "三门峡",
+          "raw": "三门峡"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "许昌",
+          "raw": "许昌"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "漯河",
+          "raw": "漯河"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "平顶山",
+          "raw": "平顶山"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "开封",
+          "raw": "开封"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "温州",
+          "raw": "温州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "义乌",
+          "raw": "义乌"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "嘉兴",
+          "raw": "嘉兴"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "绍兴",
+          "raw": "绍兴"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-大连",
+          "districtCode": null,
+          "displayName": "大连",
+          "raw": "大连"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "株洲",
+          "raw": "株洲"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "衡阳",
+          "raw": "衡阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "岳阳",
+          "raw": "岳阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "常德",
+          "raw": "常德"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "大专",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.负责相应业务的销售拓展工作，定期拜访客户，维护客情关系，提升客户活跃度； 2.对内跨部门协调，保证与合作伙伴的合作顺利落地； 3.对客户提供全供应链、全流程服务，针对客户上下游环节进行客户开发和维护，促进销售达成； 4.监控、分析日常商业营运达成情况，推动各部门优化作业； 5.对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议，持续改进商业运营效果。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招大专及以上学历； 2.擅长沟通，具备良好的人际关系处理能力、优秀的沟通能力以及谈判技巧，有较好的商务能力和客情开发维护能力； 3.有较强的数据敏感度，具备良好的团队协作能力，能协调各部门事项，有效解决问题； 4.具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为该行业领域领军人才。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9329",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9329",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9329",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a24f19cdb1dd28ac5510f1658430cc15e663f1e230008654933bd0118df81798",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": "2026-09-09T05:11:26.357760Z",
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9073",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "市场营销",
+      "city": "北京、沈阳、苏州、上海、武汉、广州、深圳",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-苏州",
+          "districtCode": null,
+          "displayName": "苏州",
+          "raw": "苏州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        }
+      ],
+      "roleCategory": "市场/品牌",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 根据部门业务运营规划和市场节奏，结合时事热点形成营销方案，策划相关主题活动，包括但不限于媒介投放、社群搭建与运营、团长管理与激活、用户运营、内容活动营销、品牌推广等； 2. 同总部及区域各部门保持高效沟通，筹备营销活动所需资源，按时启动并把控营销活动的整体执行进度； 3. 定期收集客户反馈，根据营销数据制作可视化报表，分析客户需求，为业务提出合理化的运营建议； 4. AI应用探索：主动运用AI工具辅助创意构思、热点分析、效果预测与数据可视化，提升营销策划创新力与执行效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销； 3. 学习能力强，善于接纳新鲜事物，适应新环境； 4. 对市场有敏锐嗅觉，对视觉创意有审美，对社会有洞察，对媒体、渠道如数家珍； 5. 有逻辑，有创意，有表达能力，善于沟通协作，能够推进落地，实现目标达成； 6. 熟练使用AI工具（如通用对话式AI、AI创意工具等）辅助方案策划与数据分析；有AIGC营销实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9073",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9073",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9073",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a81d6fdfd5e41ca25f77bd1b514aebf3bce34a5a6ab27881fdd5c49e8e625715",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9323",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "客服管理储备",
+      "city": "宿迁、成都、大同、广州、上海、武汉",
+      "locations": [
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "大同",
+          "raw": "大同"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.新锐之星是京东战略性人才招募及发展项目，希望通过1-3年时间培养出支撑京东基层业务长远发展的基石人才； 2.通过轮岗提升管理以及统筹能力，积累一线客服各类业务经验，深入理解公司客服业务环节，发现潜在问题并形成解决方案、推动落地改善； 3.负责公司客服团队的运营管理，对团队业绩交付、团队发展、文化传承负责，提升服务质量，提高客户满意度，保证良好运营质量和客户体验。",
+      "requirements": [
+        "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.专业不限，要求热爱电子商务、物流和服务行业等，具有强烈的事业心、进取心、责任心,并对生活充满正能量； 3.具备优秀的沟通协调能力,出色的解决问题的能力,善于团队合作,并能主动学习与创新； 4.乐于接受挑战,善于适应快速变化的环境,具备优秀的抗压能力,较强的吃苦耐劳精神； 5.具备持续学习的热情，能够积极主动的思考解决问题，善于总结学习所得，不断优化流程。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9323",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9323",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9323",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "d104673c0b3ed14a02f6b8342f95340e413925c9335188ac201f690b32415745",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9128",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "客服运营",
+      "city": "成都、北京、大同、宿迁、武汉",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "大同",
+          "raw": "大同"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、服务资源统筹：参与客服中心服务资源的统筹与管控，协助人力预估、排班优化与现场运营监控，实现服务流量与资源匹配，保障KPI达成与业务平稳运行； 2、服务质量监控：监控人效、产能、响应时长、满意度等运营数据，对异常情况实时追踪与预警，输出诊断报告，提出资源与流程优化建议； 3、体验改善与流程优化：分析客户需求与高频客诉痛点，制定体验改善策略，联动业务部门推动服务流程与系统优化，提升客户满意度与忠诚度； 4、客诉与风险管理：监控客户VOC与舆情动态，识别潜在风险并启动预警，协助处理紧急客诉与突发风险事件，推动问题溯源整改，降低业务风险； 5、AI应用探索：主动运用AI工具辅助运营数据分析、流程诊断与改善方案设计，提升服务运营效率与质量。",
+      "requirements": [
+        "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、熟练使用Excel、PPT等办公软件，具备一定的数据分析能力和报告撰写能力； 3、热爱互联网行业并愿意长期深耕，具有强烈的事业心、进取心、责任心，对工作充满激情； 4、具备良好的逻辑思维与客户洞察力，对服务体验有敏感度，善于发现和解决问题； 5、有很强的沟通协调能力、学习能力和推进能力，有很好的责任心和抗压能力； 6、了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析与流程优化；有利用AI工具提升运营效率的经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-28",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9128",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9128",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9128",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a4cd9a2264b6cf584b3a97ed14f1b36a436cb719569a9b60914e200c82aa1fb9",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9107",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "物流运营",
+      "city": "重庆、济南、成都、德州、广州、长沙、北京、西安、沈阳、武汉、南昌、固安县、青岛、南宁、东莞、石家庄、",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "德州",
+          "raw": "德州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "固安县",
+          "raw": "固安县"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-青岛",
+          "districtCode": null,
+          "displayName": "青岛",
+          "raw": "青岛"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南宁",
+          "raw": "南宁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-东莞",
+          "districtCode": null,
+          "displayName": "东莞",
+          "raw": "东莞"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "石家庄",
+          "raw": "石家庄"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "鹿泉区",
+          "raw": "鹿泉区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乌鲁木齐",
+          "raw": "乌鲁木齐"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "昆山",
+          "raw": "昆山"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": "SH-嘉定区",
+          "displayName": "上海 · 嘉定区",
+          "raw": "嘉定区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "广阳区",
+          "raw": "广阳区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "太原",
+          "raw": "太原"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "镇江",
+          "raw": "镇江"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "廊坊",
+          "raw": "廊坊"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HLJ",
+          "cityCode": "HLJ-哈尔滨",
+          "districtCode": null,
+          "displayName": "哈尔滨",
+          "raw": "哈尔滨"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "澄迈县",
+          "raw": "澄迈县"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "贵阳",
+          "raw": "贵阳"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 系统参与京东物流仓储供应链、快递快运、运力等业务条线的业务流程，包括但不限于：仓储运营、配送运营、冷链运营、保税仓、服装运营、医药运营、指挥调度、流程设计、流程优化等方向工作； 2. 参与京东物流相关业务条线的经营管理工作，包括但不限于：成本收入管理、质量改善、能力提升等方向工作； 3. 深入参与或负责仓储运营、快递快运业务运营相关业务模块的项目，通过实际项目管理提升个人能力与经验，继而持续推动业务改善； 4. AI应用探索：关注AI在物流运营领域的创新应用，尝试运用AI工具辅助运营数据分析、异常诊断与流程优化，提升现场运营效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助运营数据分析和流程诊断；有AI工具辅助运营改善项目的实践经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9107",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9107",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9107",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "310d10dd190f79966b5afceb9d62fccc17445f2a7fe837d9da778a0db6b11c50",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9039",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "商务拓展（金融）",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 拓展与维护国有银行、股份制银行的良好合作关系，协同产品、运营制定与上述机构在信用卡发卡和经营方面的策略并落地，达成收入指标； 2. 协同其他业务条线，推进与银行卡中心在数据产品、支付通道领域的交叉合作落地； 3. 密切关注市场动态、客户反馈和竞品信息，推动信用卡业务的竞争力提升和产品持续创新突破； 4. AI应用探索：主动运用AI工具辅助合作伙伴分析、市场调研与商务方案制定，提升商务拓展效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 具备良好的人际关系处理能力，有优秀的沟通能力以及谈判技巧； 3. 正直，勇敢，有韧性，敢创新，负责任，强落地； 4. 希望你热爱互联网，有优秀的沟通谈判能力，擅长协作； 5. 希望你学习能力强，有一定的分析能力，有逻辑，有框架； 6. 了解并能使用AI工具（如通用对话式AI）辅助商务资料整理及方案撰写；有使用AI工具提升商务工作效率的经验者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9039",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9039",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9039",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "70d29a066c385bd25b9c82248bb6f1a865fef25d63f220a20cba3e9bb51e88a4",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9222",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "采销（电商运营）",
+      "city": "北京、日本、深圳、上海、郑州、兰州、头屯河区、房山区、苏州、广州、成都、武汉、西安、佛山、宿迁、厦门",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "OVERSEAS",
+          "countryCode": "JP",
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "日本 · 日本",
+          "raw": "日本"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "头屯河区",
+          "raw": "头屯河区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "房山区",
+          "raw": "房山区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-苏州",
+          "districtCode": null,
+          "displayName": "苏州",
+          "raw": "苏州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-佛山",
+          "districtCode": null,
+          "displayName": "佛山",
+          "raw": "佛山"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-宁波",
+          "districtCode": null,
+          "displayName": "宁波",
+          "raw": "宁波"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-南京",
+          "districtCode": null,
+          "displayName": "南京",
+          "raw": "南京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "香港特别行政区",
+          "raw": "香港特别行政区"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 目标达成：负责POP类目或自营商品的销售和运营工作，制定销售计划及相应预算，达成GMV和贡献利润等核心指标； 2. 业务操盘：制定所负责品牌的操盘竞争策略，做好竞争对手的对比，争取渠道资源确保京东商品竞争力和资源获取最大化； 3. 渠道管理：对供应商进行分级管理，与现有供应商的维护好合作关系，积极引入具有潜力的新供应商； 4. 数据运营：日常运营数据监控及分析，归纳总结商家运营问题，运用平台化运营方式提出并落实解决方案；借助AI工具提升数据分析与运营决策效率； 5. 沟通谈判：负责与供应商谈判，与厂家短期建立起信任和合作，从厂家争取到产品支持、投放支持、费用支持、人力支持，最终实现销售最大化； 6. AI应用探索：主动关注AI在电商运营领域的创新应用，尝试运用AI工具优化工作流程，提升运营效率与质量。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的理解、语言表达和沟通协调能力，个人沟通能力及谈判技巧突出； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 具备生意头脑，参加/喜欢过商业营销大赛，social达人更有优势； 5. 具备良好的数据敏感度，熟练使用Excel等数据处理工具，了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助工作；有AI工具辅助完成分析报告或运营决策的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-08-07",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9222",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9222",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9222",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "febffbb0045f7245786fffc755aec4dd224ad51041c3b3d2abf3487a3aacf9fd",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9119",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "产品运营",
+      "city": "成都、北京、上海、深圳、天津、宿迁",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        }
+      ],
+      "roleCategory": "产品",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责产品规划设计，专注于某一类线上产品的运营； 2. 围绕线上产品全生命周期，通过活动策划、内容组织、数据分析、内外部资源拓展等多种运营手段，拉升产品用户增长、加大用户使用深度； 3. 提升各产品的注册量、用户访问深度、用户访问频次、用户关系对数量、发帖量等指标，实现商业价值转化； 4. AI应用探索：主动运用AI工具辅助运营数据分析、活动效果评估与用户反馈分析，提升运营决策效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对研发体系全链路有一定了解，对设计、业务有一定认知； 3. 具有优秀的逻辑思维能力、系统分析能力、突出的数据分析能力，乐于思考，并勇于尝试将思考转化为落地的执行方案； 4. 喜欢挑战，热爱价值创造，认同京东的商业理念； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据处理与运营方案撰写；有使用AI工具提升运营效果的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-24",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9119",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9119",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9119",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "00fd7e0bf0a45683c40f493fd77e915d16c929455f45c9f9e54a5612f35c9c88",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9077",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "平台运营",
+      "city": "北京、广阳区、成都、珠海",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "广阳区",
+          "raw": "广阳区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-珠海",
+          "districtCode": null,
+          "displayName": "珠海",
+          "raw": "珠海"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责平台型产品策略的制定与落地； 2. 建设并完善平台运营工具，具备整合平台资源的能力，持续优化业务流程，提升平台整体运营效率； 3. 负责部门级项目的统筹与推进，协调各部门的工作衔接与配合，整合内外部资源，为项目目标达成负责； 4. 了解市场趋势、关注行业动态，及时基于自身业务发展情况及市场变化提供策略建议及决策支持； 5. AI应用探索：主动运用AI工具辅助数据分析、市场趋势洞察与策略优化，提升平台运营决策效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商实习经验者优先； 6. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助业务分析及报告撰写；有利用AI工具提升运营策略产出效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9077",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9077",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9077",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "49564e50bd81542d10e5805b77ff23bc2131bd2fb01b747c5e1dee0ef0804534",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9096",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "产研项目管理",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "项目管理",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 按照公司项目管理流程对项目进行全生命周期项目管理,包括业务条线上的项目集管理。进行项目立项、排期、进度跟踪、质量管控、风险预警评估、结项等项目过程管理，以及对应项目管理系统的使用； 2. 为公司项目落地提供有力支持，保证决策在各部门、团队快速传递并有效执行；深入理解业务，识别组织效率/项目交付过程/研发管理等领域的问题，提供分析建议以支持决策，推进方案实施； 3. 参与项目需求优先级分析、ROI指标的论证及项目立项评审等，需要制定合理的整体项目计划、控制项目总体成本，项目结项后效果跟踪、评估； 4. AI应用探索：主动运用AI工具辅助项目进度跟踪、风险识别与数据分析，提升项目管理透明度与协同效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足项目需求的勇气和能力； 3. 优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力； 4. 极强的跨部门沟通能力、组织协调和问题解决的能力，突出的抗压能力，学习适应能力； 5. 熟练使用AI工具（如通用对话式AI）辅助项目文档整理、会议纪要与风险分析；有利用AI工具优化项目管理流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9096",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9096",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9096",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f60055c2039380adb42ab9686264addd3f2236e4fdf0d6920b91e10b711b12dd",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9105",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "物流规划与实施",
+      "city": "重庆、贵阳、昆明、北京、长沙、厦门、济南、石家庄、广州、南宁、成都、乌鲁木齐、郑州、合肥、武汉、西安",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "贵阳",
+          "raw": "贵阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "石家庄",
+          "raw": "石家庄"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南宁",
+          "raw": "南宁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乌鲁木齐",
+          "raw": "乌鲁木齐"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "太原",
+          "raw": "太原"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "长春",
+          "raw": "长春"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HLJ",
+          "cityCode": "HLJ-哈尔滨",
+          "districtCode": null,
+          "displayName": "哈尔滨",
+          "raw": "哈尔滨"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "鹿泉区",
+          "raw": "鹿泉区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "昆山",
+          "raw": "昆山"
+        }
+      ],
+      "roleCategory": "供应链/采购/物流",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 根据公司业务及战略，系统参与京东物流规划工作，包括但不限于：战略研究、全球枢纽规划、智能仓网规划、快递快运网络规划、陆铁空力规划、路由规划、时效规划、系统规划、库内设计和规划、供应链预测与计划、生鲜产地规划、产业带规划等； 2. 深入参与或负责物流规划模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 负责快递快运供应链行业模式调研、动态规划课题研究，按场景推动作业流程再造及落地； 4. 根据货量及时效要求，合理配置及整合运力资源；建立线路及运力监测体系，及时发现问题并推动改善落地； 5. AI应用探索：主动关注AI在物流规划与优化中的应用，尝试运用AI工具辅助网络仿真、需求预测与资源配置优化，提升规划科学性。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和规划建模；有AI工具辅助物流规划或优化项目经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9105",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9105",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9105",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "763b004e0ffa5641b996ee53f5a7a3e572644090e248059056af4c9ba7786a12",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9120",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "供应链规划",
+      "city": "北京、西安、海口、厦门、合肥、上海、济南",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        }
+      ],
+      "roleCategory": "供应链/采购/物流",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责商品供应链的模式研究与创新，识别提高供应链效率、效果和效能的机会，制定并应用实施供应链策略、设计方案、模型、流程以提高供应链效率； 2. 负责供应链“端到端”的运营提效，包括计划、采购、库存、仓配、质控等管理和运营工作； 3. AI应用探索：主动关注AI在供应链规划领域的创新应用，尝试运用AI工具辅助供应链建模、预测分析与流程优化，提升规划效率与决策质量。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、数据处理和解决问题能力，善于结构化思考； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 熟练应用EXCEL等办公工具，有良好的流程分析能力； 5. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和流程建模；有AI工具辅助供应链分析或优化项目经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-24",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9120",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9120",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9120",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "148e05188282241db34b9a8731c4164c3d4d4c763e28408876d7126c5c7aac66",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9213",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "物流方向",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "供应链/采购/物流",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "未知",
+      "majorTags": [],
+      "skills": [],
+      "description": "1-集训&轮岗：集训&轮岗时间为半年，集训&轮岗期间的工作地包含北京、宿迁等城市。集训期间会经历超100场培训，通过集训将会完成从学生向优秀职场人的转身。轮岗期间会在客服/物流一线深入实践，同时会在总部核心业务部门进行轮岗学习，通过轮岗学习建立对业务全流程的视角和理解； 2-定岗：公司的定岗导向是“热爱、擅长、坚定”，可自由定岗至物流前台业务岗位（对业务营收、利润和用户体验有直接贡献的部门岗位），例如物流规划类、物流运营类、物流解决方案类、物流大客户销售类、物流产品类、物流体验类等岗位，届时将结合个人志向和公司需求确认具体的部门、岗位和工作地。",
+      "requirements": [
+        "1-2026年10月1日至2027年9月30日期间毕业，统招本硕学历不限，本硕同级同薪； 2-热爱物流行业并愿意在物流行业长期深耕，拥有相应的知识储备，具有强烈的责任心、进取心、事业心，并对生活充满正能量、对工作充满激情，有志成为物流行业领军人才； 3-愿意从一线做起，有恒心，能扎实积累；具备良好的学习能力，持续优化业务流程； 4-积极拥抱AI，主动学习AI工具并在实践场景中应用提效； 5-对京东的商业模式有了解，认同京东价值观与商业价值并愿意为其长期努力； 6-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-08-04",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9213",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9213",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9213",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "436c6347db67be396f1df15ef813f91701869a4b0b6f07e1c6a5e9d80398f579",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9321",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "用工渠道拓展",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.负责一线用工保障工作，根据岗位职责范围按需保障到位； 2.负责一线用工招聘渠道的开发、运营、效能提升，对招聘渠道进行日常运营与效果分析； 3.跟进整体招聘流程，有效控制与优化人均招聘成本； 4.与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。",
+      "requirements": [
+        "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先； 2.具有良好的服务意识和团队意识； 3.具有拼搏精神，有责任心； 4.学习能力，具有较强的沟通协调能力及学习能力； 5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9321",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9321",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9321",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "d84f71fc5332553a5ec56fdbeb28d3b8f8af09cd13959ce9964a33f4b22f0d3c",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_UNRESTRICTED_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9057",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "招标采购",
+      "city": "北京、广州、成都、杭州、昆山、伦敦、上海、武汉、西安、深圳",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "昆山",
+          "raw": "昆山"
+        },
+        {
+          "scope": "OVERSEAS",
+          "countryCode": "GB",
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "英国 · 伦敦",
+          "raw": "伦敦"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        }
+      ],
+      "roleCategory": "供应链/采购/物流",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9057",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9057",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9057",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f91ec712a43194a5b6e6c96380a128f3e9d825b037d36a6c4839c1d2c7705961",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9079",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "大客户销售",
+      "city": "北京、上海、广州、成都、沈阳、长春、武汉、嘉定区、深圳、西安、南昌、杭州",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "长春",
+          "raw": "长春"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": "SH-嘉定区",
+          "displayName": "上海 · 嘉定区",
+          "raw": "嘉定区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责公司战略级客户的维稳、KPI达成，提高客户满意度； 2. 针对客户需求发掘客户潜在需求，进行二次开发，完成销售指标； 3. 对客户提供全供应链、全流程服务，针对客户上下游环节进行客户开发和维护，促进销售达成； 4. 与合作伙伴商谈合作事宜，包括但不限于合作方式、价格、流程等相关事宜； 5. AI应用探索：主动运用AI工具辅助客户画像分析、销售预测与提案撰写，提升客户开发与维护效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 具备良好的人际关系处理能力，并具备优秀的沟通能力； 3. 有高度的工作热情和良好的团队合作精神，思路清晰，乐于接受挑战； 4. 了解并能使用AI工具（如通用对话式AI）辅助客户沟通记录整理、方案构思与数据分析；有使用AI工具辅助销售工作的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9079",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9079",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9079",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "25b6dda778ab8beb5658e5adc4be97641ab50b99c585a44545150249a28f7b0b",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9355",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "家政运营",
+      "city": "北京、上海、成都、武汉、长春、济南、南京、广州、杭州、西安、深圳",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "长春",
+          "raw": "长春"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-南京",
+          "districtCode": null,
+          "displayName": "南京",
+          "raw": "南京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.服务品质运营：通过公司服务规范及要求，通过运营动作为用户提供优质保洁/清洗服务，减少物损、差评投诉，提升用户满意度，保障服务体验处于行业最优水平。 2.培训与传帮带：参与家政组织化工作落地，保质保量完成带教师/组长等传帮带和组织管理工作，通过执行总部保洁师服务SOP和培训授课规范，完成保洁师标准化课程实操带课培训，实现新人交付体验达到预期目标。 3.体验优化：跟进大区培训全流程体验，通过问卷、访谈收集学员与业务方反馈，梳理数据痛点，配合输出优化建议并跟踪整改效果。 4.数据管理：规范各城市数据上报标准，独立完成数据整理、报表及台账工作，保障总部平台数据同步准确一致。 5.知识沉淀：负责培训体验资料归档，协助搭建体验案例库，推动优秀服务经验标准化、可复制。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，专业不限，具有强烈的事业心、进取心、责任心； 2.熟练Excel、PPT等办公软件，熟练使用数据透视表及常用函数，具备基础数据可视化能力； 3.工作细心严谨，逻辑较好，对数据敏感，可独立完成数据整理、报表、台账类基础工作； 4.沟通协作良好，善于收集各方反馈，能配合推进数据收集、体验优化相关辅助工作。"
+      ],
+      "publishDate": "2026-08-22",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9355",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9355",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9355",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "db5ee388acbddd5caae2691f4d5932dcfa6e496389ac9632edd9528f34e4900d",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9068",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "用户运营",
+      "city": "北京、上海",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责制定整体用户增长策略，搭建可持续性用户成长体系，并执行落地计划； 2. 负责渠道、品牌等时间维度的拉新、复购策略，根据用户行为反馈进行数据分析，发现不同生命周期用户增长干预原因； 3. 联动研发、业务体系等资源提升用户增长； 4. 形成运营方法论，并赋能给相关品牌运营； 5. AI应用探索：主动运用AI工具辅助用户数据分析、增长策略挖掘与自动化运营，提升用户增长效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 有良好的信息收集和数据分析能力； 3. 对用户敏感度较高； 4. 了解并可使用AI工具（如通用对话式AI、智能数据分析平台等）进行用户分析及策略构思；有使用AI工具辅助用户运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9068",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9068",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9068",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "b3686490289094754e7b9463261666298c2b2fe8ae3864e78788dfbc1630620c",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9294",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "电话销售",
+      "city": "宿迁、成都",
+      "locations": [
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.与企业客户进行有效沟通，了解客户需求并制定合适的采购解决方案，完成销售业绩； 2.开发新客户，维护老客户，挖掘客户需求，整合内部资源，解决客户采购过程中的问题，提升客户满意度和粘性； 3.定期与合作客户进行沟通，建立良好的客情关系； 4.监控和分析日常客户的采购情况和数据，调整销售打法、找到销售机会。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2.擅长沟通，具备良好的人际关系处理能力、优秀的沟通能力以及谈判技巧，有较好的商务能力和客情开发维护能力； 3.有较强的数据敏感度，具备良好的团队协作能力，能协调各部门事项，有效解决问题； 4.具有强烈的事业心，进取心，责任心，并对生活充满正能量，对工作充满激情，有志成为该行业领域领军人才。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9294",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9294",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9294",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a0575a470440565927818b5570b22b746bd324fd4f64697b290af10ebc3bd34e",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9309",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "财务结算",
+      "city": "北京、广州、上海、武汉、成都、宿迁",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        }
+      ],
+      "roleCategory": "财务/审计",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "大专",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.根据公司财务制度，审核费用报销的合规性、合理性，包括合同、发票、单据附件等资料； 2.在规定时间内出具商家账单，对账、开票、回款核销； 3.编制资金报表，配合核算结账相关工作； 4.每日完成资金对账工作，对未达进行处理； 5.配合年度审计、专项审计等工作，协调并提供资金相关资料。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，专科及以上学历，财务、会计相关专业； 2.熟练使用Office等办公软件； 2.工作认真细致，责任心强；有较强的团队精神与沟通协调能力； 3.有主动服务意识，较强的成本管控意识。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9309",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9309",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9309",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "4f121207f2265d965bd2884c8252b80208b5d32d49e973a3e66b13a763778be8",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9250",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "人事运营",
+      "city": "北京、宿迁、西安、济南、沈阳、天津、上海、建邺区、南昌、武汉、长沙、昆明、重庆、成都、泉州、柳州、海",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "泉州",
+          "raw": "泉州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "柳州",
+          "raw": "柳州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-东莞",
+          "districtCode": null,
+          "displayName": "东莞",
+          "raw": "东莞"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.负责保公积金、入离职等业务的实操交付与流程梳理，明确时间节点、操作规范及交付标准，支撑从属地交付到共享集中交付的平稳过渡； 2.结合交付模式和结果，识别问题和可改善项，推进优化完善，对业务交付效率和质量负责； 3.负责深耕属地社保公积金政策，制定实操指引并做好更新维护，并提供属地业务政策咨询支持。； 4.负责属地社保供应商管理及与外部部门的对接协调； 5.负责员工人事相关业务咨询答疑。​",
+      "requirements": [
+        "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先； 2.具备基础人力知识，熟练使用 Excel 等办公软件，对社保公积金政策有初步了解，有HR相关实习经验优先；​ 3.逻辑清晰，有流程梳理与问题分析能力；沟通协调力强，责任心与抗压性好，具备团队精神与强学习力。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9250",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9250",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9250",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f148701fa0468a3853c4cae2e373c0844867a4627ec3c828696a323b29f6807d",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9298",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "门店运营",
+      "city": "上海、北京、成都、杭州、建邺区、合肥",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.负责负责线下门店的销售跟踪与日常运营管理工作，推动运营质量的提升，建立线下门店运营模式，完善各项制度标准； 2.根据各业务版块需求，执行门店运营标准，包括商品陈列、库存管理、促销活动执行等，确保门店规范运营。 3.协助门店营销活动的准备与执行，包括物料准备、现场布置、活动宣传等。 4.支持门店日常运营工作，协助解决运营中的常见问题，确保门店正常经营。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2.热爱互联网，愿意从事零售&汽车行业，具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情； 3.具备优秀的沟通协调能力，善于团队合作，有较强的执行力，关注细节； 4.善于适应快速变化的环境，具备较强承压与情绪管理能力，有韧劲； 5.爱岗敬业，诚实守信，较强的服务意识和责任心，富有热情、耐心。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9298",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9298",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9298",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "b6014807d92b087d7bbe07d1663b34c3e987b94f2ba85ced8ca9cbe250922732",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9318",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "客户运营",
+      "city": "厦门、石家庄、广州、深圳、南昌、成都、郑州、昆明、北京、上海",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "石家庄",
+          "raw": "石家庄"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.负责各类产品或服务的全周期客户运营管理，深入洞察客户需求，提供针对性的产品与服务，以提升企业客户的满意度、用款率及产品黏性； 2.牵头组织对重点客户对产品使用，产品知识，常规问题处理等运营服务层面的培训答疑，帮助客户更好地理解和使用产品； 3.通过企业微信、微信等渠道建立并维护与客户的长期合作关系，从而提升客户满意度和忠诚度； 4.收集和分析客户数据，通过了解客户行为和趋势，为业务决策提供数据支持，挖掘并转化潜在客户，促进内部产品交叉销售； 5.深入业务运营，需求挖掘和拆解，协同产品、业务、研发、财务等部门，推动运营流程不断优化与迭代，提升产品性能。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，具有客户运营服务实习经验者优先； 2.良好的学习能力，有主动学习的意愿，快速和持续学习并学以致用； 3.有较强的逻辑能力和数据分析能力，善于通过数据及业务分析发现问题并制定相应运营策略; 4.符合京东价值观：“客户为先、创新、拼搏、担当、感恩、诚信”。有良好的团队合作意识，工作积极主动，责任感及抗压力能力强，能有效推动项目完成。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9318",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9318",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9318",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "ff66ef5489ea01e01e9a2d3443462de82b681a439ffbb71abf31881e4cf22aa3",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9063",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "商家运营",
+      "city": "北京、成都",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责开放平台日常运营和管理工作，制定清晰的运营策略，有效整合各种营销资源，组织商家参与各类活动，打造良好的卖家生态； 2. 对商家进行分级管理，有针对性的对商家进行培训指导，提升运营综合实力及销售转化； 3. 定期分析销售及活动数据，准确为商家店铺进行诊断，并结合实际情况制定系统性的销售提升方案； 4. 收集市场信息和消费者反馈，及时调整品类运营策略，把握市场机会点； 5. AI应用探索：主动运用AI工具辅助商家数据分析、诊断报告生成与培训支持，提升商家运营效率与满意度。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对商业经营有浓厚兴趣，擅长思考，懂得创新； 3. 积极乐观、善于沟通，向往人际关系；有自驱力，爱折腾，看到目标就一定不放弃； 4. 有市场调研、数据分析、供应链管理等实习经验者优先； 5. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助商家数据分析与运营指导；有AI工具应用于商业分析的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9063",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9063",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9063",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "7b7a6787fb149012e4625b4d68876f6f27ec350d768b34dab02a8cd4ca90bc15",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9065",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "商务拓展",
+      "city": "北京、重庆、济南、厦门、海口、郑州、广州、南昌",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责相应业务的商务拓展，对项目结果负责，对内跨部门协调，保证与合作伙伴的合作顺利落地； 2. 负责公司某项目的商务合作； 3. 分析产品趋势、业务特征，挖掘合作的新需求点，制定新的拓展计划； 4. 客户第一，能成为客户忠实的商业伙伴，能洞悉实际需求，并充分整合内部资源，推进项目落地进而实现共赢； 5. AI应用探索：主动运用AI工具辅助行业分析、合作方案构思与谈判准备，提升商务拓展成功率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 具备良好的人际关系处理能力，有优秀的沟通能力以及谈判技巧； 3. 正直，勇敢，有韧性，敢创新，负责任，强落地； 4. 热爱互联网，有优秀的沟通谈判能力，擅长协作； 5. 学习能力强，有一定的分析能力，有逻辑，有框架； 6. 了解并能使用AI工具（如通用对话式AI）辅助市场调研、竞品分析与商务文档撰写；有利用AI工具提升商务工作效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9065",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9065",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9065",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f3c6deed8ec3165495362a335c99f1ad1490b3d250e110e4f91d731b2f66e07c",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9131",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "金融策略",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、经营分析与诊断：构建业务分析体系，监控用户增长、损益、转化率等核心指标，通过数据挖掘定位业务问题，输出优化建议并推动闭环管理； 2、策略设计与落地：基于用户画像和市场趋势，设计用户增长、营销活动、资产分发等策略，通过A/B测试与效果评估持续迭代，提升ROI与用户体验； 3、用户全生命周期运营：参与用户分层与生命周期管理策略设计，优化注册、首购、复购等关键节点转化，提升用户粘性与价值； 4、协同与合规管理：联动产品、技术、风控等部门推动项目落地，协调内外部资源；关注监管要求与业务风险，保障业务合规稳健运行； 5、AI应用探索：主动运用AI工具辅助数据分析、策略设计与效果评估，探索智能推荐、自动化分析等创新应用，提升策略运营效率。",
+      "requirements": [
+        "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、金融学、经济学、统计学、数学、计算机等相关专业背景优先； 3、具备良好的数据敏感度和逻辑分析能力，熟练应用EXCEL等办公工具，掌握SQL等数据分析工具者优先； 4、对金融业务有热情和理解，具备较强的学习能力和创新意识，能从数据中洞察业务机会； 5、具备良好的沟通协调能力，能够推动跨部门协作，有一定抗压能力和责任心； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析与策略研究；有利用AI工具开展金融分析或建模项目经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-28",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9131",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9131",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9131",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "08852fde72328bc12c2178ae5054fbcaecc212280b393070450d6b1631c3c07f",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9111",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "人力资源（专业方向）",
+      "city": "石家庄、北京、南通、杭州、广州、重庆、南昌、合肥、上海、乌鲁木齐、郑州、济南、呼和浩特、兰州、厦门、",
+      "locations": [
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "石家庄",
+          "raw": "石家庄"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南通",
+          "raw": "南通"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乌鲁木齐",
+          "raw": "乌鲁木齐"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "呼和浩特",
+          "raw": "呼和浩特"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "YN",
+          "cityCode": "YN-昆明",
+          "districtCode": null,
+          "displayName": "昆明",
+          "raw": "昆明"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南宁",
+          "raw": "南宁"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "海口",
+          "raw": "海口"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "贵阳",
+          "raw": "贵阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "太原",
+          "raw": "太原"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HLJ",
+          "cityCode": "HLJ-哈尔滨",
+          "districtCode": null,
+          "displayName": "哈尔滨",
+          "raw": "哈尔滨"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "宿迁",
+          "raw": "宿迁"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        }
+      ],
+      "roleCategory": "人力资源",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 系统参与公司人力资源某一个或几个领域的业务流程，包括但不限于：招聘、HRBP、培训、组织发展、绩效、员工关系、薪酬、企业文化等； 2. 深入参与或负责人力资源相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 与协同部门保持有效沟通，推动最新人才策略落地，为组织发展提供支持； 4. AI应用探索：主动关注AI在HR领域的应用，尝试运用AI工具辅助简历筛选、员工数据分析或培训材料制作等，提升HR工作效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 了解人力资源各模块基本工作，熟悉了解TA、HRBP、ER、C&B、OC&OD等一个或多个模块专业知识，有相关实习经验优先； 3. 学习能力强，具备良好的逻辑思维和思考力； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、数据整理与人选沟通；有使用AI工具优化HR流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9111",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9111",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9111",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f4220c85b3833692580882d477e0892ceed32b390fa649fef06741d9f98bea61",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9130",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "渠道销售",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、渠道开发与招商：开拓代理商、经销商、商家等渠道资源，开展招商谈判与合作签约，扩大区域市场覆盖率，完成渠道增长目标； 2、销售任务达成：承接并执行销售任务，制定区域销售策略与渠道激励政策，提升渠道商销售积极性与终端转化，完成既定销售目标； 3、渠道维护与赋能：制定客户沟通拜访计划，维护渠道伙伴关系，组织产品培训与销售辅导，帮助渠道商提升经营业绩，提高客户满意度与续约率； 4、数据分析与优化：监控渠道销售数据与库存动态，识别异常波动并制定调整方案，保障渠道健康度与业务收益； 5、AI应用探索：主动运用AI工具辅助渠道数据分析、客户画像与销售策略制定，提升渠道开发与维护效率。",
+      "requirements": [
+        "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、具备良好的人际关系处理能力，有优秀的沟通能力和商务谈判技巧； 3、正直，勇敢，有韧性，敢创新，负责任，强落地； 4、热爱销售工作，有高度的工作热情和良好的团队合作精神，思路清晰，乐于接受挑战，有一定抗压能力； 5、学习能力强，有一定的数据分析能力，有逻辑，有框架； 6、了解并能使用AI工具（如通用对话式AI）辅助客户分析、方案构思与数据整理；有利用AI工具辅助销售或渠道工作的经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-28",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9130",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9130",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9130",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "443294090de70a401a36800e6feb82fd4b9558fc8a3f5ea793bd9a65f5c349cb",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9129",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "营销运营",
+      "city": "北京、天津、成都、深圳、上海、广州",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、营销策略与活动执行：结合行业动态和业务目标，参与营销方案策划与活动执行，统筹内外部资源，把控活动进度与质量，达成销售、流量、用户增长等目标； 2、流量与渠道运营：负责频道、搜索、推荐等场域的流量运营，拓展站内外渠道，优化流量分配机制，提升流量承接效率与转化效果； 3、商品运营：参与商品全生命周期管理，优化货品结构与选品策略，提升商品竞争力与销售转化； 4、数据分析与优化：监控流量、用户、活动等核心指标，分析复盘并输出优化策略，提升营销活动的投资回报率（ROI）； 5、AI应用探索：主动运用AI工具辅助数据分析、活动策划与效果复盘，提升营销运营效率。",
+      "requirements": [
+        "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、市场营销、广告、商科、统计学等相关学科背景优先，热爱互联网和营销； 3、学习能力强，善于接纳新鲜事物，对市场有敏锐嗅觉，对用户有洞察； 4、具备良好的数据敏感度，熟练应用EXCEL等办公工具，能通过数据分析发现问题并输出策略； 5、有逻辑，有创意，有表达能力，善于沟通协作，能够推动跨团队资源协同，实现目标达成； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台、AI创意工具等）辅助数据分析和营销策划；有AIGC营销或数据运营实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-28",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9129",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9129",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9129",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "656467a52d508ce7b0d54614c92d4f1b2fa67ad564e65295a0a105cd72e6518d",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9127",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "服务运营",
+      "city": "上海、厦门、武汉、建邺区、沈阳、北京、西安、成都、重庆、德州、广州",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "德州",
+          "raw": "德州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、服务履约质量监控：围绕家电家居安装、充电桩服务、家庭维修、3C服务、搬家等一站式服务场景，参与下单、预约、派单、上门、完工、评价等全链路履约质量监控，通过数据分析识别服务超时、履约异常、客诉等问题，推动流程优化与运营规则完善； 2、异常管理与指标建设：围绕服务履约中的异常问题，参与流程梳理、运营指标体系建设与数据监控，推动问题发现、响应和改善闭环，提升服务交付稳定性与用户体验； 3、系统需求与项目推进：从服务运营和用户体验视角识别业务能力缺口，参与业务需求文档撰写，推动预约、派单、履约跟踪、异常处理、质检评价等系统功能优化，跟进项目进度、风险识别与上线验收； 4、直营站点运营支持：参与京东服务直营服务站点的规划、筹建与运营支持，围绕站点布局、人员配置、作业流程、服务标准、成本效率等要素，推动站点运营机制与服务标准持续优化； 5、AI应用探索：主动运用AI工具辅助数据分析、异常归因、流程诊断与需求文档撰写，探索AI在智能调度、异常预警、用户反馈分析等场景的应用，提升服务运营效率与数智化水平。",
+      "requirements": [
+        "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先； 3、熟练使用Excel、PPT等办公软件，具备基础的数据分析、问题归因和报告撰写能力，能够通过数据发现问题并提出改善思路； 4、热爱服务行业，对到家服务、家电家居服务、安装维修等领域有兴趣，愿意长期深耕服务运营管理方向； 5、具备较强的逻辑思维、流程规划和沟通协同能力，能够从用户体验、服务履约、系统能力等角度分析问题，并协同上下游推动问题解决； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析、流程诊断与需求文档撰写；有AI工具应用实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-28",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9127",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9127",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9127",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "968c097adeac856367f1f275c96590f995891378314b8fa341f9760ad63a2b57",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9122",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "金融产品经理",
+      "city": "北京、上海、天津、深圳",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "TJ",
+          "cityCode": "TJ-天津",
+          "districtCode": null,
+          "displayName": "天津",
+          "raw": "天津"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        }
+      ],
+      "roleCategory": "产品",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 市场调研和分析：研究市场的政策和动态，同业情况，提出创新的金融产品方案； 2. 金融业务需求挖掘：了解并熟悉业务场景的特点、特性，针对不同场景和客户，挖掘潜在的金融需求； 3. 金融产品设计：根据不同场景和客户需求，设计合适的金融产品； 4. 产品上线及后续优化追踪：负责公司内部各部门，推动产品的上线落地，产品上线后，持续追踪并提出优化迭代方案，作为产品损益的第一负责人； 5. AI应用探索：主动运用AI工具辅助需求分析、产品原型设计及数据追踪，提升金融产品创新与运营效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 金融学、经济学、计算机等相关专业背景最佳（不做硬性要求）； 3. 具有一定的项目管理能力和项目执行力，能够高效进行跨部门沟通和团队协作； 4. 责任心强、具备较强的创新意识、创新能力和商务沟通能力； 5. 熟练使用AI工具（如通用对话式AI）辅助竞品分析和产品方案撰写；有利用AI工具优化产品设计的兴趣与实践潜力； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-27",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9122",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9122",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9122",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "9568679427e8e1b1473351ab928965130b00b3298976ea215c4b87fbc897d2ed",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9046",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "行政",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 参与制定行政部工作发展规划、计划与预算方案； 2. 参与制定行政管理规章制度及督促、检查制度的贯彻执行； 3. 组织、协调公司年会、员工活动、市场类活动及各类会议； 4. 组织好来客接待和相关的外联工作； 5. 对职场内设备的使用、维修等情况进行管理； 6. 负责公司安保、消防管理、劳动保护以及环境建设； 7. AI应用探索：主动关注AI在行政管理领域的应用，尝试运用AI工具辅助会议管理、文档处理与行政事务自动化，提升行政服务效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力； 3. 乐观开朗，积极向上，沟通能力和抗压能力强； 4. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、日程协调与信息整理；有使用AI工具提升行政办公效率的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9046",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9046",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9046",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "b2a40730aa6c8731cd5477e6bb85361d51b24248c24b1928c3199abd55b3c9ea",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9053",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "资金管理",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责监督并管理组织内部的现金流，如现款资金，外汇交易，借贷及现金管理等； 2. 与银行和其他机构联系洽谈，拓展金融渠道； 3. 为客户提供投存管理、财务风险评估和资金运营效率等服务； 4. AI应用探索：主动关注AI在资金管理领域的应用，尝试运用AI工具辅助现金流预测、风险分析与资金报告编制，提升资金运作效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 财务管理、金融学、经济学、会计学等相关专业； 3. 熟悉会计法规和最新会计准则，了解企业财务管理相关知识、技能； 4. 熟悉有关的税收，掌握企业会计核算、财务分析的方法； 5. 熟练掌握各种办公软件、财务系统操作； 6. 具备较强的学习能力及沟通协调能力，注重团队协作，逻辑思维清晰； 7. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助资金分析及报告撰写；有利用AI工具优化资金管理流程的经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9053",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9053",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9053",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "f5a2b0ae5119aee4755e2e693e4f0d894dcfa67eaae291f365fca1cc98886d45",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9056",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "税务",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责整体税务工作，税务审核，税务申报，税务局对接，部分合同审核等工作； 2. 审核并上报相关税务报表，编写税务报告，制作税务文件； 3. 处理有关税务方面的工作，为企业的涉税业务部门提供税务方面的咨询； 4. 负责检查企业有关国家法律、法规以及公司财务税务制度的执行情况； 5. AI应用探索：主动关注AI在税务领域的应用，尝试运用AI工具辅助税收法规检索、申报数据校验与税务分析，提升税务管理精准度。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 财政税收、会计、财务管理类、法律相关专业优先； 3. 熟悉税务、会计、审计及相关法律法规，了解企业税务规划与管理知识、技能； 4. 具备良好的税务规划与管理、风险规避和整体统筹能力； 5. 富有创新精神，具备优秀的学习能力、沟通协调能力、团队合作精神； 6. 了解并能使用AI工具（如通用对话式AI、税务法规检索AI等）辅助税务信息查询与报告编写；有利用AI工具支持税务工作的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9056",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9056",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9056",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "24b3dc1d1eb1ae2e1849ac33733e307217ac628708e17b3c75bd52282bb79759",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9048",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "审计",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "财务/审计",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 协助建立健全公司风险控制体系，提升公司风险管控能力； 2. 从风险控制、降本增效及独立咨询角度、组织对物资采购及质量进行例行审计、专项审计、流程审计的具体业务开展，并对审计活动负责，发现问题解决问题，推动整改落实； 3. 完善公司内部审计，有效组织对公司内部舞弊等各类违规事件的发现，协助稽查进行调查处理； 4. AI应用探索：主动关注AI在审计领域的应用，尝试运用AI工具辅助数据分析、异常检测与审计底稿编制，提升审计效率与覆盖面。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 审计学、会计学、金融学、财务管理等相关专业； 3. 理解审计准则、掌握基本会计原理，了解企业财务管理相关知识、技能； 4. 熟悉内部控制方法论以及风险管理的基本原理； 5. 具备良好的职业素养与品德操守，原则性与责任心强，能承受较大工作压力； 6. 具备敏锐的洞察力、良好的分析判断能力与沟通协调能力； 7. 学习能力强，能够积极主动的思考、解决问题，善于总结学习所得； 8. 了解并能使用AI工具（如通用对话式AI、数据分析AI等）辅助审计抽样、测试及底稿整理；有利用AI工具提升审计效率的经历者优先； 9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9048",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9048",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9048",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "1fa69f0a1e428d408a6c08e1bd5bdda1be0447b6053ed62953a42709e8c34055",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9055",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "会计",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "财务/审计",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责日常财务核算，准确、及时地完成结账工作； 2. 公司账目的定期检查核对，按月编制财务报表及其他相关报表； 3. 财务信息化水平提升，形成提升结账时效或财务管理水平的方案； 4. 按期进行财务分析，为经营发展、运营决策提供及时、可靠的财务数据和有关建议； 5. 负责所对接板块的财务流程梳理以及财务风险管理工作，包含但不限于存货管理、固定资产管理等； 6. 按期提供内审、外审所需的会计资料，合同及供应商返利审核工作； 7. AI应用探索：主动关注AI在会计核算领域的应用，尝试运用AI工具辅助凭证处理、账务核对及报表自动化，提升核算效率与准确性。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 会计学、财务管理、金融学、经济学等相关专业； 3. 熟悉会计法规和最新会计准则，了解企业财务管理相关知识、技能； 4. 熟悉有关的税收，掌握企业会计核算、财务分析的方法； 5. 熟练掌握各种办公软件、财务系统操作； 6. 为人正直，认真严谨，积极进取，有一定抗压能力； 7. 了解并能使用AI工具（如通用对话式AI、RPA或智能财务助手等）辅助财会日常工作；有利用AI工具优化财务核算流程的经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9055",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9055",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9055",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a6fae6802de08f30bfc19041be094428ac15b043108cc660aa51ee0ac40a4cd6",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9047",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "财务经营分析",
+      "city": "北京、建邺区",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        }
+      ],
+      "roleCategory": "财务/审计",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 根据企业会计准则、财务制度进行日常费用审核和管理，财务凭证的编制、记账，编报公司财务报表； 2. 组织对接年度预算，对预算数据完成度对比跟踪并进行持续的优化； 3. 不断完善业务分析的广度和深度；及时发现经营中存在的问题并预警，为管理层业务决策提供专业支持； 4. AI应用探索：主动关注AI在财务分析领域的应用，尝试运用AI工具辅助财务报表分析、预算预测与经营预警，提升财务决策支持能力。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 财务管理、金融学、经济学、会计学等相关专业； 3. 熟悉会计法规和最新会计准则，了解企业财务管理相关知识、技能； 4. 熟悉有关的税收，掌握企业会计核算、财务分析的方法； 5. 熟练掌握各种办公软件、财务系统操作； 6. 具备较强的学习能力及沟通协调能力，注重团队协作，逻辑思维清晰； 7. 为人正直，认真严谨，积极进取，有一定抗压能力； 8. 了解并能使用AI工具（如通用对话式AI、智能财务分析平台等）辅助数据处理及分析报告撰写；有使用AI工具提升财务分析效率的经历者优先； 9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9047",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9047",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9047",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "bf91924f52be4b01d5490214d05766f82cd0954f0676553665191043c28bf3af",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9052",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "销售运营",
+      "city": "北京、武汉、西安、深圳、成都、呼和浩特、济南、沈阳、乌鲁木齐、杭州、南京、崂山区、建邺区、广州、南宁",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HB",
+          "cityCode": "HB-武汉",
+          "districtCode": null,
+          "displayName": "武汉",
+          "raw": "武汉"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SN",
+          "cityCode": "SN-西安",
+          "districtCode": null,
+          "displayName": "西安",
+          "raw": "西安"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SC",
+          "cityCode": "SC-成都",
+          "districtCode": null,
+          "displayName": "成都",
+          "raw": "成都"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "呼和浩特",
+          "raw": "呼和浩特"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SD",
+          "cityCode": "SD-济南",
+          "districtCode": null,
+          "displayName": "济南",
+          "raw": "济南"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "LN",
+          "cityCode": "LN-沈阳",
+          "districtCode": null,
+          "displayName": "沈阳",
+          "raw": "沈阳"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "乌鲁木齐",
+          "raw": "乌鲁木齐"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "ZJ",
+          "cityCode": "ZJ-杭州",
+          "districtCode": null,
+          "displayName": "杭州",
+          "raw": "杭州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-南京",
+          "districtCode": null,
+          "displayName": "南京",
+          "raw": "南京"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "崂山区",
+          "raw": "崂山区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "建邺区",
+          "raw": "建邺区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-广州",
+          "districtCode": null,
+          "displayName": "广州",
+          "raw": "广州"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "南宁",
+          "raw": "南宁"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "FJ",
+          "cityCode": "FJ-厦门",
+          "districtCode": null,
+          "displayName": "厦门",
+          "raw": "厦门"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HLJ",
+          "cityCode": "HLJ-哈尔滨",
+          "districtCode": null,
+          "displayName": "哈尔滨",
+          "raw": "哈尔滨"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": null,
+          "displayName": "上海",
+          "raw": "上海"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-苏州",
+          "districtCode": null,
+          "displayName": "苏州",
+          "raw": "苏州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "AH",
+          "cityCode": "AH-合肥",
+          "districtCode": null,
+          "displayName": "合肥",
+          "raw": "合肥"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HN",
+          "cityCode": "HN-长沙",
+          "districtCode": null,
+          "displayName": "长沙",
+          "raw": "长沙"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JX",
+          "cityCode": "JX-南昌",
+          "districtCode": null,
+          "displayName": "南昌",
+          "raw": "南昌"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "兰州",
+          "raw": "兰州"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "SH",
+          "cityCode": "SH-上海",
+          "districtCode": "SH-嘉定区",
+          "displayName": "上海 · 嘉定区",
+          "raw": "嘉定区"
+        },
+        {
+          "scope": "UNKNOWN",
+          "countryCode": null,
+          "provinceCode": null,
+          "cityCode": null,
+          "districtCode": null,
+          "displayName": "鹿泉区",
+          "raw": "鹿泉区"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "CQ",
+          "cityCode": "CQ-重庆",
+          "districtCode": null,
+          "displayName": "重庆",
+          "raw": "重庆"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 参与销售项目的全过程，协助客户经理完成商务洽谈和项目方案设计； 2. 承接并分析企业用户需求，制定相应的运营方案；保证项目顺利开展，提高运作效率，实现大项目的规范化，流程化管理，促进客户产出最大化； 3. 通过线上线下运营策略协调公司内各个部门的资源，解决客户采购中遇到的问题； 4. 定期分析客户数据，优化产品，不断提升大客户的服务质量水平、持续提升客户的满意度，使客户价值最大化； 5. 客户需求的深度挖掘和销售潜力的渗透拉升； 6. 客户关系的日常维护与加深； 7. AI应用探索：主动运用AI工具辅助销售数据分析、运营方案制定与客户分析，提升销售运营精准度。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 熟练应用EXCEL等办公工具，有良好的信息收集和数据分析能力； 3. 具备敏锐的洞察力、良好的沟通协调能力； 4. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助运营分析及方案撰写；有使用AI工具支持销售运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9052",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9052",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9052",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a116b41d97347c1638e960465b5532bf7eb3e2187da2d85d3d3c008f50b8443b",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9082",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "线下业态规划运营",
+      "city": "北京、深圳",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "GD",
+          "cityCode": "GD-深圳",
+          "districtCode": null,
+          "displayName": "深圳",
+          "raw": "深圳"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 制定线下门店的区域布局规划和业态规划，包含门店定位、店面规模、目标客群、商品组合等； 2. 建立门店营运及门店工程、装潢、陈列等一系列标准和规范，为门店的标准化营运提供指导； 3. AI应用探索：主动运用AI工具辅助市场调研、商圈分析及业态规划方案输出，提升规划科学性。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 工商管理、市场营销、建筑设计等相关专业优先； 3. 思维清晰，逻辑性强，分析问题全面、客观，善于沟通协同； 4. 了解并能使用AI工具（如通用对话式AI）辅助业态分析及方案策划；有使用AI工具辅助商业规划的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9082",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9082",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9082",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "9eff90fd3bf0655eeb0153a8d80b21a1f1f2fd14e54a3aff79b99b3b4d9a99f0",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9066",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "内容运营",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责用户内容运营工作，包括但不限于PGC、UGC、MCN合作内容、大咖牛人输出的内容； 2. 策划并输出与产品服务定位匹配的体系化、高质量原创内容，通过各维度的内容运营提升用户粘性与活跃度效果，有效支持用户运营相关业务环节的指标提升； 3. 针对优质内容进行精选、包装、专题制作及推荐，引导用户持续关注和浏览； 4. 了解实时热点、行业动向，熟悉用户行为变化并不断优化内容运营策略； 5. 发掘和维护平台内的优质内容作者，跟进并产生内容合作； 6. AI应用探索：主动运用AI内容生成工具辅助素材创作、热点捕捉与内容分发，提升内容生产效率与传播效果。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对内容媒体与渠道如数家珍，热爱互联网、新媒体行业，对CPS等有一定认知； 3. 具备较强的行业市场分析、营销、策划、推广能力； 4. 积极主动有责任心，具有主动思考和学习能力，有优秀的PPT编写能力优先；具备良好的沟通技巧和组织协调能力，细致耐心的工作态度，能够协调各方资源达成目标，富有激情和创造性； 5. 熟练使用AI工具（如通用对话式AI、AI写作助手等）辅助内容策划与生产；有AIGC相关实践经历（如AI生成图文、视频素材等）者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9066",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9066",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9066",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "d450ec0a685871ac037cff5009d29f45383af92688ef326f7e6dbc5b054a3be5",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9072",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "广告运营",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 通过了解商户广告投放的需求、目标，设计达成路径，为商户提供针对性解决方案； 2. 了解广告运营核心领域的流程与职能； 3. 负责售前、售中、售后的全链路跟进落地，对内协同多种资源达成运营目标； 4. 建立从定义问题、分析问题、解决问题的运营方法论，持续提升运营能力与效率； 5. AI应用探索：主动运用AI工具辅助广告创意分析、投放效果预测与优化，提升广告运营精准度与效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、数学、统计学等理工科、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商、媒体平台、广告公司实习经验者优先； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助广告数据分析与优化建议产出；有使用AI工具辅助广告运营的实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9072",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9072",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9072",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "8ebe91ae6d3769bddbbfc391f9b9a47621ef171462bfacd4a9a622e27b801770",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9080",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "物流产品服务",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "产品",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9080",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9080",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9080",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "cd512abf1f662d4d93b7ac1e50622651cf23cca1fbbd488fadc70d075dae742d",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9113",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "供应链运营",
+      "city": "北京、苏州",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        },
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "JS",
+          "cityCode": "JS-苏州",
+          "districtCode": null,
+          "displayName": "苏州",
+          "raw": "苏州"
+        }
+      ],
+      "roleCategory": "运营",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1. 完成各项库存指标报告的统计，如现货、周转、滞销和成本，对各项指标进行监控和预警； 2. 针对问题点进行初步的分析，提出合理的改善思路和建议协助进行采购管理及采购在途库存跟进分析及执行； 3. 协助进行供应商管理，分析供应商履约表现、提出改善方案并跟进； 4. AI应用探索：关注AI在供应链计划运营中的应用，运用AI工具辅助数据处理、指标预测与异常预警，提升运营分析效率。",
+      "requirements": [
+        "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、沟通表达能力，善于协调资源达成目标，学习能力强，能够快速掌握新的知识； 3. 熟练应用EXCEL等办公工具，有良好的流程分析、问题解决和数据处理能力，了解Python基础知识，熟悉Spyder、Jupyter等的使用； 4. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和指标监控；有AI工具辅助库存分析或运营决策的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+      ],
+      "publishDate": "2026-07-23",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9113",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9113",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9113",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "a860ed40ab94ecab923e70990e33257c20f27797f96e5f7138e04e65e6ad9ba0",
+      "status": "ACTIVE",
+      "detailShard": "36",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "jd-campus",
+      "sourceJobId": "9243",
+      "companyId": "jd",
+      "companyName": "京东",
+      "title": "商务支持",
+      "city": "成都",
+      "locations": [],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1.电话/企微/邮件多形式与客户做账单核对、催付、合同发票开具； 2.保障订单履约交付、介入并联动推进解决客户异常售后订单； 3.监控客户付款情况，做风险预警、预防并管控应收结果； 4.实时跟进财税相关政策变化，结合企业采购合作流程，帮助客户理解接受京东财务规则，梳理报销流程保障资金及时到账； 5.根据项目运营方案，在执行过程中不断发现问题并反馈至相关部门团队，输出整套商务流程，逐步实现项目结算标准化，系统话，不断优化提高客户体验。",
+      "requirements": [
+        "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2.具有较强的抗压能力及沟通协调能力，充满正能量、进取心； 3.具备以结果为导向思维、较强执行力、具有目标感； 4.善于主动发现问题，提出问题，协同解决问题；有一定经验总结能力。"
+      ],
+      "publishDate": "2026-08-17",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://campus.jd.com/#/newDetails?publishId=9243",
+      "sourceUrl": "https://campus.jd.com/#/newDetails?publishId=9243",
+      "sourceName": "京东官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://campus.jd.com/",
+        "https://campus.jd.com/",
+        "https://campus.jd.com/api/wx/position/getProjectList",
+        "https://campus.jd.com/api/wx/position/detail/9119",
+        "https://campus.jd.com/robots.txt"
+      ],
+      "isCampus": true,
+      "campaignId": "jd:2027:未知",
+      "campaignName": "2027届校园招聘",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://campus.jd.com/",
+      "id": "jd:9243",
+      "firstSeenAt": "2026-09-04T13:52:45.707729Z",
+      "lastVerifiedAt": "2026-09-04T16:57:59.585798Z",
+      "contentHash": "adfe3fc7aa6fb7e42567cad3d2f7d89d07b830716d66a920e65fa40c3efd1fbb",
+      "status": "CLOSED",
+      "detailShard": "36",
+      "firstMissingSuccesses": 12,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    }
+  ]
+}

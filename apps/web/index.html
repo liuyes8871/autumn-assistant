@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#fafaf8" />
+    <meta name="description" content="面向中国应届生的官方校招岗位库与本地投递进度助手" />
+    <link rel="icon" href="./icon-64.png" type="image/png" />
+    <title>秋招助手｜墨舟校招目录</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script id="app-module" type="module" src="/src/main.tsx"></script>
+    <script>
+      (function () {
+        // The source entry is meant for Vite, so a direct file:// open cannot
+        // execute its TypeScript module. Point local users to the bundled
+        // production build instead of leaving a blank page. The dist guard
+        // prevents the generated file from redirecting to dist/dist.
+        var isFile = window.location.protocol === "file:";
+        var isBuiltPage = /[\\/]dist[\\/]index\.html$/i.test(window.location.pathname);
+        if (!isFile || isBuiltPage) return;
+
+        // Remove the Vite-only module before the browser tries to resolve
+        // `/src/main.tsx` as a file-system-root URL. Keeping that module in
+        // the DOM is what made a direct Explorer launch look like a blank page
+        // in Chromium.
+        var sourceModule = document.getElementById("app-module");
+        if (sourceModule) sourceModule.remove();
+
+        var target = new URL("dist/index.html", document.baseURI).href;
+        var root = document.getElementById("root");
+        if (root) {
+          root.innerHTML =
+            '<div style="box-sizing:border-box;max-width:560px;margin:12vh auto;padding:32px 28px;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;line-height:1.7;color:#11130f;background:#fafaf7;border:1px solid #c9cbc4;border-top:4px solid #b5332a;border-radius:12px;box-shadow:0 16px 40px rgba(17,19,15,.12)">' +
+            '<strong style="display:block;font-size:20px;margin-bottom:8px">正在打开秋招助手</strong>' +
+            '<span style="display:block;color:#666a63">正在跳转到本地构建版本；如果没有自动打开，请点击下面的按钮。</span>' +
+            '<a href="' + target + '" style="display:inline-flex;margin-top:20px;min-height:44px;align-items:center;padding:0 18px;border-radius:10px;background:#b5332a;color:#fff;text-decoration:none;font-weight:650">打开秋招助手</a>' +
+            '<p style="margin:16px 0 0;color:#8a8f88;font-size:13px">首次打开前请先运行 <code>npm run build</code>。</p>' +
+            '</div>';
+        }
+
+        // Delay very slightly so the fallback link can paint first. This also
+        // gives file:// launches a reliable manual path when a browser blocks
+        // automatic local-file navigation.
+        window.setTimeout(function () { window.location.href = target; }, 80);
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.09.14.1542",
+  "jobs": [
+    {
+      "sourceId": "asiainfo-security-campus",
+      "sourceJobId": "7680767146033678635",
+      "companyId": "asiainfo-security",
+      "companyName": "亚信安全",
+      "title": "【27届校招】-大客户销售",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "销售/商务",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "1000–9999",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、负责所在省份运营商行业拓展与市场销售工作，制定业务策略和销售计划； 2、全面了解公司解决方案，积极、主动完成销售任务； 3、拓展新商机，增加产品销售范围，获取新产品市场； 4、管理销售活动，把控销售过程，做好预判、控制风险，确保订单进度。",
+      "requirements": [
+        "1、2027届毕业生，本科及以上学历，计算机、信息管理和市场营销相关专业，有销售实习经验优先； 2、熟悉行业状况和用户业务系统，可迅速制定针对目标客户的销售策略； 3、具有较强主动的学习能力，具备有一定的抗压能力。"
+      ],
+      "publishDate": "2026-09-02",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/position/7680767146033678635/detail",
+      "sourceUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/position/7680767146033678635/detail",
+      "sourceName": "亚信安全官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://asiainfo-sec.jobs.feishu.cn/campus/",
+        "https://www.asiainfo-sec.com/",
+        "https://www.asiainfo-sec.com/about/news/detail-7744.html"
+      ],
+      "isCampus": true,
+      "campaignId": "asiainfo-security:2027:未知",
+      "campaignName": "2027届未知",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
+      "id": "asiainfo-security:7680767146033678635",
+      "firstSeenAt": "2026-09-03T04:50:01.850347Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "959f09393a21b52bca79c0ef8adc6ef00225de00b7de64e59c64ca5030c50ce2",
+      "status": "ACTIVE",
+      "detailShard": "51",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_TARGET_MAJOR"
+      ]
+    },
+    {
+      "sourceId": "asiainfo-security-campus",
+      "sourceJobId": "7680763872403425572",
+      "companyId": "asiainfo-security",
+      "companyName": "亚信安全",
+      "title": "【27届校招】-项目管理",
+      "city": "郑州",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "HA",
+          "cityCode": "HA-郑州",
+          "districtCode": null,
+          "displayName": "郑州",
+          "raw": "郑州"
+        }
+      ],
+      "roleCategory": "项目管理",
+      "companyIndustry": "互联网与 AI",
+      "companyType": "民企",
+      "companyScale": "1000–9999",
+      "cohort": "2027",
+      "batch": "未知",
+      "education": "本科",
+      "majorTags": [],
+      "skills": [],
+      "description": "1、负责现场项目管理及交付运维工作，包括项目计划、项目验收及项目的总结评审等相关工作； 2、维持与客户的良好关系，确保项目顺利交付及验收； 3、管理系统应用部署、适配、测试、联调管理等工作； 4、负责系统实施文档编制、系统的交付及验收等工作； 5、负责现场售后服务工作，按照售后实施计划执行； 6、负责协调解决项目实施和维护过程中与研发等部门间的沟通协调； 7、完成项目经理的各项工作。",
+      "requirements": [
+        "1、本科及以上学历，计算机或信息管理相关专业，具有CISP、CISSP、PMP等认证者优先；有移动运营商项目工作经验优先； 2、优秀的沟通协调能力，分析及解决问题能力，以及整体项目的进度及风险把控能力； 3.、熟悉Radius协议原理、AAA鉴权流程、运营商宽带/专线/校园网认证计费业务逻辑，了解BRAS设备、运营商BOSS计费系统对接逻辑者优先； 4、熟练掌握Linux、数据库等操作，对于AI有一定研究者优先； 5、抗压能力强，适应加班和临时工作安排，具有良好的团队意识，可以合理分派现场工作； 6、具有较强的客户服务意识。"
+      ],
+      "publishDate": "2026-09-02",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/position/7680763872403425572/detail",
+      "sourceUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/position/7680763872403425572/detail",
+      "sourceName": "亚信安全官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://asiainfo-sec.jobs.feishu.cn/campus/",
+        "https://www.asiainfo-sec.com/",
+        "https://www.asiainfo-sec.com/about/news/detail-7744.html"
+      ],
+      "isCampus": true,
+      "campaignId": "asiainfo-security:2027:未知",
+      "campaignName": "2027届未知",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
+      "id": "asiainfo-security:7680763872403425572",
+      "firstSeenAt": "2026-09-03T04:50:01.850347Z",
+      "lastVerifiedAt": "2026-09-14T15:42:23.105404Z",
+      "contentHash": "c3caab3c499622e871a593d7f24c42b42bd0cb4acf78b9e35aa80f018f85ff56",
+      "status": "ACTIVE",
+      "detailShard": "51",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_GENERALIST_TITLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "data": {
+    "total": "3",
+    "list": [
+      {
+        "education": "本科",
+        "name": "搜索算法工程师",
+        "orgName": "百度智能云",
+        "postId": "baidu-2027-001",
+        "jobId": "baidu-2027-001",
+        "postType": "技术",
+        "publishDate": "2026-09-04",
+        "updateDate": "2026-09-04",
+        "serviceCondition": "本科及以上，计算机相关专业优先；面向 2027 届毕业生。",
+        "workContent": "参与搜索算法和机器学习相关功能的研发与优化。",
+        "workPlace": "北京市",
+        "projectType": "校招",
+        "projectTypeCode": "1",
+        "recruitType": "GRADUATE"
+      },
+      {
+        "education": "本科",
+        "name": "社会招聘高级产品经理",
+        "orgName": "百度智能云",
+        "postId": "baidu-social-001",
+        "jobId": "baidu-social-001",
+        "postType": "产品",
+        "publishDate": "2026-09-04",
+        "serviceCondition": "三年以上相关经验。",
+        "workContent": "负责产品规划。",
+        "workPlace": "北京市",
+        "projectType": "社会招聘",
+        "projectTypeCode": "2",
+        "recruitType": "EXPERIENCED"
+      }
+    ]
+  }
+}

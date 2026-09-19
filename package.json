@@ -1,0 +1,34 @@
+{
+  "name": "autumn-assistant",
+  "private": true,
+  "version": "0.1.0",
+  "description": "面向中国应届生的本地优先开源秋招助手",
+  "workspaces": ["apps/web"],
+  "scripts": {
+    "dev": "npm --workspace apps/web run dev --",
+    "build": "npm --workspace apps/web run build",
+    "test": "npm --workspace apps/web run test",
+    "test:watch": "npm --workspace apps/web run test:watch",
+    "preview": "npm --workspace apps/web run preview --",
+    "collector:test": "python -m pytest tests",
+    "collector:build": "python -m collector.cli --input collector/demo_raw.json --output apps/web/public/data",
+    "collector:live": "python -m collector.cli --sources registry/sources.json --focus registry/internet-focus.json --state collector/state.json --output apps/web/public/data --min-verified-sources 20",
+    "collector:directory": "python -m collector.directory_cli --companies registry/companies.json --sources registry/sources.json --data apps/web/public/data --entry-state collector/company-directory-state.json",
+    "collector:sources": "python -m scripts.refresh_public_sources",
+    "collector:gate": "python -m collector.release_gate --manifest apps/web/public/data/manifest.json --catalog apps/web/public/data/catalog.json --jobs-dir apps/web/public/data/jobs --companies apps/web/public/data/companies.json --min-verified-sources 20",
+    "collector:coverage": "python -m collector.discovery --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --check-authorities --discover-target-sources --output artifacts/source-coverage.json",
+    "collector:health": "python -m collector.health --sources apps/web/public/data/sources.json --state collector/state.json --output artifacts/source-health.json",
+    "collector:inbox": "python -m collector.inbox --input collector/inbox-import.json --output collector/local-inbox.json",
+    "collector:candidates": "python -m collector.candidate_sync --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --output artifacts/company-candidate-backlog.json",
+    "collector:authority": "python -m collector.authority_index --companies registry/companies.json --authority registry/internet-authority-top100.json --output artifacts/internet-authority-import.json",
+    "collector:hiring-radar": "python -m collector.hiring_radar --companies registry/companies.json --seed registry/hiring-radar-seed.json --output artifacts/hiring-radar-import.json",
+    "collector:state-owned:import": "python -m collector.state_owned --excel \"C:\\Users\\shiqili\\Desktop\\中国上市公司股权性质文件(联表查询)233542178\\EN_EquityNatureAll(Merge Query).xlsx\" --companies registry/companies.json --sasac registry/sasac-central-enterprises.json --output artifacts/state-owned-company-candidates.json",
+    "collector:state-owned:discover": "python -m collector.state_owned_discovery --excel \"C:\\Users\\shiqili\\Desktop\\中国上市公司股权性质文件(联表查询)233542178\\EN_EquityNatureAll(Merge Query).xlsx\" --companies registry/companies.json --sasac registry/sasac-central-enterprises.json --output artifacts/state-owned-source-discovery.json --batch-size 100 --max-domain-workers 8 --interval 0.5",
+    "collector:state-owned:provisional": "python -m collector.state_owned_provisional --discovery artifacts/state-owned-source-discovery.json --output artifacts/state-owned-provisional-jobs.json --web-output apps/web/public/data/provisional-jobs.json --include-review-jobs --max-workers 8 --interval 0.5",
+    "collector:audit": "python -m collector.audit --catalog apps/web/public/data/catalog.json --sources registry/sources.json --output artifacts/source-audit.json --check-links",
+    "xhs:sync": "node scripts/sync-xhs-leads.mjs"
+  },
+  "engines": {
+    "node": ">=20.19"
+  }
+}

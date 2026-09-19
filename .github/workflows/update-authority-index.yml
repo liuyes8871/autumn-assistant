@@ -1,0 +1,39 @@
+name: Audit annual internet company index
+
+on:
+  # The authority report is versioned by year.  Run near the start of each
+  # calendar year and keep a manual trigger for a newly published report.
+  schedule:
+    - cron: "17 3 15 1 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: authority-index-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate fixed authority index and discovery seeds
+        run: |
+          python -m collector.authority_index --companies registry/companies.json --authority registry/internet-authority-top100.json --output artifacts/internet-authority-import.json
+          python -m collector.hiring_radar --companies registry/companies.json --seed registry/hiring-radar-seed.json --output artifacts/hiring-radar-import.json
+          python -m collector.candidate_sync --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --output artifacts/company-candidate-backlog.json
+      - name: Run collector tests
+        run: python -m pytest tests
+      - name: Commit audit reports
+        run: |
+          git config user.name "autumn-assistant-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artifacts/internet-authority-import.json artifacts/hiring-radar-import.json artifacts/company-candidate-backlog.json
+          git diff --cached --quiet || git commit -m "chore(discovery): audit annual internet company index"
+          git push

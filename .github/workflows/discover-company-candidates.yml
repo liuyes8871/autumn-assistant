@@ -1,0 +1,41 @@
+name: Refresh company candidate backlog
+
+on:
+  schedule:
+    # Candidate discovery is a weekly planning task; it never publishes a
+    # source or changes the public job directory on its own.
+    - cron: "23 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: company-candidate-backlog
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate discovery-only backlog
+        run: |
+          python -m collector.candidate_sync --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --output artifacts/company-candidate-backlog.json
+          python -m collector.authority_index --companies registry/companies.json --authority registry/internet-authority-top100.json --output artifacts/internet-authority-import.json
+          python -m collector.hiring_radar --companies registry/companies.json --seed registry/hiring-radar-seed.json --output artifacts/hiring-radar-import.json
+      - name: Probe authoritative directories for new candidates
+        run: python -m collector.company_discovery --companies registry/companies.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --output artifacts/company-discovery.json
+      - name: Run collector tests
+        run: python -m pytest tests
+      - name: Commit backlog report
+        run: |
+          git config user.name "autumn-assistant-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add artifacts/company-candidate-backlog.json artifacts/company-discovery.json artifacts/internet-authority-import.json artifacts/hiring-radar-import.json
+          git diff --cached --quiet || git commit -m "chore(registry): refresh company candidate backlog"
+          git push

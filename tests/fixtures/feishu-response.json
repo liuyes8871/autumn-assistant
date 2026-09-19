@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "data": {
+    "count": 2,
+    "job_post_list": [
+      {
+        "id": "fs-2027-001",
+        "title": "【2027届秋招】用户运营",
+        "description": "负责校园用户活动与数据复盘。",
+        "requirement": "本科及以上，2027届毕业生。",
+        "city_list": [{"name": "武汉市"}],
+        "job_function": {"name": "运营"},
+        "recruit_type": {"id": "201", "name": "校园招聘"},
+        "publish_time": 1788278400000
+      },
+      {
+        "id": "fs-2027-002",
+        "title": "【2027届秋招】财务管理",
+        "description": "支持预算与经营分析。",
+        "requirement": "本科及以上。",
+        "city_list": [{"name": "上海市"}],
+        "job_function": {"name": "财务"},
+        "recruit_type": {"id": "201", "name": "校园招聘"},
+        "publish_time": 1788278400000
+      }
+    ]
+  }
+}

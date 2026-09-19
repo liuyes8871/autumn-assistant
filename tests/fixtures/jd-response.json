@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "body": {
+    "totalNumber": 3,
+    "items": [
+      {
+        "publishId": 9119,
+        "positionName": "产品运营",
+        "jobDirection": "产品方向",
+        "jobDirectionCode": "03",
+        "publishTime": 1784871792000,
+        "workContent": "围绕线上产品全生命周期开展运营和数据分析。",
+        "qualification": "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历。",
+        "requirementVoList": [
+          {"workCity": "北京市-北京市", "positionBg": "京东科技"},
+          {"workCity": "广东省-深圳市", "positionBg": "京东健康"}
+        ]
+      },
+      {
+        "publishId": 9120,
+        "positionName": "算法工程师",
+        "jobDirection": "技术方向",
+        "jobDirectionCode": "02",
+        "publishTime": 1784871792000,
+        "workContent": "参与推荐算法研发。",
+        "qualification": "硕士及以上，面向2027届毕业生。",
+        "requirementVoList": [{"workCity": "上海市-上海市", "positionBg": "京东科技"}]
+      }
+    ]
+  }
+}

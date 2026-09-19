@@ -1,0 +1,2788 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-09T09:14:02.777672+00:00",
+  "importType": "authority_company_index",
+  "authority": {
+    "id": "isc-internet-top100-2025",
+    "name": "2025 年中国互联网综合实力前百家企业",
+    "year": 2025,
+    "sourceUrl": "https://www.isc.org.cn/article/27460980540829696.html",
+    "pdfUrl": "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf",
+    "rowCount": 100,
+    "fixed": true
+  },
+  "merge": {
+    "authorityCompanyCount": 100,
+    "matchedRegistryCount": 81,
+    "newCandidateCount": 19,
+    "conflictCount": 4,
+    "conflicts": [
+      {
+        "rank": 88,
+        "name": "东方明珠新媒体股份有限公司",
+        "candidateCompanyIds": [
+          "opg",
+          "idreamsky"
+        ]
+      },
+      {
+        "rank": 89,
+        "name": "创梦天地科技控股有限公司",
+        "candidateCompanyIds": [
+          "idreamsky",
+          "waterdrop"
+        ]
+      },
+      {
+        "rank": 93,
+        "name": "贵州白山云科技股份有限公司",
+        "reason": "duplicate_candidate_id",
+        "candidateId": "baishan"
+      },
+      {
+        "rank": 98,
+        "name": "深圳市迅雷网络技术有限公司",
+        "reason": "duplicate_candidate_id",
+        "candidateId": "xunlei"
+      }
+    ],
+    "deduplicated": true
+  },
+  "discoveryOnly": true,
+  "promotionRule": "权威名录只创建候选记录；企业官网/官方 ATS、当前届信号、robots/条款和岗位抽查完成后，才允许登记来源或发布岗位。",
+  "candidates": [
+    {
+      "candidateId": "pdd",
+      "authorityRank": 1,
+      "name": "上海寻梦信息技术有限公司",
+      "normalizedName": "上海寻梦信息技术有限公司",
+      "aliases": [
+        "拼多多",
+        "多多买菜"
+      ],
+      "matchedCompanyId": "pdd",
+      "matchedCompanyName": "拼多多",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "拼多多",
+        "多多买菜"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "bytedance",
+      "authorityRank": 2,
+      "name": "北京抖音信息服务有限公司",
+      "normalizedName": "北京抖音信息服务有限公司",
+      "aliases": [
+        "抖音",
+        "今日头条"
+      ],
+      "matchedCompanyId": "bytedance",
+      "matchedCompanyName": "字节跳动",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "抖音",
+        "今日头条",
+        "西瓜视频"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "ant-group",
+      "authorityRank": 3,
+      "name": "蚂蚁科技集团股份有限公司",
+      "normalizedName": "蚂蚁科技集团股份有限公司",
+      "aliases": [
+        "支付宝",
+        "蚂蚁链"
+      ],
+      "matchedCompanyId": "ant-group",
+      "matchedCompanyName": "蚂蚁集团",
+      "segment": "互联网综合与数字服务",
+      "province": "浙江省",
+      "brands": [
+        "支付宝",
+        "蚂蚁链",
+        "OceanBase"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "alibaba",
+      "authorityRank": 4,
+      "name": "淘天有限公司",
+      "normalizedName": "淘天有限公司",
+      "aliases": [
+        "淘宝",
+        "天猫"
+      ],
+      "matchedCompanyId": "alibaba",
+      "matchedCompanyName": "阿里巴巴",
+      "segment": "互联网综合与数字服务",
+      "province": "浙江省",
+      "brands": [
+        "淘宝",
+        "天猫"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tencent",
+      "authorityRank": 5,
+      "name": "深圳市腾讯计算机系统有限公司",
+      "normalizedName": "深圳市腾讯计算机系统有限公司",
+      "aliases": [
+        "微信",
+        "QQ"
+      ],
+      "matchedCompanyId": "tencent",
+      "matchedCompanyName": "腾讯",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "微信",
+        "QQ",
+        "腾讯云"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "meituan",
+      "authorityRank": 6,
+      "name": "美团公司",
+      "normalizedName": "美团公司",
+      "aliases": [
+        "美团",
+        "大众点评"
+      ],
+      "matchedCompanyId": "meituan",
+      "matchedCompanyName": "美团",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "美团",
+        "大众点评"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "baidu",
+      "authorityRank": 7,
+      "name": "百度公司",
+      "normalizedName": "百度公司",
+      "aliases": [
+        "百度智能云",
+        "文心一言"
+      ],
+      "matchedCompanyId": "baidu",
+      "matchedCompanyName": "百度",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "百度智能云",
+        "文心一言"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "kuaishou",
+      "authorityRank": 8,
+      "name": "北京快手科技有限公司",
+      "normalizedName": "北京快手科技有限公司",
+      "aliases": [
+        "快手",
+        "AcFun"
+      ],
+      "matchedCompanyId": "kuaishou",
+      "matchedCompanyName": "快手",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "快手",
+        "AcFun"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "didi",
+      "authorityRank": 9,
+      "name": "滴滴全球股份有限公司",
+      "normalizedName": "滴滴全球股份有限公司",
+      "aliases": [
+        "滴滴出行"
+      ],
+      "matchedCompanyId": "didi",
+      "matchedCompanyName": "滴滴",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "滴滴出行"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "ctrip",
+      "authorityRank": 10,
+      "name": "携程集团",
+      "normalizedName": "携程集团",
+      "aliases": [
+        "携程旅行",
+        "Trip.com"
+      ],
+      "matchedCompanyId": "ctrip",
+      "matchedCompanyName": "携程",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "携程旅行",
+        "Trip.com"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "netease",
+      "authorityRank": 11,
+      "name": "网易公司",
+      "normalizedName": "网易公司",
+      "aliases": [
+        "网易邮箱",
+        "网易游戏"
+      ],
+      "matchedCompanyId": "netease",
+      "matchedCompanyName": "网易",
+      "segment": "互联网综合与数字服务",
+      "province": "浙江省",
+      "brands": [
+        "网易邮箱",
+        "网易游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "jd",
+      "authorityRank": 12,
+      "name": "京东集团股份有限公司",
+      "normalizedName": "京东集团股份有限公司",
+      "aliases": [
+        "京东",
+        "京东物流"
+      ],
+      "matchedCompanyId": "jd",
+      "matchedCompanyName": "京东",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "京东",
+        "京东物流"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tencent-music",
+      "authorityRank": 13,
+      "name": "腾讯音乐娱乐集团",
+      "normalizedName": "腾讯音乐娱乐集团",
+      "aliases": [
+        "QQ音乐",
+        "酷狗音乐"
+      ],
+      "matchedCompanyId": "tencent-music",
+      "matchedCompanyName": "腾讯音乐娱乐集团",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "QQ音乐",
+        "酷狗音乐"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "xiaomi",
+      "authorityRank": 14,
+      "name": "小米集团",
+      "normalizedName": "小米集团",
+      "aliases": [
+        "小米",
+        "REDMI"
+      ],
+      "matchedCompanyId": "xiaomi",
+      "matchedCompanyName": "小米",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "小米",
+        "REDMI"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "ke",
+      "authorityRank": 15,
+      "name": "贝壳控股有限公司",
+      "normalizedName": "贝壳控股有限公司",
+      "aliases": [
+        "贝壳找房",
+        "链家"
+      ],
+      "matchedCompanyId": "ke",
+      "matchedCompanyName": "贝壳",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "贝壳找房",
+        "链家"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "bilibili",
+      "authorityRank": 16,
+      "name": "哔哩哔哩股份有限公司",
+      "normalizedName": "哔哩哔哩股份有限公司",
+      "aliases": [
+        "哔哩哔哩"
+      ],
+      "matchedCompanyId": "bilibili",
+      "matchedCompanyName": "哔哩哔哩",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "哔哩哔哩"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "37games",
+      "authorityRank": 17,
+      "name": "三七互娱网络科技集团股份有限公司",
+      "normalizedName": "三七互娱网络科技集团股份有限公司",
+      "aliases": [
+        "三七互娱"
+      ],
+      "matchedCompanyId": "37games",
+      "matchedCompanyName": "三七互娱",
+      "segment": "互联网综合与数字服务",
+      "province": "安徽省",
+      "brands": [
+        "三七互娱"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "company-360",
+      "authorityRank": 18,
+      "name": "三六零安全科技股份有限公司",
+      "normalizedName": "三六零安全科技股份有限公司",
+      "aliases": [
+        "360安全卫士"
+      ],
+      "matchedCompanyId": "company-360",
+      "matchedCompanyName": "360 集团",
+      "segment": "互联网综合与数字服务",
+      "province": "天津市",
+      "brands": [
+        "360安全卫士"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "dewu",
+      "authorityRank": 19,
+      "name": "上海得物信息集团有限公司",
+      "normalizedName": "上海得物信息集团有限公司",
+      "aliases": [
+        "得物App"
+      ],
+      "matchedCompanyId": "dewu",
+      "matchedCompanyName": "得物",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "得物App"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "mango-tv",
+      "authorityRank": 20,
+      "name": "芒果超媒股份有限公司",
+      "normalizedName": "芒果超媒股份有限公司",
+      "aliases": [
+        "芒果TV"
+      ],
+      "matchedCompanyId": "mango-tv",
+      "matchedCompanyName": "芒果TV",
+      "segment": "互联网综合与数字服务",
+      "province": "湖南省",
+      "brands": [
+        "芒果TV"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "boss-zhipin",
+      "authorityRank": 21,
+      "name": "看准科技有限公司",
+      "normalizedName": "看准科技有限公司",
+      "aliases": [
+        "BOSS直聘"
+      ],
+      "matchedCompanyId": "boss-zhipin",
+      "matchedCompanyName": "BOSS 直聘",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "BOSS直聘"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "weibo",
+      "authorityRank": 22,
+      "name": "微博公司",
+      "normalizedName": "微博公司",
+      "aliases": [
+        "微博"
+      ],
+      "matchedCompanyId": "weibo",
+      "matchedCompanyName": "微博",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "微博"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "xinye",
+      "authorityRank": 23,
+      "name": "信也科技集团",
+      "normalizedName": "信也科技集团",
+      "aliases": [
+        "拍拍贷",
+        "KOO钱包"
+      ],
+      "matchedCompanyId": "xinye",
+      "matchedCompanyName": "信也科技",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "拍拍贷",
+        "KOO钱包"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tongcheng",
+      "authorityRank": 24,
+      "name": "同程旅行控股有限公司",
+      "normalizedName": "同程旅行控股有限公司",
+      "aliases": [
+        "同程旅行",
+        "艺龙网"
+      ],
+      "matchedCompanyId": "tongcheng",
+      "matchedCompanyName": "同程旅行",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "同程旅行",
+        "艺龙网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "sjhuatong",
+      "authorityRank": 25,
+      "name": "浙江世纪华通集团股份有限公司",
+      "normalizedName": "浙江世纪华通集团股份有限公司",
+      "aliases": [
+        "盛趣游戏"
+      ],
+      "matchedCompanyId": "sjhuatong",
+      "matchedCompanyName": "世纪华通",
+      "segment": "互联网综合与数字服务",
+      "province": "浙江省",
+      "brands": [
+        "盛趣游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "lexin",
+      "authorityRank": 26,
+      "name": "乐信金融科技控股有限公司",
+      "normalizedName": "乐信金融科技控股有限公司",
+      "aliases": [
+        "分期乐",
+        "乐花卡"
+      ],
+      "matchedCompanyId": "lexin",
+      "matchedCompanyName": "乐信",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "分期乐",
+        "乐花卡"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "sohu",
+      "authorityRank": 27,
+      "name": "搜狐有限公司",
+      "normalizedName": "搜狐有限公司",
+      "aliases": [
+        "搜狐视频"
+      ],
+      "matchedCompanyId": "sohu",
+      "matchedCompanyName": "搜狐",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "搜狐视频"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "eastmoney",
+      "authorityRank": 28,
+      "name": "东方财富信息股份有限公司",
+      "normalizedName": "东方财富信息股份有限公司",
+      "aliases": [
+        "东方财富"
+      ],
+      "matchedCompanyId": "eastmoney",
+      "matchedCompanyName": "东方财富",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "东方财富"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "autohome",
+      "authorityRank": 29,
+      "name": "北京车之家信息技术有限公司",
+      "normalizedName": "北京车之家信息技术有限公司",
+      "aliases": [
+        "汽车之家"
+      ],
+      "matchedCompanyId": "autohome",
+      "matchedCompanyName": "汽车之家",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "汽车之家"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "4399",
+      "authorityRank": 30,
+      "name": "四三九九网络股份有限公司",
+      "normalizedName": "四三九九网络股份有限公司",
+      "aliases": [
+        "4399"
+      ],
+      "matchedCompanyId": "4399",
+      "matchedCompanyName": "4399游戏",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "4399"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "qifu",
+      "authorityRank": 31,
+      "name": "奇富科技股份有限公司",
+      "normalizedName": "奇富科技股份有限公司",
+      "aliases": [
+        "奇富科技"
+      ],
+      "matchedCompanyId": "qifu",
+      "matchedCompanyName": "奇富科技",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "奇富科技"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "mobvista",
+      "authorityRank": 32,
+      "name": "汇量科技集团",
+      "normalizedName": "汇量科技集团",
+      "aliases": [
+        "Mobvista"
+      ],
+      "matchedCompanyId": "mobvista",
+      "matchedCompanyName": "汇量科技",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "Mobvista"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-033",
+      "authorityRank": 33,
+      "name": "美图公司",
+      "normalizedName": "美图公司",
+      "aliases": [
+        "美图秀秀"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "美图秀秀"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "kingnet",
+      "authorityRank": 34,
+      "name": "恺英网络股份有限公司",
+      "normalizedName": "恺英网络股份有限公司",
+      "aliases": [
+        "天使之战"
+      ],
+      "matchedCompanyId": "kingnet",
+      "matchedCompanyName": "恺英网络",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "天使之战"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "goodfuture",
+      "authorityRank": 35,
+      "name": "好未来教育集团",
+      "normalizedName": "好未来教育集团",
+      "aliases": [
+        "学而思"
+      ],
+      "matchedCompanyId": "goodfuture",
+      "matchedCompanyName": "好未来",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "学而思"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-036",
+      "authorityRank": 36,
+      "name": "央视国际网络有限公司",
+      "normalizedName": "央视国际网络有限公司",
+      "aliases": [
+        "央视网"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "央视网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "iqiyi",
+      "authorityRank": 37,
+      "name": "北京爱奇艺科技有限公司",
+      "normalizedName": "北京爱奇艺科技有限公司",
+      "aliases": [
+        "爱奇艺"
+      ],
+      "matchedCompanyId": "iqiyi",
+      "matchedCompanyName": "爱奇艺",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "爱奇艺"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-038",
+      "authorityRank": 38,
+      "name": "满帮集团有限公司",
+      "normalizedName": "满帮集团有限公司",
+      "aliases": [
+        "运满满"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "运满满"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "vipshop",
+      "authorityRank": 39,
+      "name": "唯品会控股有限公司",
+      "normalizedName": "唯品会控股有限公司",
+      "aliases": [
+        "唯品会"
+      ],
+      "matchedCompanyId": "vipshop",
+      "matchedCompanyName": "唯品会",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "唯品会"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "msxf",
+      "authorityRank": 40,
+      "name": "马上消费金融股份有限公司",
+      "normalizedName": "马上消费金融股份有限公司",
+      "aliases": [
+        "马上消费"
+      ],
+      "matchedCompanyId": "msxf",
+      "matchedCompanyName": "马上消费",
+      "segment": "互联网综合与数字服务",
+      "province": "重庆市",
+      "brands": [
+        "马上消费"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "sangfor",
+      "authorityRank": 41,
+      "name": "深信服科技股份有限公司",
+      "normalizedName": "深信服科技股份有限公司",
+      "aliases": [
+        "深信服"
+      ],
+      "matchedCompanyId": "sangfor",
+      "matchedCompanyName": "深信服",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "深信服"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-042",
+      "authorityRank": 42,
+      "name": "广州铁动科技股份有限公司",
+      "normalizedName": "广州铁动科技股份有限公司",
+      "aliases": [
+        "Tec-Do"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "Tec-Do"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-043",
+      "authorityRank": 43,
+      "name": "武汉理工数字传播工程有限公司",
+      "normalizedName": "武汉理工数字传播工程有限公司",
+      "aliases": [
+        "BOOKSGPT"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "湖北省",
+      "brands": [
+        "BOOKSGPT"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "wangsu",
+      "authorityRank": 44,
+      "name": "网宿科技股份有限公司",
+      "normalizedName": "网宿科技股份有限公司",
+      "aliases": [
+        "网宿科技"
+      ],
+      "matchedCompanyId": "wangsu",
+      "matchedCompanyName": "网宿科技",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "网宿科技"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "huolala",
+      "authorityRank": 45,
+      "name": "深圳依时货拉拉科技有限公司",
+      "normalizedName": "深圳依时货拉拉科技有限公司",
+      "aliases": [
+        "货拉拉"
+      ],
+      "matchedCompanyId": "huolala",
+      "matchedCompanyName": "货拉拉",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "货拉拉"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "xinhuanet",
+      "authorityRank": 46,
+      "name": "新华网股份有限公司",
+      "normalizedName": "新华网股份有限公司",
+      "aliases": [
+        "新华网"
+      ],
+      "matchedCompanyId": "xinhuanet",
+      "matchedCompanyName": "新华网",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "新华网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "kurogame",
+      "authorityRank": 47,
+      "name": "广州库洛科技有限公司",
+      "normalizedName": "广州库洛科技有限公司",
+      "aliases": [
+        "库洛游戏"
+      ],
+      "matchedCompanyId": "kurogame",
+      "matchedCompanyName": "库洛游戏",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "库洛游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "kingdee",
+      "authorityRank": 48,
+      "name": "金蝶软件（中国）有限公司",
+      "normalizedName": "金蝶软件中国有限公司",
+      "aliases": [
+        "金蝶"
+      ],
+      "matchedCompanyId": "kingdee",
+      "matchedCompanyName": "金蝶",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "金蝶"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-049",
+      "authorityRank": 49,
+      "name": "北京趣拿信息科技有限公司",
+      "normalizedName": "北京趣拿信息科技有限公司",
+      "aliases": [
+        "去哪儿旅行"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "去哪儿旅行"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "ximalaya",
+      "authorityRank": 50,
+      "name": "上海喜马拉雅科技有限公司",
+      "normalizedName": "上海喜马拉雅科技有限公司",
+      "aliases": [
+        "喜马拉雅"
+      ],
+      "matchedCompanyId": "ximalaya",
+      "matchedCompanyName": "喜马拉雅",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "喜马拉雅"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "netdragon",
+      "authorityRank": 51,
+      "name": "网龙网络控股有限公司",
+      "normalizedName": "网龙网络控股有限公司",
+      "aliases": [
+        "网龙"
+      ],
+      "matchedCompanyId": "netdragon",
+      "matchedCompanyName": "网龙",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "网龙"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "gbits",
+      "authorityRank": 52,
+      "name": "厦门吉比特网络技术股份有限公司",
+      "normalizedName": "厦门吉比特网络技术股份有限公司",
+      "aliases": [
+        "吉比特"
+      ],
+      "matchedCompanyId": "gbits",
+      "matchedCompanyName": "吉比特",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "吉比特"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "vnet",
+      "authorityRank": 53,
+      "name": "世纪互联集团股份有限公司",
+      "normalizedName": "世纪互联集团股份有限公司",
+      "aliases": [
+        "世纪互联"
+      ],
+      "matchedCompanyId": "vnet",
+      "matchedCompanyName": "世纪互联",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "世纪互联"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "dianzhong",
+      "authorityRank": 54,
+      "name": "北京点众科技股份有限公司",
+      "normalizedName": "北京点众科技股份有限公司",
+      "aliases": [
+        "点众阅读"
+      ],
+      "matchedCompanyId": "dianzhong",
+      "matchedCompanyName": "点众科技",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "点众阅读"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "sinnet",
+      "authorityRank": 55,
+      "name": "北京光环新网科技股份有限公司",
+      "normalizedName": "北京光环新网科技股份有限公司",
+      "aliases": [
+        "光环新网"
+      ],
+      "matchedCompanyId": "sinnet",
+      "matchedCompanyName": "光环新网",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "光环新网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "baozun",
+      "authorityRank": 56,
+      "name": "宝尊电商有限公司",
+      "normalizedName": "宝尊电商有限公司",
+      "aliases": [
+        "宝尊"
+      ],
+      "matchedCompanyId": "baozun",
+      "matchedCompanyName": "宝尊电商",
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "宝尊"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "kunlun-wanwei",
+      "authorityRank": 57,
+      "name": "昆仑万维科技股份有限公司",
+      "normalizedName": "昆仑万维科技股份有限公司",
+      "aliases": [
+        "昆仑万维"
+      ],
+      "matchedCompanyId": "kunlun-wanwei",
+      "matchedCompanyName": "昆仑万维",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "昆仑万维"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "huya",
+      "authorityRank": 58,
+      "name": "虎牙公司",
+      "normalizedName": "虎牙公司",
+      "aliases": [
+        "虎牙"
+      ],
+      "matchedCompanyId": "huya",
+      "matchedCompanyName": "虎牙",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "虎牙"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "nsfocus",
+      "authorityRank": 59,
+      "name": "绿盟科技集团股份有限公司",
+      "normalizedName": "绿盟科技集团股份有限公司",
+      "aliases": [
+        "绿盟科技"
+      ],
+      "matchedCompanyId": "nsfocus",
+      "matchedCompanyName": "绿盟科技",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "绿盟科技"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-060",
+      "authorityRank": 60,
+      "name": "北京网聘信息技术有限公司",
+      "normalizedName": "北京网聘信息技术有限公司",
+      "aliases": [
+        "智联招聘"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "智联招聘"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "focuschina",
+      "authorityRank": 61,
+      "name": "焦点科技股份有限公司",
+      "normalizedName": "焦点科技股份有限公司",
+      "aliases": [
+        "焦点科技"
+      ],
+      "matchedCompanyId": "focuschina",
+      "matchedCompanyName": "焦点科技",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "焦点科技"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "bosssoft",
+      "authorityRank": 62,
+      "name": "福建博思软件股份有限公司",
+      "normalizedName": "福建博思软件股份有限公司",
+      "aliases": [
+        "博思软件"
+      ],
+      "matchedCompanyId": "bosssoft",
+      "matchedCompanyName": "博思软件",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "博思软件"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "yiche",
+      "authorityRank": 63,
+      "name": "北京易车信息科技有限公司",
+      "normalizedName": "北京易车信息科技有限公司",
+      "aliases": [
+        "易车"
+      ],
+      "matchedCompanyId": "yiche",
+      "matchedCompanyName": "易车",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "易车"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "qichacha",
+      "authorityRank": 64,
+      "name": "企查查科技股份有限公司",
+      "normalizedName": "企查查科技股份有限公司",
+      "aliases": [
+        "企查查"
+      ],
+      "matchedCompanyId": "qichacha",
+      "matchedCompanyName": "企查查",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "企查查"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "todtech",
+      "authorityRank": 65,
+      "name": "拓维信息系统股份有限公司",
+      "normalizedName": "拓维信息系统股份有限公司",
+      "aliases": [
+        "拓维信息"
+      ],
+      "matchedCompanyId": "todtech",
+      "matchedCompanyName": "拓维信息",
+      "segment": "互联网综合与数字服务",
+      "province": "湖南省",
+      "brands": [
+        "拓维信息"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "jj-world",
+      "authorityRank": 66,
+      "name": "竞技世界（北京）网络技术有限公司",
+      "normalizedName": "竞技世界北京网络技术有限公司",
+      "aliases": [
+        "JJ斗地主"
+      ],
+      "matchedCompanyId": "jj-world",
+      "matchedCompanyName": "竞技世界",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "JJ斗地主"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "quwan",
+      "authorityRank": 67,
+      "name": "广州趣丸网络科技有限公司",
+      "normalizedName": "广州趣丸网络科技有限公司",
+      "aliases": [
+        "趣丸"
+      ],
+      "matchedCompanyId": "quwan",
+      "matchedCompanyName": "趣丸科技",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "趣丸"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tongdao-liepin",
+      "authorityRank": 68,
+      "name": "同道猎聘集团",
+      "normalizedName": "同道猎聘集团",
+      "aliases": [
+        "猎聘"
+      ],
+      "matchedCompanyId": "tongdao-liepin",
+      "matchedCompanyName": "同道猎聘",
+      "segment": "互联网综合与数字服务",
+      "province": "天津市",
+      "brands": [
+        "猎聘"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-069",
+      "authorityRank": 69,
+      "name": "武汉百度集团有限公司",
+      "normalizedName": "武汉百度集团有限公司",
+      "aliases": [
+        "百度推广"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "湖北省",
+      "brands": [
+        "百度推广"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-070",
+      "authorityRank": 70,
+      "name": "厦门众联世纪股份有限公司",
+      "normalizedName": "厦门众联世纪股份有限公司",
+      "aliases": [
+        "流量果"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "流量果"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-071",
+      "authorityRank": 71,
+      "name": "福建游龙共创网络技术有限公司",
+      "normalizedName": "福建游龙共创网络技术有限公司",
+      "aliases": [
+        "19196手游平台"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "19196手游平台"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tuyoo",
+      "authorityRank": 72,
+      "name": "在线途游（北京）科技有限公司",
+      "normalizedName": "在线途游北京科技有限公司",
+      "aliases": [
+        "在线途游"
+      ],
+      "matchedCompanyId": "tuyoo",
+      "matchedCompanyName": "途游游戏",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "在线途游"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "inkeverse",
+      "authorityRank": 73,
+      "name": "映宇宙集团有限公司",
+      "normalizedName": "映宇宙集团有限公司",
+      "aliases": [
+        "映客直播"
+      ],
+      "matchedCompanyId": "inkeverse",
+      "matchedCompanyName": "映宇宙",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "映客直播"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "lakala",
+      "authorityRank": 74,
+      "name": "拉卡拉支付股份有限公司",
+      "normalizedName": "拉卡拉支付股份有限公司",
+      "aliases": [
+        "拉卡拉"
+      ],
+      "matchedCompanyId": "lakala",
+      "matchedCompanyName": "拉卡拉",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "拉卡拉"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "yuanfudao",
+      "authorityRank": 75,
+      "name": "北京猿力科技有限公司",
+      "normalizedName": "北京猿力科技有限公司",
+      "aliases": [
+        "猿力教育"
+      ],
+      "matchedCompanyId": "yuanfudao",
+      "matchedCompanyName": "猿辅导",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "猿力教育"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "shunwang",
+      "authorityRank": 76,
+      "name": "杭州顺网科技股份有限公司",
+      "normalizedName": "杭州顺网科技股份有限公司",
+      "aliases": [
+        "顺网"
+      ],
+      "matchedCompanyId": "shunwang",
+      "matchedCompanyName": "顺网科技",
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "顺网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "brgroup",
+      "authorityRank": 77,
+      "name": "百融云创科技股份有限公司",
+      "normalizedName": "百融云创科技股份有限公司",
+      "aliases": [
+        "百融云"
+      ],
+      "matchedCompanyId": "brgroup",
+      "matchedCompanyName": "百融云创",
+      "segment": "互联网综合与数字服务",
+      "province": "浙江省",
+      "brands": [
+        "百融云"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-078",
+      "authorityRank": 78,
+      "name": "江西傲星科技有限公司",
+      "normalizedName": "江西傲星科技有限公司",
+      "aliases": [
+        "傲星"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "傲星"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "douyu",
+      "authorityRank": 79,
+      "name": "斗鱼国际控股有限公司",
+      "normalizedName": "斗鱼国际控股有限公司",
+      "aliases": [
+        "斗鱼"
+      ],
+      "matchedCompanyId": "douyu",
+      "matchedCompanyName": "斗鱼",
+      "segment": "互联网综合与数字服务",
+      "province": "江西省",
+      "brands": [
+        "斗鱼"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-080",
+      "authorityRank": 80,
+      "name": "厦门延趣网络科技有限公司",
+      "normalizedName": "厦门延趣网络科技有限公司",
+      "aliases": [
+        "延趣游戏"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "湖北省",
+      "brands": [
+        "延趣游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "montnets",
+      "authorityRank": 81,
+      "name": "深圳市梦网科技发展有限公司",
+      "normalizedName": "深圳市梦网科技发展有限公司",
+      "aliases": [
+        "梦网"
+      ],
+      "matchedCompanyId": "montnets",
+      "matchedCompanyName": "梦网科技",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "梦网"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "t3go",
+      "authorityRank": 82,
+      "name": "南京领行科技股份有限公司",
+      "normalizedName": "南京领行科技股份有限公司",
+      "aliases": [
+        "T3出行"
+      ],
+      "matchedCompanyId": "t3go",
+      "matchedCompanyName": "T3出行",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "T3出行"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "eyugame",
+      "authorityRank": 83,
+      "name": "上海易娱网络科技有限公司",
+      "normalizedName": "上海易娱网络科技有限公司",
+      "aliases": [
+        "易娱网络"
+      ],
+      "matchedCompanyId": "eyugame",
+      "matchedCompanyName": "易娱网络",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "易娱网络"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-084",
+      "authorityRank": 84,
+      "name": "江苏瑞祥科技集团有限公司",
+      "normalizedName": "江苏瑞祥科技集团有限公司",
+      "aliases": [
+        "瑞祥全球购"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "瑞祥全球购"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "foxit",
+      "authorityRank": 85,
+      "name": "福建福昕软件开发股份有限公司",
+      "normalizedName": "福建福昕软件开发股份有限公司",
+      "aliases": [
+        "Foxit"
+      ],
+      "matchedCompanyId": "foxit",
+      "matchedCompanyName": "福昕软件",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "Foxit"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "tanwan",
+      "authorityRank": 86,
+      "name": "江苏零浩网络科技有限公司",
+      "normalizedName": "江苏零浩网络科技有限公司",
+      "aliases": [
+        "贪玩游戏"
+      ],
+      "matchedCompanyId": "tanwan",
+      "matchedCompanyName": "贪玩游戏",
+      "segment": "互联网综合与数字服务",
+      "province": "福建省",
+      "brands": [
+        "贪玩游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "opg",
+      "authorityRank": 87,
+      "name": "贪玩公司",
+      "normalizedName": "贪玩公司",
+      "aliases": [
+        "东方明珠"
+      ],
+      "matchedCompanyId": "opg",
+      "matchedCompanyName": "东方明珠新媒体",
+      "segment": "互联网综合与数字服务",
+      "province": "江苏省",
+      "brands": [
+        "东方明珠"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-088",
+      "authorityRank": 88,
+      "name": "东方明珠新媒体股份有限公司",
+      "normalizedName": "东方明珠新媒体股份有限公司",
+      "aliases": [
+        "乐逗游戏"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "江西省",
+      "brands": [
+        "乐逗游戏"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-089",
+      "authorityRank": 89,
+      "name": "创梦天地科技控股有限公司",
+      "normalizedName": "创梦天地科技控股有限公司",
+      "aliases": [
+        "水滴"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "上海市",
+      "brands": [
+        "水滴"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "waterdrop",
+      "authorityRank": 90,
+      "name": "水滴科技集团",
+      "normalizedName": "水滴科技集团",
+      "aliases": [
+        "元游"
+      ],
+      "matchedCompanyId": "waterdrop",
+      "matchedCompanyName": "水滴",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "元游"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-091",
+      "authorityRank": 91,
+      "name": "海南元游信息技术有限公司",
+      "normalizedName": "海南元游信息技术有限公司",
+      "aliases": [
+        "海看"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "海看"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "baishan",
+      "authorityRank": 92,
+      "name": "海看网络科技（山东）股份有限公司",
+      "normalizedName": "海看网络科技山东股份有限公司",
+      "aliases": [
+        "白山云"
+      ],
+      "matchedCompanyId": "baishan",
+      "matchedCompanyName": "白山云",
+      "segment": "互联网综合与数字服务",
+      "province": "海南省",
+      "brands": [
+        "白山云"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "baishan-093",
+      "authorityRank": 93,
+      "name": "贵州白山云科技股份有限公司",
+      "normalizedName": "贵州白山云科技股份有限公司",
+      "aliases": [
+        "YY直播"
+      ],
+      "matchedCompanyId": "baishan-093",
+      "matchedCompanyName": "白山云",
+      "segment": "互联网综合与数字服务",
+      "province": "山东省",
+      "brands": [
+        "YY直播"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-094",
+      "authorityRank": 94,
+      "name": "广州津虹网络传媒有限公司",
+      "normalizedName": "广州津虹网络传媒有限公司",
+      "aliases": [
+        "国都互联"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "贵州省",
+      "brands": [
+        "国都互联"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-095",
+      "authorityRank": 95,
+      "name": "北京国都互联科技有限公司",
+      "normalizedName": "北京国都互联科技有限公司",
+      "aliases": [
+        "兴盛优选"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "兴盛优选"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "candidate-isc-096",
+      "authorityRank": 96,
+      "name": "湖南兴盛优选电子商务有限公司",
+      "normalizedName": "湖南兴盛优选电子商务有限公司",
+      "aliases": [
+        "麦萌短剧"
+      ],
+      "matchedCompanyId": null,
+      "matchedCompanyName": null,
+      "segment": "互联网综合与数字服务",
+      "province": "北京市",
+      "brands": [
+        "麦萌短剧"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "DISCOVERED",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "xunlei",
+      "authorityRank": 97,
+      "name": "重庆麦芽传媒有限公司",
+      "normalizedName": "重庆麦芽传媒有限公司",
+      "aliases": [
+        "迅雷"
+      ],
+      "matchedCompanyId": "xunlei",
+      "matchedCompanyName": "迅雷",
+      "segment": "互联网综合与数字服务",
+      "province": "湖南省",
+      "brands": [
+        "迅雷"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "xunlei-098",
+      "authorityRank": 98,
+      "name": "深圳市迅雷网络技术有限公司",
+      "normalizedName": "深圳市迅雷网络技术有限公司",
+      "aliases": [
+        "荔枝"
+      ],
+      "matchedCompanyId": "xunlei-098",
+      "matchedCompanyName": "迅雷",
+      "segment": "互联网综合与数字服务",
+      "province": "重庆市",
+      "brands": [
+        "荔枝"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "lizhi",
+      "authorityRank": 99,
+      "name": "荔枝集团",
+      "normalizedName": "荔枝集团",
+      "aliases": [
+        "龙采"
+      ],
+      "matchedCompanyId": "lizhi",
+      "matchedCompanyName": "荔枝",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [
+        "龙采"
+      ],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    },
+    {
+      "candidateId": "longcai",
+      "authorityRank": 100,
+      "name": "龙采科技集团有限责任公司",
+      "normalizedName": "龙采科技集团有限责任公司",
+      "aliases": [],
+      "matchedCompanyId": "longcai",
+      "matchedCompanyName": "龙采科技",
+      "segment": "互联网综合与数字服务",
+      "province": "广东省",
+      "brands": [],
+      "authorityIds": [
+        "isc-internet-top100-2025"
+      ],
+      "sourceUrls": [
+        "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf"
+      ],
+      "stockCodes": [],
+      "listingMarket": null,
+      "discoveryStatus": "MATCHED_REGISTRY",
+      "requiresOfficialCareerReview": true,
+      "doNotPublishAsConnected": true
+    }
+  ]
+}

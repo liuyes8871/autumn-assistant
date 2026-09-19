@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T00:00:00+08:00",
+  "scopes": [
+    { "value": "MAINLAND_CHINA", "label": "中国大陆" },
+    { "value": "HONG_KONG_MACAU_TAIWAN", "label": "港澳台" },
+    { "value": "OVERSEAS", "label": "海外" },
+    { "value": "REMOTE", "label": "远程" },
+    { "value": "UNKNOWN", "label": "地点待确认" }
+  ],
+  "mainland": [
+    { "code": "BJ", "name": "北京市", "cities": [{ "code": "BJ-北京", "name": "北京市" }] },
+    { "code": "SH", "name": "上海市", "cities": [{ "code": "SH-上海", "name": "上海市" }] },
+    { "code": "GD", "name": "广东省", "cities": [{ "code": "GD-广州", "name": "广州市" }, { "code": "GD-深圳", "name": "深圳市" }, { "code": "GD-东莞", "name": "东莞市" }, { "code": "GD-佛山", "name": "佛山市" }, { "code": "GD-珠海", "name": "珠海市" }] },
+    { "code": "HB", "name": "湖北省", "cities": [{ "code": "HB-武汉", "name": "武汉市" }] },
+    { "code": "ZJ", "name": "浙江省", "cities": [{ "code": "ZJ-杭州", "name": "杭州市" }, { "code": "ZJ-宁波", "name": "宁波市" }] },
+    { "code": "JS", "name": "江苏省", "cities": [{ "code": "JS-南京", "name": "南京市" }, { "code": "JS-苏州", "name": "苏州市" }] },
+    { "code": "AH", "name": "安徽省", "cities": [{ "code": "AH-合肥", "name": "合肥市" }] },
+    { "code": "SC", "name": "四川省", "cities": [{ "code": "SC-成都", "name": "成都市" }] },
+    { "code": "SN", "name": "陕西省", "cities": [{ "code": "SN-西安", "name": "西安市" }] },
+    { "code": "HA", "name": "河南省", "cities": [{ "code": "HA-郑州", "name": "郑州市" }] },
+    { "code": "HN", "name": "湖南省", "cities": [{ "code": "HN-长沙", "name": "长沙市" }] },
+    { "code": "SD", "name": "山东省", "cities": [{ "code": "SD-青岛", "name": "青岛市" }, { "code": "SD-济南", "name": "济南市" }] },
+    { "code": "FJ", "name": "福建省", "cities": [{ "code": "FJ-厦门", "name": "厦门市" }, { "code": "FJ-福州", "name": "福州市" }] }
+  ],
+  "overseas": [
+    { "code": "SG", "name": "新加坡", "cities": [{ "code": "SG-新加坡", "name": "新加坡" }] },
+    { "code": "JP", "name": "日本", "cities": [{ "code": "JP-东京", "name": "东京" }] },
+    { "code": "MY", "name": "马来西亚", "cities": [{ "code": "MY-吉隆坡", "name": "吉隆坡" }] },
+    { "code": "AU", "name": "澳大利亚", "cities": [{ "code": "AU-墨尔本", "name": "墨尔本" }, { "code": "AU-悉尼", "name": "悉尼" }] },
+    { "code": "FR", "name": "法国", "cities": [{ "code": "FR-巴黎", "name": "巴黎" }] },
+    { "code": "GB", "name": "英国", "cities": [{ "code": "GB-伦敦", "name": "伦敦" }] },
+    { "code": "US", "name": "美国", "cities": [{ "code": "US-纽约", "name": "纽约" }, { "code": "US-旧金山", "name": "旧金山" }] }
+  ]
+}

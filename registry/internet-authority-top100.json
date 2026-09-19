@@ -1,0 +1,1282 @@
+{
+  "schemaVersion": 1,
+  "authorityId": "isc-internet-top100-2025",
+  "reportName": "2025 年中国互联网综合实力前百家企业",
+  "reportYear": 2025,
+  "sourceUrl": "https://www.isc.org.cn/article/27460980540829696.html",
+  "pdfUrl": "https://www.isc.org.cn/profile/2025/12/29/f531871d-ded7-4502-bb26-6d829f12707a.pdf",
+  "publisher": "中国互联网协会",
+  "retrievedAt": "2026-09-08",
+  "notes": "固定的一手公开报告索引；仅用于公司候选发现，不证明当前届校招或岗位可采集。",
+  "companies": [
+    {
+      "rank": 1,
+      "name": "上海寻梦信息技术有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "拼多多",
+        "多多买菜"
+      ],
+      "aliases": [
+        "拼多多",
+        "多多买菜"
+      ],
+      "canonicalCompanyId": "pdd"
+    },
+    {
+      "rank": 2,
+      "name": "北京抖音信息服务有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "抖音",
+        "今日头条",
+        "西瓜视频"
+      ],
+      "aliases": [
+        "抖音",
+        "今日头条"
+      ],
+      "canonicalCompanyId": "bytedance"
+    },
+    {
+      "rank": 3,
+      "name": "蚂蚁科技集团股份有限公司",
+      "province": "浙江省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "支付宝",
+        "蚂蚁链",
+        "OceanBase"
+      ],
+      "aliases": [
+        "支付宝",
+        "蚂蚁链"
+      ],
+      "canonicalCompanyId": "ant-group"
+    },
+    {
+      "rank": 4,
+      "name": "淘天有限公司",
+      "province": "浙江省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "淘宝",
+        "天猫"
+      ],
+      "aliases": [
+        "淘宝",
+        "天猫"
+      ],
+      "canonicalCompanyId": "alibaba"
+    },
+    {
+      "rank": 5,
+      "name": "深圳市腾讯计算机系统有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "微信",
+        "QQ",
+        "腾讯云"
+      ],
+      "aliases": [
+        "微信",
+        "QQ"
+      ],
+      "canonicalCompanyId": "tencent"
+    },
+    {
+      "rank": 6,
+      "name": "美团公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "美团",
+        "大众点评"
+      ],
+      "aliases": [
+        "美团",
+        "大众点评"
+      ],
+      "canonicalCompanyId": "meituan"
+    },
+    {
+      "rank": 7,
+      "name": "百度公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "百度智能云",
+        "文心一言"
+      ],
+      "aliases": [
+        "百度智能云",
+        "文心一言"
+      ],
+      "canonicalCompanyId": "baidu"
+    },
+    {
+      "rank": 8,
+      "name": "北京快手科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "快手",
+        "AcFun"
+      ],
+      "aliases": [
+        "快手",
+        "AcFun"
+      ],
+      "canonicalCompanyId": "kuaishou"
+    },
+    {
+      "rank": 9,
+      "name": "滴滴全球股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "滴滴出行"
+      ],
+      "aliases": [
+        "滴滴出行"
+      ],
+      "canonicalCompanyId": "didi"
+    },
+    {
+      "rank": 10,
+      "name": "携程集团",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "携程旅行",
+        "Trip.com"
+      ],
+      "aliases": [
+        "携程旅行",
+        "Trip.com"
+      ],
+      "canonicalCompanyId": "ctrip"
+    },
+    {
+      "rank": 11,
+      "name": "网易公司",
+      "province": "浙江省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "网易邮箱",
+        "网易游戏"
+      ],
+      "aliases": [
+        "网易邮箱",
+        "网易游戏"
+      ],
+      "canonicalCompanyId": "netease"
+    },
+    {
+      "rank": 12,
+      "name": "京东集团股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "京东",
+        "京东物流"
+      ],
+      "aliases": [
+        "京东",
+        "京东物流"
+      ],
+      "canonicalCompanyId": "jd"
+    },
+    {
+      "rank": 13,
+      "name": "腾讯音乐娱乐集团",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "QQ音乐",
+        "酷狗音乐"
+      ],
+      "aliases": [
+        "QQ音乐",
+        "酷狗音乐"
+      ]
+    },
+    {
+      "rank": 14,
+      "name": "小米集团",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "小米",
+        "REDMI"
+      ],
+      "aliases": [
+        "小米",
+        "REDMI"
+      ],
+      "canonicalCompanyId": "xiaomi"
+    },
+    {
+      "rank": 15,
+      "name": "贝壳控股有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "贝壳找房",
+        "链家"
+      ],
+      "aliases": [
+        "贝壳找房",
+        "链家"
+      ],
+      "canonicalCompanyId": "ke"
+    },
+    {
+      "rank": 16,
+      "name": "哔哩哔哩股份有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "哔哩哔哩"
+      ],
+      "aliases": [
+        "哔哩哔哩"
+      ],
+      "canonicalCompanyId": "bilibili"
+    },
+    {
+      "rank": 17,
+      "name": "三七互娱网络科技集团股份有限公司",
+      "province": "安徽省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "三七互娱"
+      ],
+      "aliases": [
+        "三七互娱"
+      ]
+    },
+    {
+      "rank": 18,
+      "name": "三六零安全科技股份有限公司",
+      "province": "天津市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "360安全卫士"
+      ],
+      "aliases": [
+        "360安全卫士"
+      ],
+      "canonicalCompanyId": "company-360"
+    },
+    {
+      "rank": 19,
+      "name": "上海得物信息集团有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "得物App"
+      ],
+      "aliases": [
+        "得物App"
+      ],
+      "canonicalCompanyId": "dewu"
+    },
+    {
+      "rank": 20,
+      "name": "芒果超媒股份有限公司",
+      "province": "湖南省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "芒果TV"
+      ],
+      "aliases": [
+        "芒果TV"
+      ]
+    },
+    {
+      "rank": 21,
+      "name": "看准科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "BOSS直聘"
+      ],
+      "aliases": [
+        "BOSS直聘"
+      ],
+      "canonicalCompanyId": "boss-zhipin"
+    },
+    {
+      "rank": 22,
+      "name": "微博公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "微博"
+      ],
+      "aliases": [
+        "微博"
+      ],
+      "canonicalCompanyId": "weibo"
+    },
+    {
+      "rank": 23,
+      "name": "信也科技集团",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "拍拍贷",
+        "KOO钱包"
+      ],
+      "aliases": [
+        "拍拍贷",
+        "KOO钱包"
+      ]
+    },
+    {
+      "rank": 24,
+      "name": "同程旅行控股有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "同程旅行",
+        "艺龙网"
+      ],
+      "aliases": [
+        "同程旅行",
+        "艺龙网"
+      ]
+    },
+    {
+      "rank": 25,
+      "name": "浙江世纪华通集团股份有限公司",
+      "province": "浙江省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "盛趣游戏"
+      ],
+      "aliases": [
+        "盛趣游戏"
+      ]
+    },
+    {
+      "rank": 26,
+      "name": "乐信金融科技控股有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "分期乐",
+        "乐花卡"
+      ],
+      "aliases": [
+        "分期乐",
+        "乐花卡"
+      ]
+    },
+    {
+      "rank": 27,
+      "name": "搜狐有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "搜狐视频"
+      ],
+      "aliases": [
+        "搜狐视频"
+      ],
+      "canonicalCompanyId": "sohu"
+    },
+    {
+      "rank": 28,
+      "name": "东方财富信息股份有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "东方财富"
+      ],
+      "aliases": [
+        "东方财富"
+      ],
+      "canonicalCompanyId": "eastmoney"
+    },
+    {
+      "rank": 29,
+      "name": "北京车之家信息技术有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "汽车之家"
+      ],
+      "aliases": [
+        "汽车之家"
+      ],
+      "canonicalCompanyId": "autohome"
+    },
+    {
+      "rank": 30,
+      "name": "四三九九网络股份有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "4399"
+      ],
+      "aliases": [
+        "4399"
+      ]
+    },
+    {
+      "rank": 31,
+      "name": "奇富科技股份有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "奇富科技"
+      ],
+      "aliases": [
+        "奇富科技"
+      ]
+    },
+    {
+      "rank": 32,
+      "name": "汇量科技集团",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "Mobvista"
+      ],
+      "aliases": [
+        "Mobvista"
+      ],
+      "canonicalCompanyId": "mobvista"
+    },
+    {
+      "rank": 33,
+      "name": "美图公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "美图秀秀"
+      ],
+      "aliases": [
+        "美图秀秀"
+      ]
+    },
+    {
+      "rank": 34,
+      "name": "恺英网络股份有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "天使之战"
+      ],
+      "aliases": [
+        "天使之战"
+      ],
+      "canonicalCompanyId": "kingnet"
+    },
+    {
+      "rank": 35,
+      "name": "好未来教育集团",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "学而思"
+      ],
+      "aliases": [
+        "学而思"
+      ],
+      "canonicalCompanyId": "goodfuture"
+    },
+    {
+      "rank": 36,
+      "name": "央视国际网络有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "央视网"
+      ],
+      "aliases": [
+        "央视网"
+      ]
+    },
+    {
+      "rank": 37,
+      "name": "北京爱奇艺科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "爱奇艺"
+      ],
+      "aliases": [
+        "爱奇艺"
+      ],
+      "canonicalCompanyId": "iqiyi"
+    },
+    {
+      "rank": 38,
+      "name": "满帮集团有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "运满满"
+      ],
+      "aliases": [
+        "运满满"
+      ]
+    },
+    {
+      "rank": 39,
+      "name": "唯品会控股有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "唯品会"
+      ],
+      "aliases": [
+        "唯品会"
+      ],
+      "canonicalCompanyId": "vipshop"
+    },
+    {
+      "rank": 40,
+      "name": "马上消费金融股份有限公司",
+      "province": "重庆市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "马上消费"
+      ],
+      "aliases": [
+        "马上消费"
+      ]
+    },
+    {
+      "rank": 41,
+      "name": "深信服科技股份有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "深信服"
+      ],
+      "aliases": [
+        "深信服"
+      ],
+      "canonicalCompanyId": "sangfor"
+    },
+    {
+      "rank": 42,
+      "name": "广州铁动科技股份有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "Tec-Do"
+      ],
+      "aliases": [
+        "Tec-Do"
+      ]
+    },
+    {
+      "rank": 43,
+      "name": "武汉理工数字传播工程有限公司",
+      "province": "湖北省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "BOOKSGPT"
+      ],
+      "aliases": [
+        "BOOKSGPT"
+      ]
+    },
+    {
+      "rank": 44,
+      "name": "网宿科技股份有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "网宿科技"
+      ],
+      "aliases": [
+        "网宿科技"
+      ]
+    },
+    {
+      "rank": 45,
+      "name": "深圳依时货拉拉科技有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "货拉拉"
+      ],
+      "aliases": [
+        "货拉拉"
+      ]
+    },
+    {
+      "rank": 46,
+      "name": "新华网股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "新华网"
+      ],
+      "aliases": [
+        "新华网"
+      ]
+    },
+    {
+      "rank": 47,
+      "name": "广州库洛科技有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "库洛游戏"
+      ],
+      "aliases": [
+        "库洛游戏"
+      ]
+    },
+    {
+      "rank": 48,
+      "name": "金蝶软件（中国）有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "金蝶"
+      ],
+      "aliases": [
+        "金蝶"
+      ],
+      "canonicalCompanyId": "kingdee"
+    },
+    {
+      "rank": 49,
+      "name": "北京趣拿信息科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "去哪儿旅行"
+      ],
+      "aliases": [
+        "去哪儿旅行"
+      ]
+    },
+    {
+      "rank": 50,
+      "name": "上海喜马拉雅科技有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "喜马拉雅"
+      ],
+      "aliases": [
+        "喜马拉雅"
+      ]
+    },
+    {
+      "rank": 51,
+      "name": "网龙网络控股有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "网龙"
+      ],
+      "aliases": [
+        "网龙"
+      ]
+    },
+    {
+      "rank": 52,
+      "name": "厦门吉比特网络技术股份有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "吉比特"
+      ],
+      "aliases": [
+        "吉比特"
+      ]
+    },
+    {
+      "rank": 53,
+      "name": "世纪互联集团股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "世纪互联"
+      ],
+      "aliases": [
+        "世纪互联"
+      ]
+    },
+    {
+      "rank": 54,
+      "name": "北京点众科技股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "点众阅读"
+      ],
+      "aliases": [
+        "点众阅读"
+      ]
+    },
+    {
+      "rank": 55,
+      "name": "北京光环新网科技股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "光环新网"
+      ],
+      "aliases": [
+        "光环新网"
+      ]
+    },
+    {
+      "rank": 56,
+      "name": "宝尊电商有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "宝尊"
+      ],
+      "aliases": [
+        "宝尊"
+      ],
+      "canonicalCompanyId": "baozun"
+    },
+    {
+      "rank": 57,
+      "name": "昆仑万维科技股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "昆仑万维"
+      ],
+      "aliases": [
+        "昆仑万维"
+      ],
+      "canonicalCompanyId": "kunlun-wanwei"
+    },
+    {
+      "rank": 58,
+      "name": "虎牙公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "虎牙"
+      ],
+      "aliases": [
+        "虎牙"
+      ]
+    },
+    {
+      "rank": 59,
+      "name": "绿盟科技集团股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "绿盟科技"
+      ],
+      "aliases": [
+        "绿盟科技"
+      ],
+      "canonicalCompanyId": "nsfocus"
+    },
+    {
+      "rank": 60,
+      "name": "北京网聘信息技术有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "智联招聘"
+      ],
+      "aliases": [
+        "智联招聘"
+      ]
+    },
+    {
+      "rank": 61,
+      "name": "焦点科技股份有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "焦点科技"
+      ],
+      "aliases": [
+        "焦点科技"
+      ]
+    },
+    {
+      "rank": 62,
+      "name": "福建博思软件股份有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "博思软件"
+      ],
+      "aliases": [
+        "博思软件"
+      ]
+    },
+    {
+      "rank": 63,
+      "name": "北京易车信息科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "易车"
+      ],
+      "aliases": [
+        "易车"
+      ]
+    },
+    {
+      "rank": 64,
+      "name": "企查查科技股份有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "企查查"
+      ],
+      "aliases": [
+        "企查查"
+      ]
+    },
+    {
+      "rank": 65,
+      "name": "拓维信息系统股份有限公司",
+      "province": "湖南省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "拓维信息"
+      ],
+      "aliases": [
+        "拓维信息"
+      ]
+    },
+    {
+      "rank": 66,
+      "name": "竞技世界（北京）网络技术有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "JJ斗地主"
+      ],
+      "aliases": [
+        "JJ斗地主"
+      ]
+    },
+    {
+      "rank": 67,
+      "name": "广州趣丸网络科技有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "趣丸"
+      ],
+      "aliases": [
+        "趣丸"
+      ]
+    },
+    {
+      "rank": 68,
+      "name": "同道猎聘集团",
+      "province": "天津市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "猎聘"
+      ],
+      "aliases": [
+        "猎聘"
+      ]
+    },
+    {
+      "rank": 69,
+      "name": "武汉百度集团有限公司",
+      "province": "湖北省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "百度推广"
+      ],
+      "aliases": [
+        "百度推广"
+      ]
+    },
+    {
+      "rank": 70,
+      "name": "厦门众联世纪股份有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "流量果"
+      ],
+      "aliases": [
+        "流量果"
+      ]
+    },
+    {
+      "rank": 71,
+      "name": "福建游龙共创网络技术有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "19196手游平台"
+      ],
+      "aliases": [
+        "19196手游平台"
+      ]
+    },
+    {
+      "rank": 72,
+      "name": "在线途游（北京）科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "在线途游"
+      ],
+      "aliases": [
+        "在线途游"
+      ]
+    },
+    {
+      "rank": 73,
+      "name": "映宇宙集团有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "映客直播"
+      ],
+      "aliases": [
+        "映客直播"
+      ]
+    },
+    {
+      "rank": 74,
+      "name": "拉卡拉支付股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "拉卡拉"
+      ],
+      "aliases": [
+        "拉卡拉"
+      ]
+    },
+    {
+      "rank": 75,
+      "name": "北京猿力科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "猿力教育"
+      ],
+      "aliases": [
+        "猿力教育"
+      ]
+    },
+    {
+      "rank": 76,
+      "name": "杭州顺网科技股份有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "顺网"
+      ],
+      "aliases": [
+        "顺网"
+      ]
+    },
+    {
+      "rank": 77,
+      "name": "百融云创科技股份有限公司",
+      "province": "浙江省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "百融云"
+      ],
+      "aliases": [
+        "百融云"
+      ]
+    },
+    {
+      "rank": 78,
+      "name": "江西傲星科技有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "傲星"
+      ],
+      "aliases": [
+        "傲星"
+      ]
+    },
+    {
+      "rank": 79,
+      "name": "斗鱼国际控股有限公司",
+      "province": "江西省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "斗鱼"
+      ],
+      "aliases": [
+        "斗鱼"
+      ],
+      "canonicalCompanyId": "douyu"
+    },
+    {
+      "rank": 80,
+      "name": "厦门延趣网络科技有限公司",
+      "province": "湖北省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "延趣游戏"
+      ],
+      "aliases": [
+        "延趣游戏"
+      ]
+    },
+    {
+      "rank": 81,
+      "name": "深圳市梦网科技发展有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "梦网"
+      ],
+      "aliases": [
+        "梦网"
+      ]
+    },
+    {
+      "rank": 82,
+      "name": "南京领行科技股份有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "T3出行"
+      ],
+      "aliases": [
+        "T3出行"
+      ]
+    },
+    {
+      "rank": 83,
+      "name": "上海易娱网络科技有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "易娱网络"
+      ],
+      "aliases": [
+        "易娱网络"
+      ]
+    },
+    {
+      "rank": 84,
+      "name": "江苏瑞祥科技集团有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "瑞祥全球购"
+      ],
+      "aliases": [
+        "瑞祥全球购"
+      ]
+    },
+    {
+      "rank": 85,
+      "name": "福建福昕软件开发股份有限公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "Foxit"
+      ],
+      "aliases": [
+        "Foxit"
+      ],
+      "canonicalCompanyId": "foxit"
+    },
+    {
+      "rank": 86,
+      "name": "江苏零浩网络科技有限公司",
+      "province": "福建省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "贪玩游戏"
+      ],
+      "aliases": [
+        "贪玩游戏"
+      ]
+    },
+    {
+      "rank": 87,
+      "name": "贪玩公司",
+      "province": "江苏省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "东方明珠"
+      ],
+      "aliases": [
+        "东方明珠"
+      ]
+    },
+    {
+      "rank": 88,
+      "name": "东方明珠新媒体股份有限公司",
+      "province": "江西省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "乐逗游戏"
+      ],
+      "aliases": [
+        "乐逗游戏"
+      ]
+    },
+    {
+      "rank": 89,
+      "name": "创梦天地科技控股有限公司",
+      "province": "上海市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "水滴"
+      ],
+      "aliases": [
+        "水滴"
+      ]
+    },
+    {
+      "rank": 90,
+      "name": "水滴科技集团",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "元游"
+      ],
+      "aliases": [
+        "元游"
+      ]
+    },
+    {
+      "rank": 91,
+      "name": "海南元游信息技术有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "海看"
+      ],
+      "aliases": [
+        "海看"
+      ]
+    },
+    {
+      "rank": 92,
+      "name": "海看网络科技（山东）股份有限公司",
+      "province": "海南省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "白山云"
+      ],
+      "aliases": [
+        "白山云"
+      ]
+    },
+    {
+      "rank": 93,
+      "name": "贵州白山云科技股份有限公司",
+      "province": "山东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "YY直播"
+      ],
+      "aliases": [
+        "YY直播"
+      ]
+    },
+    {
+      "rank": 94,
+      "name": "广州津虹网络传媒有限公司",
+      "province": "贵州省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "国都互联"
+      ],
+      "aliases": [
+        "国都互联"
+      ]
+    },
+    {
+      "rank": 95,
+      "name": "北京国都互联科技有限公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "兴盛优选"
+      ],
+      "aliases": [
+        "兴盛优选"
+      ]
+    },
+    {
+      "rank": 96,
+      "name": "湖南兴盛优选电子商务有限公司",
+      "province": "北京市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "麦萌短剧"
+      ],
+      "aliases": [
+        "麦萌短剧"
+      ]
+    },
+    {
+      "rank": 97,
+      "name": "重庆麦芽传媒有限公司",
+      "province": "湖南省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "迅雷"
+      ],
+      "aliases": [
+        "迅雷"
+      ]
+    },
+    {
+      "rank": 98,
+      "name": "深圳市迅雷网络技术有限公司",
+      "province": "重庆市",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "荔枝"
+      ],
+      "aliases": [
+        "荔枝"
+      ],
+      "canonicalCompanyId": "xunlei"
+    },
+    {
+      "rank": 99,
+      "name": "荔枝集团",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [
+        "龙采"
+      ],
+      "aliases": [
+        "龙采"
+      ],
+      "canonicalCompanyId": "lizhi"
+    },
+    {
+      "rank": 100,
+      "name": "龙采科技集团有限责任公司",
+      "province": "广东省",
+      "segment": "互联网综合与数字服务",
+      "brands": [],
+      "aliases": []
+    }
+  ]
+}
