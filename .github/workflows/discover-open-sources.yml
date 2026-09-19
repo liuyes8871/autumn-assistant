@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install collector dependencies
+        run: python -m pip install -r collector/requirements.txt
       - name: Refresh discovery-only coverage reports
         run: |
           python -m collector.discovery --companies registry/companies.json --sources registry/sources.json --focus registry/internet-focus.json --authorities registry/candidate-discovery-sources.json --authority-index registry/internet-authority-top100.json --hiring-radar registry/hiring-radar-seed.json --check-authorities --check-candidate-sources --discover-target-sources --output artifacts/source-coverage.json
