@@ -501,7 +501,8 @@ def _row_job(source: SourceConfig, row: Any, index: int, page_url: str) -> RawJo
             break
     apply_url = href or page_url
     # Row index is part of the id when a legacy page exposes no per-job href.
-    source_job_id = href or f"row-{index}-{hashlib.sha256("|".join(values).encode("utf-8")).hexdigest()[:12]}"
+    row_digest = hashlib.sha256("|".join(values).encode("utf-8")).hexdigest()[:12]
+    source_job_id = href or f"row-{index}-{row_digest}"
     location = "未知"
     for value in values[1:]:
         if any(token in value for token in ("北京", "上海", "天津", "重庆", "广州", "深圳", "杭州", "南京", "武汉", "成都", "西安", "全国", "远程")):
