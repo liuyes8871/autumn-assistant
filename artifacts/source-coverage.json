@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:57:56.658622+00:00",
+  "generatedAt": "2026-09-19T18:03:32.280897+00:00",
   "coverageStatus": "IN_PROGRESS",
   "coverageScope": "registry_candidates_and_reviewed_sources",
   "selectionPolicy": "china_internet_focus_then_listed_and_employee_count_gte_500",
@@ -9390,7 +9390,7 @@
     {
       "id": "sse-listed",
       "url": "https://www.sse.com.cn/assortment/stock/list/share/",
-      "checkedAt": "2026-09-19T10:57:56.664852+00:00",
+      "checkedAt": "2026-09-19T18:03:32.287264+00:00",
       "statusCode": 200,
       "reachable": true,
       "blocked": false,
@@ -9400,7 +9400,7 @@
     {
       "id": "szse-listed",
       "url": "https://www.szse.cn/market/stock/company/",
-      "checkedAt": "2026-09-19T10:57:56.664852+00:00",
+      "checkedAt": "2026-09-19T18:03:32.287264+00:00",
       "reachable": false,
       "blocked": false,
       "errorType": "request_error"
@@ -9408,7 +9408,7 @@
     {
       "id": "bse-listed",
       "url": "https://www.bse.cn/nq/listedcompany.html",
-      "checkedAt": "2026-09-19T10:57:56.664852+00:00",
+      "checkedAt": "2026-09-19T18:03:32.287264+00:00",
       "statusCode": 502,
       "reachable": false,
       "blocked": false,
@@ -9419,17 +9419,17 @@
     {
       "id": "hkex-listed",
       "url": "https://www.hkex.com.hk/services/trading/securities/securities-lists?sc_lang=en",
-      "checkedAt": "2026-09-19T10:57:56.664852+00:00",
+      "checkedAt": "2026-09-19T18:03:32.287264+00:00",
       "statusCode": 200,
       "reachable": true,
       "blocked": false,
       "contentType": "text/html",
-      "bytes": 250839
+      "bytes": 397277
     },
     {
       "id": "sasac-central-soes",
       "url": "http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html",
-      "checkedAt": "2026-09-19T10:57:56.664852+00:00",
+      "checkedAt": "2026-09-19T18:03:32.287264+00:00",
       "statusCode": 200,
       "reachable": true,
       "blocked": false,

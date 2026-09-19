@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.19.1057",
-  "generatedAt": "2026-09-19T10:57:04.368717+00:00",
+  "catalogVersion": "2026.09.19.1802",
+  "generatedAt": "2026-09-19T18:02:39.079564+00:00",
   "isDemo": false,
   "companies": [
     {
@@ -35,8 +35,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 251,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.robinhood.com/",
@@ -80,8 +80,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 58,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -122,8 +122,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 54,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -164,8 +164,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 6,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "focusSegment": "电商与本地生活"
     },
@@ -204,8 +204,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 60,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -244,8 +244,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 61,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "coverageException": "上市状态已核验，但尚未找到可引用的一手员工规模数字"
     },
@@ -274,12 +274,12 @@
         "evidenceText": "官方校园招聘来源已完成基础核验；具体岗位以企业官网和岗位详情为准。",
         "detectedSignals": [
           "2027 届校招入口已登记",
-          "已同步 433 条合格岗位"
+          "已同步 425 条合格岗位"
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 1,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "coverageException": "官方校招渠道已核验，上市状态与员工规模未纳入当前公开注册表证据",
       "focusSegment": "综合平台与 AI"
@@ -319,8 +319,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 24,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -362,8 +362,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 62,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -401,12 +401,12 @@
         "evidenceText": "官方校园招聘来源已完成基础核验；具体岗位以企业官网和岗位详情为准。",
         "detectedSignals": [
           "2027 届校招入口已登记",
-          "已同步 153 条合格岗位"
+          "已同步 148 条合格岗位"
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 20,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -444,8 +444,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 56,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -486,8 +486,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 57,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -522,8 +522,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 59,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "coverageException": "智能硬件行业覆盖例外：官方校招渠道已核验，但上市状态与员工规模证据不足"
     },
@@ -562,8 +562,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 53,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -601,8 +601,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 52,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -640,8 +640,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 55,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -681,8 +681,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 2,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "focusSegment": "搜索与 AI"
     },
@@ -722,8 +722,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 4,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "logoUrl": "https://www.tencent.com/wp-content/uploads/2024/05/cropped-04_Tencent_Graphics2-192x192.png",
       "logoSource": "OFFICIAL",
@@ -759,8 +759,8 @@
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 14,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "coverageException": "游戏行业覆盖例外：官方校招渠道已核验，但未上市且缺少可用规模证据",
       "discoverySources": [
@@ -801,12 +801,12 @@
         "evidenceText": "官方校园招聘来源已完成基础核验；具体岗位以企业官网和岗位详情为准。",
         "detectedSignals": [
           "2027 届校招入口已登记",
-          "已同步 66 条合格岗位"
+          "已同步 60 条合格岗位"
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 21,
-        "firstConfirmedAt": "2026-09-19T10:57:04.368717+00:00",
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "firstConfirmedAt": "2026-09-19T18:02:39.079564+00:00",
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -839,7 +839,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 74,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://360campus.zhiye.com/"
@@ -876,7 +876,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 102,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.4399om.com/campus/",
@@ -916,7 +916,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 81,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.58.com/"
@@ -957,7 +957,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 200,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.bigo.sg/",
@@ -1006,7 +1006,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 82,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.zhipin.com/",
@@ -1048,7 +1048,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 305,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -1095,7 +1095,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 190,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://ciderglobal.jobs.feishu.cn/",
@@ -1141,7 +1141,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 247,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.dolphindb.com/",
@@ -1187,7 +1187,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 227,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.funplus.com.cn/",
@@ -1229,7 +1229,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 84,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://keep.com/careers/",
@@ -1271,7 +1271,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 209,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.metaapp.cn/"
@@ -1316,7 +1316,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 182,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://vrfi1sk8a0.jobs.feishu.cn/",
@@ -1362,7 +1362,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 166,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://momenta.jobs.feishu.cn/campus/",
@@ -1402,7 +1402,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 16,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -1439,7 +1439,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 250,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://pingcap.com/careers",
@@ -1481,7 +1481,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 252,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://point72.com/students-early-career/",
@@ -1524,7 +1524,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 43,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.shein.com/",
@@ -1569,7 +1569,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 283,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -1616,7 +1616,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 85,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.soulapp.cn/career",
@@ -1659,7 +1659,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 125,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://t3go.zhiye.com/",
@@ -1701,7 +1701,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 297,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -1747,7 +1747,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 298,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -1794,7 +1794,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 244,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.qiniu.com/",
@@ -1838,7 +1838,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 241,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.qimao.com/about",
@@ -1880,7 +1880,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 296,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -1924,7 +1924,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 91,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhaopin.37.com/index.php?a=recruit&c=recruit&m=Home&recruit=1"
@@ -1965,7 +1965,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 287,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -2012,7 +2012,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 208,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.boomingtech.com/"
@@ -2059,7 +2059,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 122,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://vnet.jobs.feishu.cn/",
@@ -2104,7 +2104,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 117,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.sjhuatong.com/Join/Index.aspx",
@@ -2153,7 +2153,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 147,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.opg.cn/cn/index.html",
@@ -2193,7 +2193,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 33,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoverySources": [
         "hiring-radar"
@@ -2230,7 +2230,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 35,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -2263,7 +2263,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 34,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.10086.cn/",
@@ -2304,7 +2304,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 198,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://cmge.com/cn/join",
@@ -2351,7 +2351,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 162,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.zto.com/Campus",
@@ -2397,7 +2397,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 141,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.lexin.com/"
@@ -2439,7 +2439,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 199,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.leyuansu.com/",
@@ -2485,7 +2485,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 306,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -2532,7 +2532,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 243,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.cloudwalk.com/",
@@ -2575,7 +2575,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 143,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.qcc.com/"
@@ -2620,7 +2620,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 225,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.zhongan.com/channel/public/xiaozhao/index.html",
@@ -2663,7 +2663,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 235,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhaopin.ucloud.cn/",
@@ -2707,7 +2707,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 175,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.zuoyebang.com/"
@@ -2755,7 +2755,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 140,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://finvgroup.com/",
@@ -2797,7 +2797,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 302,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -2843,7 +2843,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 304,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -2889,7 +2889,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 292,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -2938,7 +2938,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 142,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.sinnet.com.cn/jobs.html",
@@ -2983,7 +2983,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 148,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.idreamsky.com/",
@@ -3025,7 +3025,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 276,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -3072,7 +3072,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 248,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.beisen.com/",
@@ -3114,7 +3114,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 280,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -3158,7 +3158,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 15,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -3195,7 +3195,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 133,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://bosssoft1.zhiye.com/campus/jobs",
@@ -3237,7 +3237,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 307,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -3284,7 +3284,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 185,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zegocloud.jobs.feishu.cn/",
@@ -3327,7 +3327,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 99,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.qunar.com/"
@@ -3369,7 +3369,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 202,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.yottagames.com.cn/zh/campus",
@@ -3410,7 +3410,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 12,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.papergames.com/home",
@@ -3454,7 +3454,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 210,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.juzibot.com/",
@@ -3500,7 +3500,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 163,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://ddmcxz.zhiye.com/",
@@ -3546,7 +3546,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 116,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.g-bits.com/",
@@ -3586,7 +3586,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 92,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://mhr.ly.com/recruit/schoolPortal/",
@@ -3631,7 +3631,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 152,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.10jqka.com.cn/job/list?type=school",
@@ -3677,7 +3677,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 129,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.liepin.com/ecomp/8388694/",
@@ -3719,7 +3719,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 291,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -3765,7 +3765,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 300,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -3813,7 +3813,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 239,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.migu.cn/join/recruitmentFreshGraduates",
@@ -3853,7 +3853,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 83,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hellobike.zhiye.com/",
@@ -3893,7 +3893,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 11,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.bilibili.com/",
@@ -3933,7 +3933,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 76,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.vip.com/"
@@ -3975,7 +3975,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 172,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.sensetime.com/campus",
@@ -4015,7 +4015,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 97,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.ximalaya.com/"
@@ -4054,7 +4054,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 36,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -4090,7 +4090,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 178,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://xz.duoyi.com/",
@@ -4130,7 +4130,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 17,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://we.dji.com/"
@@ -4174,7 +4174,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 134,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://app.mokahr.com/campus-recruitment/360jinrong/575#/",
@@ -4219,7 +4219,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 112,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.tal.com/"
@@ -4258,7 +4258,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 69,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.catl.com/",
@@ -4298,7 +4298,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 281,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -4345,7 +4345,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 169,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.annwul.com.cn/",
@@ -4385,7 +4385,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 13,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.games.wanmei.com/school.html",
@@ -4434,7 +4434,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 113,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.baozun.com/",
@@ -4477,7 +4477,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 233,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.futunn.com/",
@@ -4519,7 +4519,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 7,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.xiaomi.com/website/campus.html",
@@ -4558,7 +4558,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 73,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.xiaohongshu.com/"
@@ -4598,7 +4598,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 223,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.xiaoe-tech.com/joinUs",
@@ -4638,7 +4638,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 26,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -4671,7 +4671,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 90,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.ztgame.com/campus/",
@@ -4711,7 +4711,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 32,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -4744,7 +4744,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 95,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://kurogame.jobs.feishu.cn/"
@@ -4788,7 +4788,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 284,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -4835,7 +4835,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 174,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.duxiaoman.com/",
@@ -4875,7 +4875,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 27,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.ccb.com/cn/job/index.html",
@@ -4916,7 +4916,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 191,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://mediastorm.jobs.feishu.cn/",
@@ -4962,7 +4962,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 192,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://dedao.jobs.feishu.cn/",
@@ -5009,7 +5009,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 79,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.dewu.com/",
@@ -5052,7 +5052,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 165,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.webank.com/",
@@ -5092,7 +5092,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 80,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryNote": "微博列入互联网重点候选；尚未确认可公开访问且明确指向当前届校招的官方入口，暂不显示为已接入来源。",
       "focusSegment": "内容社区与社交"
@@ -5130,7 +5130,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 229,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.threatbook.cn/join",
@@ -5176,7 +5176,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 189,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://wepie.jobs.feishu.cn/",
@@ -5224,7 +5224,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 153,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.weimob.com/talent/",
@@ -5266,7 +5266,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 193,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://xd-legacy.jobs.feishu.cn/",
@@ -5309,7 +5309,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 64,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhaopin.kuaishou.cn/"
@@ -5350,7 +5350,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 246,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.smartmore.com/",
@@ -5399,7 +5399,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 240,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.hundsun.com/",
@@ -5443,7 +5443,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 114,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.kingnet.com/",
@@ -5489,7 +5489,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 194,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://dcar.jobs.feishu.cn/",
@@ -5536,7 +5536,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 171,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.fang.com/index.html",
@@ -5580,7 +5580,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 130,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.lakala.com/career",
@@ -5625,7 +5625,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 144,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.todtech.com/"
@@ -5664,7 +5664,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 29,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.cmbchina.com/login",
@@ -5702,7 +5702,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 63,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.pddglobalhr.com/campus/"
@@ -5743,7 +5743,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 207,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.shixiangtech.com/"
@@ -5790,7 +5790,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 220,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.hellogroup.com/",
@@ -5838,7 +5838,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 176,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.zhangyue.com/join",
@@ -5886,7 +5886,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 105,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.sohu.com/",
@@ -5929,7 +5929,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 218,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.changyou.com/"
@@ -5968,7 +5968,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 65,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://pages.ctrip.com/commerce/promote/201108/other/hire/oppertunity.html",
@@ -6009,7 +6009,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 290,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6057,7 +6057,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 206,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.sandboxg.com/"
@@ -6099,7 +6099,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 94,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhaopin.douyu.com/"
@@ -6143,7 +6143,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 135,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.xinhuanet.com/company/job.htm",
@@ -6186,7 +6186,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 214,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.sina.com.cn/",
@@ -6231,7 +6231,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 285,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6278,7 +6278,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 168,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.megvii.com/careers",
@@ -6322,7 +6322,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 110,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.kunlun.com/",
@@ -6364,7 +6364,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 274,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6411,7 +6411,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 215,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.eyugame.com/"
@@ -6455,7 +6455,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 131,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://yiche.zhiye.com/xiaozhao",
@@ -6497,7 +6497,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 279,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6544,7 +6544,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 126,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.inkeverse.com/careers",
@@ -6584,7 +6584,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 46,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       }
     },
     {
@@ -6619,7 +6619,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 277,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6667,7 +6667,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 180,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhipu-ai.jobs.feishu.cn/",
@@ -6712,7 +6712,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 289,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6760,7 +6760,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 183,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://moonshot.jobs.feishu.cn/",
@@ -6808,7 +6808,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 154,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.youzan.com/",
@@ -6850,7 +6850,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 286,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -6897,7 +6897,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 161,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jtexpress.jobs.feishu.cn/index",
@@ -6942,7 +6942,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 136,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.montnets.com/",
@@ -6985,7 +6985,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 188,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://coconutisland.jobs.feishu.cn/",
@@ -7032,7 +7032,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 232,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://yylive.zhiye.com/campus/",
@@ -7072,7 +7072,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 72,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.loreal.com/zh_CN/content/Home?3_110_3=43216538"
@@ -7115,7 +7115,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 226,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.getui.com/campus",
@@ -7155,7 +7155,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 68,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.byd.com/portal/mobile/school-home",
@@ -7197,7 +7197,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 149,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.waterdrop-inc.com/campus",
@@ -7242,7 +7242,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 107,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://mobvista.cn/careers",
@@ -7288,7 +7288,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 106,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.autohome.com.cn/campus_index.html",
@@ -7331,7 +7331,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 187,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://moonton.jobs.feishu.cn/",
@@ -7378,7 +7378,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 236,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://boke.jobs.feishu.cn/581609",
@@ -7419,7 +7419,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 71,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hxfw.hisense.com/jiaruwomen/"
@@ -7456,7 +7456,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 70,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.haier.com/careers/",
@@ -7499,7 +7499,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 249,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.tuya.com/careers",
@@ -7543,7 +7543,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 115,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.sangfor.com/",
@@ -7587,7 +7587,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 205,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.yokagames.com/"
@@ -7632,7 +7632,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 195,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.yoozoo.com/",
@@ -7676,7 +7676,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 93,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://app.mokahr.com/campus_apply/manbang/94191#/jobs"
@@ -7718,7 +7718,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 66,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.didiglobal.com/campus_apply/didiglobal/96064"
@@ -7762,7 +7762,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 219,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.lingxigames.com/campus/home?lang=zh",
@@ -7805,7 +7805,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 123,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.dianzhong.com/join.html",
@@ -7848,7 +7848,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 179,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://ddhd.cn/campus",
@@ -7894,7 +7894,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 132,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.focuschina.com/xiaoyuanzhaopin.html",
@@ -7934,7 +7934,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 77,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.iqiyi.com/"
@@ -7975,7 +7975,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 213,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.aibee.cn/"
@@ -8020,7 +8020,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 216,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.aisphere.ai/"
@@ -8066,7 +8066,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 120,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.yuanfudao.com/",
@@ -8109,7 +8109,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 217,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.shengshu.ai/"
@@ -8151,7 +8151,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 87,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/school.html",
@@ -8196,7 +8196,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 203,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.dianhun.cn/"
@@ -8241,7 +8241,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 139,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.baishan.com/join-us.html",
@@ -8284,7 +8284,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 181,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://cq6qe6bvfr6.jobs.feishu.cn/",
@@ -8332,7 +8332,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 121,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.brgroup.com/campus",
@@ -8376,7 +8376,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 164,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hire.freshippo.com/",
@@ -8419,7 +8419,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 196,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.shengqugames.com/cn/join",
@@ -8459,7 +8459,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 78,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.zhihu.com/careers",
@@ -8508,7 +8508,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 237,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.zulong.com/",
@@ -8553,7 +8553,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 111,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.foxit.com/",
@@ -8596,7 +8596,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 288,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -8642,7 +8642,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 295,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -8691,7 +8691,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 151,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.iflytek.com/",
@@ -8733,7 +8733,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 301,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -8780,7 +8780,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 145,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.jj.cn/",
@@ -8823,7 +8823,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 242,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.4paradigm.com/about/hr.html",
@@ -8865,7 +8865,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 10,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.mihoyo.com/",
@@ -8907,7 +8907,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 303,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -8956,7 +8956,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 108,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.nsfocus.com.cn/campus/",
@@ -9000,7 +9000,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 118,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.wangsu.com/about/college-employ",
@@ -9043,7 +9043,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 104,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.163.com/",
@@ -9086,7 +9086,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 231,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.163.com/app/talents/music",
@@ -9131,7 +9131,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 222,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://iyoudao.com.cn/campus.html",
@@ -9171,7 +9171,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 9,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://game.campus.163.com/",
@@ -9214,7 +9214,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 103,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.nd.com.cn/",
@@ -9259,7 +9259,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 5,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.meituan.com/web/campus",
@@ -9299,7 +9299,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 101,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.meitu.com/",
@@ -9339,7 +9339,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 67,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.midea.com/",
@@ -9377,7 +9377,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 8,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "logoUrl": "https://www.lenovo.com/favicon.ico",
       "logoSource": "OFFICIAL",
@@ -9416,7 +9416,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 184,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://maimai.jobs.feishu.cn/",
@@ -9459,7 +9459,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 89,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.tencentmusic.com/campus/"
@@ -9500,7 +9500,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 275,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -9547,7 +9547,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 224,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.ziroom.com/",
@@ -9587,7 +9587,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 96,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.mgtv.com/about/join/jyw/",
@@ -9629,7 +9629,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 293,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -9676,7 +9676,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 170,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.suning.com/",
@@ -9722,7 +9722,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 119,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.lizhiinc.com/recruit/index.html",
@@ -9768,7 +9768,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 160,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.honor.com/SU60eea919bef57c1023f6fe78/pb/school.html",
@@ -9812,7 +9812,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 157,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.cainiao.com/campus/home?lang=zh",
@@ -9854,7 +9854,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 308,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -9903,7 +9903,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 156,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.bluefocus.com/"
@@ -9948,7 +9948,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 167,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.mogu.com/",
@@ -9988,7 +9988,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 100,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.huya.com/"
@@ -10027,7 +10027,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 31,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.antgroup.com/campus",
@@ -10070,7 +10070,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 204,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.shiyue.com/"
@@ -10115,7 +10115,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 177,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://jobs.douban.com/",
@@ -10155,7 +10155,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 75,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.ke.com/"
@@ -10195,7 +10195,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 137,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.huolala.cn/",
@@ -10237,7 +10237,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 128,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://tanwan.cn/join/campus/",
@@ -10280,7 +10280,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 146,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.quwangroup.com/"
@@ -10323,7 +10323,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 228,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhaopin.guazi.com/",
@@ -10366,7 +10366,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 155,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.zhuanzhuan.com/"
@@ -10409,7 +10409,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 109,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.xunlei.com/",
@@ -10456,7 +10456,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 234,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.tujia.com/",
@@ -10499,7 +10499,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 127,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.tuyoo.com/job/campus?site=campus",
@@ -10545,7 +10545,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 238,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://tuniu.zhiye.com/campus/jobs",
@@ -10590,7 +10590,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 158,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.tuhu.cn/Job/JOINUS.html",
@@ -10632,7 +10632,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 299,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -10678,7 +10678,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 294,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -10726,7 +10726,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 230,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://zhweb.kingsoft.com/p/seayoo_recruit/"
@@ -10765,7 +10765,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 86,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryNote": "金山云列入互联网重点候选；公开校园入口仍待确认，不把金山集团其他业务入口混作金山云来源。",
       "focusSegment": "云服务与企业软件"
@@ -10804,7 +10804,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 173,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.wps.cn/",
@@ -10848,7 +10848,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 88,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.kingdee.com/",
@@ -10890,7 +10890,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 278,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -10934,7 +10934,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 98,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.yuewen.com/"
@@ -10976,7 +10976,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 201,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.stepfun.com/",
@@ -11022,7 +11022,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 272,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -11066,7 +11066,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 3,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.alibabagroup.com/en-US/careers/"
@@ -11107,7 +11107,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 159,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://xueqiu.com/about/jobs",
@@ -11150,7 +11150,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 212,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.01.ai/",
@@ -11195,7 +11195,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 273,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -11244,7 +11244,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 245,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.qingcloud.com/jobs",
@@ -11286,7 +11286,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 282,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryOnly": true,
       "discoverySource": "hiring-radar",
@@ -11334,7 +11334,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 211,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.modelbest.cn/"
@@ -11379,7 +11379,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 44,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.sf-express.com/",
@@ -11424,7 +11424,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 124,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://shunwang.zhiye.com/",
@@ -11467,7 +11467,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 138,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://weikezhijia.jobs.feishu.cn/MSXF0619",
@@ -11512,7 +11512,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 221,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.gaotu.cn/",
@@ -11555,7 +11555,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 197,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.hypergryph.com/",
@@ -11601,7 +11601,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 186,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://blacklake.jobs.feishu.cn/",
@@ -11647,7 +11647,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 150,
         "firstConfirmedAt": null,
-        "lastCheckedAt": "2026-09-19T10:57:04.368717+00:00"
+        "lastCheckedAt": "2026-09-19T18:02:39.079564+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.longcai.com/"
