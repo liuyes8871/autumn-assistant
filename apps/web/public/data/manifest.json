@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "locationSchemaVersion": 1,
-  "catalogVersion": "2026.09.20.0455",
-  "generatedAt": "2026-09-20T04:55:49.712766+00:00",
+  "catalogVersion": "2026.09.20.0950",
+  "generatedAt": "2026-09-20T09:50:02.359493+00:00",
   "businessDate": "2026-09-20",
-  "totalJobs": 1055,
+  "totalJobs": 1056,
   "activeJobs": 1006,
   "sourceCount": 235,
   "verifiedSourceCount": 20,
@@ -55,10 +55,10 @@
     "entryLayerSeparateFromJobSources": true
   },
   "sourceHealth": {
-    "healthy": 20,
+    "healthy": 19,
     "quarantined": 0,
     "stale": 0,
-    "notModified": 0,
+    "notModified": 1,
     "blocked": 0,
     "error": 0,
     "autoVerified": 0,
@@ -66,15 +66,15 @@
   },
   "todayCampaignCount": 0,
   "todayPublishedJobCount": 9,
-  "todayFirstSeenCount": 10,
+  "todayFirstSeenCount": 11,
   "unknownLocationCount": 109,
   "audiencePolicy": {
     "version": "humanities-social-business-v1",
     "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
-    "normalizedJobCount": 4583,
-    "eligibleJobCount": 1005,
-    "excludedJobCount": 3360,
-    "reviewJobCount": 218
+    "normalizedJobCount": 4562,
+    "eligibleJobCount": 994,
+    "excludedJobCount": 3353,
+    "reviewJobCount": 215
   },
   "companyDirectory": {
     "cohort": "2027",
@@ -246,7 +246,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "anker-campus",
-      "fetched_at": "2026-09-20T04:56:06.795509Z",
+      "fetched_at": "2026-09-20T09:50:20.040714Z",
       "fetch_complete": true,
       "raw_count": 238,
       "unique_count": 238,
@@ -304,7 +304,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "asiainfo-security-campus",
-      "fetched_at": "2026-09-20T04:56:17.963895Z",
+      "fetched_at": "2026-09-20T09:50:32.246117Z",
       "fetch_complete": true,
       "raw_count": 12,
       "unique_count": 12,
@@ -362,7 +362,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "baidu-campus",
-      "fetched_at": "2026-09-20T04:56:00.266994Z",
+      "fetched_at": "2026-09-20T09:50:12.950505Z",
       "fetch_complete": true,
       "raw_count": 159,
       "unique_count": 147,
@@ -400,7 +400,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "bambulab-campus",
-      "fetched_at": "2026-09-20T04:56:29.827192Z",
+      "fetched_at": "2026-09-20T09:50:47.415063Z",
       "fetch_complete": true,
       "raw_count": 116,
       "unique_count": 116,
@@ -653,15 +653,15 @@
       "freshness_days": null
     },
     {
-      "accepted": 2349,
+      "accepted": 2348,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "bytedance-campus",
-      "fetched_at": "2026-09-20T04:56:39.939083Z",
+      "fetched_at": "2026-09-20T09:50:56.010056Z",
       "fetch_complete": true,
-      "raw_count": 2349,
-      "unique_count": 2349,
+      "raw_count": 2348,
+      "unique_count": 2348,
       "duplicate_count": 0,
       "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
@@ -976,7 +976,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "desay-sv-campus",
-      "fetched_at": "2026-09-20T04:56:24.881970Z",
+      "fetched_at": "2026-09-20T09:50:41.134915Z",
       "fetch_complete": true,
       "raw_count": 108,
       "unique_count": 108,
@@ -1234,7 +1234,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "ecarx-campus",
-      "fetched_at": "2026-09-20T04:56:31.347980Z",
+      "fetched_at": "2026-09-20T09:50:48.465724Z",
       "fetch_complete": true,
       "raw_count": 1,
       "unique_count": 1,
@@ -1792,7 +1792,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "insta360-campus",
-      "fetched_at": "2026-09-20T04:56:22.828602Z",
+      "fetched_at": "2026-09-20T09:50:38.265944Z",
       "fetch_complete": true,
       "raw_count": 225,
       "unique_count": 225,
@@ -1830,7 +1830,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "jd-campus",
-      "fetched_at": "2026-09-20T04:56:04.427328Z",
+      "fetched_at": "2026-09-20T09:50:15.332590Z",
       "fetch_complete": true,
       "raw_count": 125,
       "unique_count": 125,
@@ -2188,7 +2188,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "lilith-campus",
-      "fetched_at": "2026-09-20T04:56:16.061919Z",
+      "fetched_at": "2026-09-20T09:50:30.194092Z",
       "fetch_complete": true,
       "raw_count": 21,
       "unique_count": 21,
@@ -2386,7 +2386,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "meihua-campus",
-      "fetched_at": "2026-09-20T04:56:15.120227Z",
+      "fetched_at": "2026-09-20T09:50:29.250306Z",
       "fetch_complete": true,
       "raw_count": 5,
       "unique_count": 5,
@@ -2779,15 +2779,15 @@
       "freshness_days": null
     },
     {
-      "accepted": 474,
+      "accepted": 475,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "nio-campus",
-      "fetched_at": "2026-09-20T04:56:02.153401Z",
+      "fetched_at": "2026-09-20T09:50:15.266197Z",
       "fetch_complete": true,
-      "raw_count": 474,
-      "unique_count": 474,
+      "raw_count": 475,
+      "unique_count": 475,
       "duplicate_count": 0,
       "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
@@ -2982,7 +2982,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "pony-ai-campus",
-      "fetched_at": "2026-09-20T04:56:33.536592Z",
+      "fetched_at": "2026-09-20T09:50:50.535828Z",
       "fetch_complete": true,
       "raw_count": 2,
       "unique_count": 2,
@@ -3160,7 +3160,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "rigol-campus",
-      "fetched_at": "2026-09-20T04:56:17.089571Z",
+      "fetched_at": "2026-09-20T09:50:31.397991Z",
       "fetch_complete": true,
       "raw_count": 22,
       "unique_count": 22,
@@ -3173,17 +3173,17 @@
       "freshness_days": 0.0
     },
     {
-      "accepted": 21,
+      "accepted": 11,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "robinhood-early-career",
-      "fetched_at": "2026-09-20T04:56:00.568241Z",
+      "fetched_at": "2026-09-20T09:50:13.187633Z",
       "fetch_complete": true,
-      "raw_count": 157,
-      "unique_count": 21,
-      "duplicate_count": 136,
-      "duplicate_ratio": 0.8662420382165605,
+      "raw_count": 11,
+      "unique_count": 11,
+      "duplicate_count": 0,
+      "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
       "unknown_cohort_ratio": 0.0,
       "baseline_count": 21,
@@ -3256,7 +3256,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "seer-robotics-campus",
-      "fetched_at": "2026-09-20T04:56:32.178093Z",
+      "fetched_at": "2026-09-20T09:50:49.556941Z",
       "fetch_complete": true,
       "raw_count": 11,
       "unique_count": 11,
@@ -3634,7 +3634,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "syoung-campus",
-      "fetched_at": "2026-09-20T04:56:18.874903Z",
+      "fetched_at": "2026-09-20T09:50:33.915181Z",
       "fetch_complete": true,
       "raw_count": 30,
       "unique_count": 30,
@@ -3745,19 +3745,19 @@
       "freshness_days": null
     },
     {
-      "accepted": 117,
+      "accepted": 116,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "thundersoft-campus",
-      "fetched_at": "2026-09-20T04:56:27.315667Z",
+      "fetched_at": "2026-09-20T09:50:43.769170Z",
       "fetch_complete": true,
-      "raw_count": 117,
-      "unique_count": 117,
+      "raw_count": 116,
+      "unique_count": 116,
       "duplicate_count": 0,
       "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
-      "unknown_cohort_ratio": 0.24786324786324787,
+      "unknown_cohort_ratio": 0.2413793103448276,
       "baseline_count": 117,
       "baseline_source": "median_recent_runs",
       "freshness_days": 0.0
@@ -4283,15 +4283,15 @@
       "freshness_days": null
     },
     {
-      "accepted": 456,
+      "accepted": 457,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "xpeng-campus",
-      "fetched_at": "2026-09-20T04:56:14.309354Z",
+      "fetched_at": "2026-09-20T09:50:28.331316Z",
       "fetch_complete": true,
-      "raw_count": 456,
-      "unique_count": 456,
+      "raw_count": 457,
+      "unique_count": 457,
       "duplicate_count": 0,
       "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
@@ -4765,20 +4765,20 @@
       "policyVersion": "humanities-social-business-v1",
       "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
       "current": {
-        "normalized": 4583,
-        "targetGeneralist": 1005,
-        "outOfScope": 3360,
-        "needsReview": 218
+        "normalized": 4562,
+        "targetGeneralist": 994,
+        "outOfScope": 3353,
+        "needsReview": 215
       },
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 520,
-        "ALLOWED_TARGET_MAJOR": 442,
+        "ALLOWED_GENERALIST_TITLE": 518,
+        "ALLOWED_TARGET_MAJOR": 433,
         "ALLOWED_UNRESTRICTED_MAJOR": 43,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-        "BLOCKED_NON_TARGET_MAJOR": 175,
+        "BLOCKED_NON_TARGET_MAJOR": 176,
         "BLOCKED_SPECIALIST_PORTFOLIO": 125,
-        "BLOCKED_TECHNICAL_ROLE": 3032,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 218
+        "BLOCKED_TECHNICAL_ROLE": 3024,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
       },
       "bySource": {
         "01ai-careers": {
@@ -5010,9 +5010,9 @@
           "reasonCounts": {}
         },
         "bytedance-campus": {
-          "normalized": 2349,
+          "normalized": 2348,
           "targetGeneralist": 432,
-          "outOfScope": 1856,
+          "outOfScope": 1855,
           "needsReview": 61,
           "reasonCounts": {
             "ALLOWED_GENERALIST_TITLE": 257,
@@ -5021,7 +5021,7 @@
             "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
             "BLOCKED_NON_TARGET_MAJOR": 37,
             "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-            "BLOCKED_TECHNICAL_ROLE": 1770,
+            "BLOCKED_TECHNICAL_ROLE": 1769,
             "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
           }
         },
@@ -5807,9 +5807,9 @@
           "reasonCounts": {}
         },
         "nio-campus": {
-          "normalized": 474,
+          "normalized": 475,
           "targetGeneralist": 62,
-          "outOfScope": 327,
+          "outOfScope": 328,
           "needsReview": 85,
           "reasonCounts": {
             "ALLOWED_GENERALIST_TITLE": 32,
@@ -5818,7 +5818,7 @@
             "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
             "BLOCKED_NON_TARGET_MAJOR": 16,
             "BLOCKED_SPECIALIST_PORTFOLIO": 8,
-            "BLOCKED_TECHNICAL_ROLE": 302,
+            "BLOCKED_TECHNICAL_ROLE": 303,
             "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
           }
         },
@@ -5963,16 +5963,11 @@
           }
         },
         "robinhood-early-career": {
-          "normalized": 21,
-          "targetGeneralist": 11,
-          "outOfScope": 7,
-          "needsReview": 3,
-          "reasonCounts": {
-            "ALLOWED_GENERALIST_TITLE": 2,
-            "ALLOWED_TARGET_MAJOR": 9,
-            "BLOCKED_TECHNICAL_ROLE": 7,
-            "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
-          }
+          "normalized": 0,
+          "targetGeneralist": 0,
+          "outOfScope": 0,
+          "needsReview": 0,
+          "reasonCounts": {}
         },
         "sandbox-careers": {
           "normalized": 0,
@@ -6189,9 +6184,9 @@
           "reasonCounts": {}
         },
         "thundersoft-campus": {
-          "normalized": 117,
+          "normalized": 116,
           "targetGeneralist": 10,
-          "outOfScope": 106,
+          "outOfScope": 105,
           "needsReview": 1,
           "reasonCounts": {
             "ALLOWED_GENERALIST_TITLE": 7,
@@ -6199,7 +6194,7 @@
             "ALLOWED_UNRESTRICTED_MAJOR": 2,
             "BLOCKED_NON_TARGET_MAJOR": 1,
             "BLOCKED_SPECIALIST_PORTFOLIO": 2,
-            "BLOCKED_TECHNICAL_ROLE": 103,
+            "BLOCKED_TECHNICAL_ROLE": 102,
             "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
           }
         },
@@ -6386,16 +6381,16 @@
           "reasonCounts": {}
         },
         "xpeng-campus": {
-          "normalized": 456,
+          "normalized": 457,
           "targetGeneralist": 149,
-          "outOfScope": 307,
+          "outOfScope": 308,
           "needsReview": 0,
           "reasonCounts": {
             "ALLOWED_GENERALIST_TITLE": 89,
             "ALLOWED_TARGET_MAJOR": 57,
             "ALLOWED_UNRESTRICTED_MAJOR": 3,
             "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
-            "BLOCKED_NON_TARGET_MAJOR": 81,
+            "BLOCKED_NON_TARGET_MAJOR": 82,
             "BLOCKED_SPECIALIST_PORTFOLIO": 19,
             "BLOCKED_TECHNICAL_ROLE": 204
           }
@@ -8939,33 +8934,6 @@
           ]
         },
         {
-          "jobId": "robinhood:8197614",
-          "sourceId": "robinhood-early-career",
-          "companyName": "Robinhood",
-          "title": "People Partner Intern (Summer 2027)",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "robinhood:8198255",
-          "sourceId": "robinhood-early-career",
-          "companyName": "Robinhood",
-          "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "robinhood:8198097",
-          "sourceId": "robinhood-early-career",
-          "companyName": "Robinhood",
-          "title": "Vendor Management Intern (Summer 2027)",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
           "jobId": "jd:9260",
           "sourceId": "jd-campus",
           "companyName": "京东",
@@ -9254,8 +9222,8 @@
           ]
         }
       ],
-      "generatedAt": "2026-09-20T04:55:49.712766+00:00",
-      "catalogVersion": "2026.09.20.0455"
+      "generatedAt": "2026-09-20T09:50:02.359493+00:00",
+      "catalogVersion": "2026.09.20.0950"
     }
   ]
 }
