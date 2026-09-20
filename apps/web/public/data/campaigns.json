@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.19.2220",
-  "generatedAt": "2026-09-19T22:20:03.377430+00:00",
+  "catalogVersion": "2026.09.20.0455",
+  "generatedAt": "2026-09-20T04:55:49.712766+00:00",
   "campaigns": [
     {
       "id": "nio:2027:管培生/专项计划",
@@ -14,7 +14,7 @@
       "deadline": null,
       "officialUrl": "https://nio.jobs.feishu.cn/campus/",
       "sourceId": "nio-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "nio:7673027194915408166"
@@ -31,9 +31,10 @@
       "deadline": null,
       "officialUrl": "https://nio.jobs.feishu.cn/campus/",
       "sourceId": "nio-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
+        "nio:7687447327914068287",
         "nio:7673027389115615526",
         "nio:7673027389115320614",
         "nio:7673027389115025702",
@@ -67,6 +68,7 @@
         "nio:7673027221095942451",
         "nio:7673027221095582003",
         "nio:7673027221094975795",
+        "nio:7673027221094680883",
         "nio:7673027213571426586",
         "nio:7673027213571115290",
         "nio:7673027213570803994",
@@ -119,7 +121,7 @@
       "deadline": null,
       "officialUrl": "https://lilithgames.jobs.feishu.cn/campus/",
       "sourceId": "lilith-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "lilith:7685305468067023167",
@@ -137,9 +139,10 @@
       "deadline": null,
       "officialUrl": "https://talent.baidu.com/jobs/list",
       "sourceId": "baidu-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
+        "baidu:6ea8538d-4ea0-4488-98f5-0fac33564f03",
         "baidu:45cd8aa8-587a-4cfe-a8d0-5290376e6427",
         "baidu:7255dcd6-78c6-4592-b328-f5d3b09eef53",
         "baidu:2ce00a5c-20eb-42cf-a4d9-200cc904386f",
@@ -192,7 +195,7 @@
       "deadline": null,
       "officialUrl": "https://syounggroup.jobs.feishu.cn/campus/",
       "sourceId": "syoung-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "syoung:7683748773328554290",
@@ -213,7 +216,7 @@
       "deadline": null,
       "officialUrl": "https://syounggroup.jobs.feishu.cn/campus/",
       "sourceId": "syoung-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "syoung:7676367526322833683"
@@ -230,7 +233,7 @@
       "deadline": null,
       "officialUrl": "https://syounggroup.jobs.feishu.cn/campus/",
       "sourceId": "syoung-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "syoung:7685270922007791891",
@@ -256,7 +259,7 @@
       "deadline": null,
       "officialUrl": "https://j8fq0c3gg7.jobs.feishu.cn/905946",
       "sourceId": "meihua-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "meihua:7685927866488457526"
@@ -273,7 +276,7 @@
       "deadline": null,
       "officialUrl": "https://j8fq0c3gg7.jobs.feishu.cn/905946",
       "sourceId": "meihua-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "meihua:7673020318063495462"
@@ -290,7 +293,7 @@
       "deadline": null,
       "officialUrl": "https://rigolportal.jobs.feishu.cn/campus/",
       "sourceId": "rigol-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "rigol:7647752781072435499",
@@ -308,7 +311,7 @@
       "deadline": null,
       "officialUrl": "https://bambulab.jobs.feishu.cn/campus/",
       "sourceId": "bambulab-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bambulab:7681277524110248201",
@@ -347,7 +350,7 @@
       "deadline": null,
       "officialUrl": "https://bambulab.jobs.feishu.cn/campus/",
       "sourceId": "bambulab-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bambulab:7670860424262650154",
@@ -365,7 +368,7 @@
       "deadline": null,
       "officialUrl": "https://bambulab.jobs.feishu.cn/campus/",
       "sourceId": "bambulab-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bambulab:7670442765041649956"
@@ -382,7 +385,7 @@
       "deadline": null,
       "officialUrl": "https://bambulab.jobs.feishu.cn/campus/",
       "sourceId": "bambulab-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bambulab:7670527184339487026",
@@ -404,7 +407,7 @@
       "deadline": null,
       "officialUrl": "https://yesv-desaysv.jobs.feishu.cn/campus/",
       "sourceId": "desay-sv-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "desay-sv:7675615321164826926",
@@ -423,7 +426,7 @@
       "deadline": null,
       "officialUrl": "https://yesv-desaysv.jobs.feishu.cn/campus/",
       "sourceId": "desay-sv-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "desay-sv:7678553639053527337",
@@ -456,7 +459,7 @@
       "deadline": null,
       "officialUrl": "https://arashivision.jobs.feishu.cn/campus/",
       "sourceId": "insta360-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "insta360:7667853804130650378",
@@ -474,7 +477,7 @@
       "deadline": null,
       "officialUrl": "https://arashivision.jobs.feishu.cn/campus/",
       "sourceId": "insta360-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "insta360:7663396588585437467"
@@ -491,7 +494,7 @@
       "deadline": null,
       "officialUrl": "https://arashivision.jobs.feishu.cn/campus/",
       "sourceId": "insta360-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "insta360:7678640346762316083",
@@ -545,7 +548,7 @@
       "deadline": null,
       "officialUrl": "https://arashivision.jobs.feishu.cn/campus/",
       "sourceId": "insta360-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "insta360:7677559590825511194",
@@ -600,7 +603,7 @@
       "deadline": null,
       "officialUrl": "https://xiaopeng.jobs.feishu.cn/campus/",
       "sourceId": "xpeng-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "xpeng:7680144587066870079"
@@ -617,12 +620,12 @@
       "deadline": null,
       "officialUrl": "https://xiaopeng.jobs.feishu.cn/campus/",
       "sourceId": "xpeng-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "xpeng:7686827181435324691",
-        "xpeng:7686347176289945883",
         "xpeng:7663476510304536868",
+        "xpeng:7686347176289945883",
         "xpeng:7686029807691942207",
         "xpeng:7686012463246838035",
         "xpeng:7686010799253178678",
@@ -787,7 +790,7 @@
       "deadline": null,
       "officialUrl": "https://xiaopeng.jobs.feishu.cn/campus/",
       "sourceId": "xpeng-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "xpeng:7675270906918750470"
@@ -804,7 +807,7 @@
       "deadline": null,
       "officialUrl": "https://anker-in.jobs.feishu.cn/campushirecn/",
       "sourceId": "anker-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "anker:7676438381115099442",
@@ -831,7 +834,7 @@
       "deadline": null,
       "officialUrl": "https://anker-in.jobs.feishu.cn/campushirecn/",
       "sourceId": "anker-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "anker:7671174163391007018",
@@ -849,7 +852,7 @@
       "deadline": null,
       "officialUrl": "https://anker-in.jobs.feishu.cn/campushirecn/",
       "sourceId": "anker-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "anker:7677536978812193051",
@@ -868,7 +871,7 @@
       "deadline": null,
       "officialUrl": "https://anker-in.jobs.feishu.cn/campushirecn/",
       "sourceId": "anker-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "anker:7678292596595345691",
@@ -954,7 +957,7 @@
       "deadline": null,
       "officialUrl": "https://jobs.bytedance.com/campus/position",
       "sourceId": "bytedance-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bytedance:7667542125177948469",
@@ -976,7 +979,7 @@
       "deadline": null,
       "officialUrl": "https://jobs.bytedance.com/campus/position",
       "sourceId": "bytedance-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "bytedance:7685720469166541061",
@@ -1103,6 +1106,7 @@
         "bytedance:7668647442825513221",
         "bytedance:7668252612536305925",
         "bytedance:7668197821772253445",
+        "bytedance:7667165600451725573",
         "bytedance:7667037562906970373",
         "bytedance:7672265479604455733",
         "bytedance:7670135991535814917",
@@ -1323,7 +1327,6 @@
         "bytedance:7668151646639966517",
         "bytedance:7669713090942716165",
         "bytedance:7668247298219018501",
-        "bytedance:7672801278411589893",
         "bytedance:7667552009150990597",
         "bytedance:7669723691584194821",
         "bytedance:7667445216558811445",
@@ -1381,6 +1384,13 @@
         "bytedance:7670453918902520069",
         "bytedance:7667884670696868149",
         "bytedance:7669748788718504197",
+        "bytedance:7687461679454947637",
+        "bytedance:7687460003879487797",
+        "bytedance:7687459682923186485",
+        "bytedance:7687458075242793269",
+        "bytedance:7687449220245506357",
+        "bytedance:7687448320140970245",
+        "bytedance:7687439247805368629",
         "bytedance:7686449876511279413",
         "bytedance:7685768090397264133",
         "bytedance:7685767032412260661",
@@ -1398,12 +1408,12 @@
         "bytedance:7669621629605398837",
         "bytedance:7668956778249177349",
         "bytedance:7667531477907425589",
+        "bytedance:7672801278411589893",
         "bytedance:7670918224257026309",
         "bytedance:7670921865741650229",
         "bytedance:7667141304455465221",
         "bytedance:7670919059781044533",
         "bytedance:7667507513423677749",
-        "bytedance:7667165600451725573",
         "bytedance:7668647743288527157",
         "bytedance:7667892775577733429",
         "bytedance:7669838697129314565",
@@ -1426,7 +1436,7 @@
       "deadline": null,
       "officialUrl": "https://campus.jd.com/",
       "sourceId": "jd-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "jd:9329",
@@ -1486,7 +1496,7 @@
       "deadline": null,
       "officialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
       "sourceId": "asiainfo-security-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "asiainfo-security:7680767146033678635",
@@ -1504,7 +1514,7 @@
       "deadline": null,
       "officialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "sourceId": "thundersoft-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "thundersoft:7684097483668965638",
@@ -1523,7 +1533,7 @@
       "deadline": null,
       "officialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "sourceId": "thundersoft-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "thundersoft:7618881787998144774",
@@ -1543,7 +1553,7 @@
       "deadline": null,
       "officialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "sourceId": "thundersoft-campus",
-      "verifiedAt": "2026-09-19T22:20:03.377430+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "thundersoft:7681886755960703268",
@@ -1565,7 +1575,7 @@
       "deadline": null,
       "officialUrl": "https://careers.robinhood.com/",
       "sourceId": "robinhood-early-career",
-      "verifiedAt": "2026-09-19T10:57:04.368717+00:00",
+      "verifiedAt": "2026-09-20T04:55:49.712766+00:00",
       "status": "OPEN",
       "jobIds": [
         "robinhood:8198153",
