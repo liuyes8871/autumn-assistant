@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4562,
-    "targetGeneralist": 994,
-    "outOfScope": 3353,
-    "needsReview": 215
+    "normalized": 4560,
+    "targetGeneralist": 995,
+    "outOfScope": 3351,
+    "needsReview": 214
   },
   "reasonCounts": {
     "ALLOWED_GENERALIST_TITLE": 518,
-    "ALLOWED_TARGET_MAJOR": 433,
+    "ALLOWED_TARGET_MAJOR": 434,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-    "BLOCKED_NON_TARGET_MAJOR": 176,
+    "BLOCKED_NON_TARGET_MAJOR": 179,
     "BLOCKED_SPECIALIST_PORTFOLIO": 125,
-    "BLOCKED_TECHNICAL_ROLE": 3024,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
+    "BLOCKED_TECHNICAL_ROLE": 3019,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
     "01ai-careers": {
@@ -148,10 +148,10 @@
       "reasonCounts": {}
     },
     "bambulab-campus": {
-      "normalized": 116,
+      "normalized": 108,
       "targetGeneralist": 30,
-      "outOfScope": 80,
-      "needsReview": 6,
+      "outOfScope": 73,
+      "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 10,
         "ALLOWED_TARGET_MAJOR": 17,
@@ -159,8 +159,8 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 9,
-        "BLOCKED_TECHNICAL_ROLE": 68,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 6
+        "BLOCKED_TECHNICAL_ROLE": 61,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
       }
     },
     "baozun-campus": {
@@ -248,13 +248,13 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2348,
-      "targetGeneralist": 432,
+      "normalized": 2349,
+      "targetGeneralist": 433,
       "outOfScope": 1855,
       "needsReview": 61,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 257,
-        "ALLOWED_TARGET_MAJOR": 167,
+        "ALLOWED_TARGET_MAJOR": 168,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
@@ -369,16 +369,16 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 108,
+      "normalized": 110,
       "targetGeneralist": 20,
-      "outOfScope": 87,
+      "outOfScope": 89,
       "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 85,
+        "BLOCKED_TECHNICAL_ROLE": 87,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
@@ -1619,16 +1619,16 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 457,
+      "normalized": 460,
       "targetGeneralist": 149,
-      "outOfScope": 308,
+      "outOfScope": 311,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 89,
         "ALLOWED_TARGET_MAJOR": 57,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
-        "BLOCKED_NON_TARGET_MAJOR": 82,
+        "BLOCKED_NON_TARGET_MAJOR": 85,
         "BLOCKED_SPECIALIST_PORTFOLIO": 19,
         "BLOCKED_TECHNICAL_ROLE": 204
       }
@@ -4163,15 +4163,6 @@
       ]
     },
     {
-      "jobId": "bambulab:7637352682830694675",
-      "sourceId": "bambulab-campus",
-      "companyName": "拓竹科技",
-      "title": "PMC支持",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4460,6 +4451,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-20T09:50:02.359493+00:00",
-  "catalogVersion": "2026.09.20.0950"
+  "generatedAt": "2026-09-20T14:14:25.871587+00:00",
+  "catalogVersion": "2026.09.20.1414"
 }
