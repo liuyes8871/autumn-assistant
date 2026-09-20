@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T14:15:44.546470+00:00",
+  "generatedAt": "2026-09-20T18:13:35.290542+00:00",
   "cadence": "weekly",
   "coverageStatus": "IN_PROGRESS",
   "coverageDefinition": "覆盖所有能够从企业官网或官方 ATS 公开发现、无需登录且通过访问边界审核的活跃校招来源；不存在永久全网抓完日期。",

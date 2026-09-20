@@ -3,17 +3,17 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4560,
+    "normalized": 4561,
     "targetGeneralist": 995,
-    "outOfScope": 3351,
+    "outOfScope": 3352,
     "needsReview": 214
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 518,
-    "ALLOWED_TARGET_MAJOR": 434,
+    "ALLOWED_GENERALIST_TITLE": 517,
+    "ALLOWED_TARGET_MAJOR": 435,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-    "BLOCKED_NON_TARGET_MAJOR": 179,
+    "BLOCKED_NON_TARGET_MAJOR": 180,
     "BLOCKED_SPECIALIST_PORTFOLIO": 125,
     "BLOCKED_TECHNICAL_ROLE": 3019,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
@@ -253,8 +253,8 @@
       "outOfScope": 1855,
       "needsReview": 61,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 257,
-        "ALLOWED_TARGET_MAJOR": 168,
+        "ALLOWED_GENERALIST_TITLE": 256,
+        "ALLOWED_TARGET_MAJOR": 169,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
@@ -1619,16 +1619,16 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 460,
+      "normalized": 461,
       "targetGeneralist": 149,
-      "outOfScope": 311,
+      "outOfScope": 312,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 89,
         "ALLOWED_TARGET_MAJOR": 57,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
-        "BLOCKED_NON_TARGET_MAJOR": 85,
+        "BLOCKED_NON_TARGET_MAJOR": 86,
         "BLOCKED_SPECIALIST_PORTFOLIO": 19,
         "BLOCKED_TECHNICAL_ROLE": 204
       }
@@ -4451,6 +4451,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-20T14:14:25.871587+00:00",
-  "catalogVersion": "2026.09.20.1414"
+  "generatedAt": "2026-09-20T18:12:27.633578+00:00",
+  "catalogVersion": "2026.09.20.1812"
 }
