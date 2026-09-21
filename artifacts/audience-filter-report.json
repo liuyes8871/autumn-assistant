@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4559,
+    "normalized": 4555,
     "targetGeneralist": 995,
-    "outOfScope": 3350,
+    "outOfScope": 3346,
     "needsReview": 214
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 517,
-    "ALLOWED_TARGET_MAJOR": 435,
+    "ALLOWED_GENERALIST_TITLE": 518,
+    "ALLOWED_TARGET_MAJOR": 434,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-    "BLOCKED_NON_TARGET_MAJOR": 181,
+    "BLOCKED_NON_TARGET_MAJOR": 180,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3015,
+    "BLOCKED_TECHNICAL_ROLE": 3012,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
@@ -249,15 +249,15 @@
     },
     "bytedance-campus": {
       "normalized": 2350,
-      "targetGeneralist": 433,
-      "outOfScope": 1856,
+      "targetGeneralist": 434,
+      "outOfScope": 1855,
       "needsReview": 61,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 256,
+        "ALLOWED_GENERALIST_TITLE": 257,
         "ALLOWED_TARGET_MAJOR": 169,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
-        "BLOCKED_NON_TARGET_MAJOR": 38,
+        "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
         "BLOCKED_TECHNICAL_ROLE": 1769,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
@@ -823,15 +823,15 @@
       "reasonCounts": {}
     },
     "lilith-campus": {
-      "normalized": 21,
+      "normalized": 20,
       "targetGeneralist": 2,
-      "outOfScope": 14,
+      "outOfScope": 13,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_TARGET_MAJOR": 1,
         "ALLOWED_UNRESTRICTED_MAJOR": 1,
         "BLOCKED_SPECIALIST_PORTFOLIO": 1,
-        "BLOCKED_TECHNICAL_ROLE": 13,
+        "BLOCKED_TECHNICAL_ROLE": 12,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
       }
     },
@@ -1045,9 +1045,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 473,
+      "normalized": 472,
       "targetGeneralist": 62,
-      "outOfScope": 326,
+      "outOfScope": 325,
       "needsReview": 85,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 32,
@@ -1056,7 +1056,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 16,
         "BLOCKED_SPECIALIST_PORTFOLIO": 8,
-        "BLOCKED_TECHNICAL_ROLE": 301,
+        "BLOCKED_TECHNICAL_ROLE": 300,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
       }
     },
@@ -1393,9 +1393,9 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 101,
+      "normalized": 102,
       "targetGeneralist": 25,
-      "outOfScope": 66,
+      "outOfScope": 67,
       "needsReview": 10,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 15,
@@ -1403,7 +1403,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 57,
+        "BLOCKED_TECHNICAL_ROLE": 58,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -1619,18 +1619,18 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 463,
-      "targetGeneralist": 150,
-      "outOfScope": 313,
+      "normalized": 460,
+      "targetGeneralist": 149,
+      "outOfScope": 311,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 89,
-        "ALLOWED_TARGET_MAJOR": 58,
+        "ALLOWED_TARGET_MAJOR": 57,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
         "BLOCKED_NON_TARGET_MAJOR": 86,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 204
+        "BLOCKED_TECHNICAL_ROLE": 202
       }
     },
     "xueqiu-careers": {
@@ -4451,6 +4451,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-21T04:58:40.712073+00:00",
-  "catalogVersion": "2026.09.21.0458"
+  "generatedAt": "2026-09-21T10:45:49.537630+00:00",
+  "catalogVersion": "2026.09.21.1045"
 }
