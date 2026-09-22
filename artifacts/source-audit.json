@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T23:20:05.018897+00:00",
-  "catalogVersion": "2026.09.21.2318",
-  "jobCount": 1060,
+  "generatedAt": "2026-09-22T05:01:23.984395+00:00",
+  "catalogVersion": "2026.09.22.0459",
+  "jobCount": 1061,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -610,19 +610,19 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 157,
+      "jobCount": 158,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 156,
+      "unknownBatchCount": 157,
       "samples": [
         {
-          "jobId": "xpeng:7686827181435324691",
-          "title": "【27届校招】金融培训生（培训方向）",
+          "jobId": "xpeng:7688174438802721060",
+          "title": "【27届校招】智能提效运营培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7686827181435324691/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7688174438802721060/detail",
           "domainValid": true,
           "httpStatus": 200
         },

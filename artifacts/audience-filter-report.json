@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4577,
-    "targetGeneralist": 1007,
-    "outOfScope": 3353,
+    "normalized": 4571,
+    "targetGeneralist": 1003,
+    "outOfScope": 3351,
     "needsReview": 217
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 520,
-    "ALLOWED_TARGET_MAJOR": 444,
+    "ALLOWED_GENERALIST_TITLE": 519,
+    "ALLOWED_TARGET_MAJOR": 441,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
     "BLOCKED_NON_TARGET_MAJOR": 180,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3019,
+    "BLOCKED_TECHNICAL_ROLE": 3017,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 217
   },
   "bySource": {
@@ -248,13 +248,13 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2351,
-      "targetGeneralist": 434,
+      "normalized": 2346,
+      "targetGeneralist": 429,
       "outOfScope": 1856,
       "needsReview": 61,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 257,
-        "ALLOWED_TARGET_MAJOR": 169,
+        "ALLOWED_GENERALIST_TITLE": 256,
+        "ALLOWED_TARGET_MAJOR": 165,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
@@ -823,15 +823,15 @@
       "reasonCounts": {}
     },
     "lilith-campus": {
-      "normalized": 20,
+      "normalized": 19,
       "targetGeneralist": 2,
-      "outOfScope": 13,
+      "outOfScope": 12,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_TARGET_MAJOR": 1,
         "ALLOWED_UNRESTRICTED_MAJOR": 1,
         "BLOCKED_SPECIALIST_PORTFOLIO": 1,
-        "BLOCKED_TECHNICAL_ROLE": 12,
+        "BLOCKED_TECHNICAL_ROLE": 11,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
       }
     },
@@ -1398,9 +1398,9 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 102,
+      "normalized": 101,
       "targetGeneralist": 26,
-      "outOfScope": 66,
+      "outOfScope": 65,
       "needsReview": 10,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 15,
@@ -1408,7 +1408,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 57,
+        "BLOCKED_TECHNICAL_ROLE": 56,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -1624,13 +1624,13 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 460,
-      "targetGeneralist": 149,
+      "normalized": 461,
+      "targetGeneralist": 150,
       "outOfScope": 311,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 89,
-        "ALLOWED_TARGET_MAJOR": 57,
+        "ALLOWED_TARGET_MAJOR": 58,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
         "BLOCKED_NON_TARGET_MAJOR": 86,
@@ -4483,6 +4483,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-21T23:18:15.478821+00:00",
-  "catalogVersion": "2026.09.21.2318"
+  "generatedAt": "2026-09-22T04:59:33.040957+00:00",
+  "catalogVersion": "2026.09.22.0459"
 }
