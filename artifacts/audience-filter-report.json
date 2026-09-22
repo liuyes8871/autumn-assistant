@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4564,
-    "targetGeneralist": 1000,
-    "outOfScope": 3347,
+    "normalized": 4565,
+    "targetGeneralist": 999,
+    "outOfScope": 3349,
     "needsReview": 217
   },
   "reasonCounts": {
     "ALLOWED_GENERALIST_TITLE": 517,
     "ALLOWED_TARGET_MAJOR": 440,
-    "ALLOWED_UNRESTRICTED_MAJOR": 43,
+    "ALLOWED_UNRESTRICTED_MAJOR": 42,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
     "BLOCKED_NON_TARGET_MAJOR": 178,
     "BLOCKED_SPECIALIST_PORTFOLIO": 127,
-    "BLOCKED_TECHNICAL_ROLE": 3014,
+    "BLOCKED_TECHNICAL_ROLE": 3016,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 217
   },
   "bySource": {
@@ -688,14 +688,13 @@
       "reasonCounts": {}
     },
     "jd-campus": {
-      "normalized": 125,
-      "targetGeneralist": 43,
+      "normalized": 124,
+      "targetGeneralist": 42,
       "outOfScope": 60,
       "needsReview": 22,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 23,
         "ALLOWED_TARGET_MAJOR": 19,
-        "ALLOWED_UNRESTRICTED_MAJOR": 1,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 12,
         "BLOCKED_SPECIALIST_PORTFOLIO": 4,
@@ -1398,9 +1397,9 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 101,
+      "normalized": 103,
       "targetGeneralist": 26,
-      "outOfScope": 65,
+      "outOfScope": 67,
       "needsReview": 10,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 15,
@@ -1408,7 +1407,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 56,
+        "BLOCKED_TECHNICAL_ROLE": 58,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -4483,6 +4482,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-22T14:56:33.639792+00:00",
-  "catalogVersion": "2026.09.22.1456"
+  "generatedAt": "2026-09-22T18:56:13.086671+00:00",
+  "catalogVersion": "2026.09.22.1856"
 }
