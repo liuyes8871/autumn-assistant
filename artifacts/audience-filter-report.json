@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4571,
-    "targetGeneralist": 1003,
-    "outOfScope": 3351,
-    "needsReview": 217
+    "normalized": 4544,
+    "targetGeneralist": 990,
+    "outOfScope": 3340,
+    "needsReview": 214
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 519,
-    "ALLOWED_TARGET_MAJOR": 441,
+    "ALLOWED_GENERALIST_TITLE": 515,
+    "ALLOWED_TARGET_MAJOR": 432,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-    "BLOCKED_NON_TARGET_MAJOR": 180,
-    "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3017,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 217
+    "BLOCKED_NON_TARGET_MAJOR": 178,
+    "BLOCKED_SPECIALIST_PORTFOLIO": 127,
+    "BLOCKED_TECHNICAL_ROLE": 3007,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
     "01ai-careers": {
@@ -69,9 +69,9 @@
       "reasonCounts": {}
     },
     "anker-campus": {
-      "normalized": 237,
+      "normalized": 240,
       "targetGeneralist": 83,
-      "outOfScope": 142,
+      "outOfScope": 145,
       "needsReview": 12,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 32,
@@ -79,8 +79,8 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 7,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 4,
-        "BLOCKED_SPECIALIST_PORTFOLIO": 9,
-        "BLOCKED_TECHNICAL_ROLE": 123,
+        "BLOCKED_SPECIALIST_PORTFOLIO": 10,
+        "BLOCKED_TECHNICAL_ROLE": 125,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 12
       }
     },
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2346,
-      "targetGeneralist": 429,
-      "outOfScope": 1856,
+      "normalized": 2343,
+      "targetGeneralist": 428,
+      "outOfScope": 1854,
       "needsReview": 61,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 256,
+        "ALLOWED_GENERALIST_TITLE": 255,
         "ALLOWED_TARGET_MAJOR": 165,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-        "BLOCKED_TECHNICAL_ROLE": 1770,
+        "BLOCKED_TECHNICAL_ROLE": 1768,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
       }
     },
@@ -369,16 +369,16 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 110,
+      "normalized": 109,
       "targetGeneralist": 20,
-      "outOfScope": 89,
+      "outOfScope": 88,
       "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 87,
+        "BLOCKED_TECHNICAL_ROLE": 86,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
@@ -1045,18 +1045,18 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 472,
+      "normalized": 470,
       "targetGeneralist": 62,
-      "outOfScope": 325,
+      "outOfScope": 323,
       "needsReview": 85,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 32,
         "ALLOWED_TARGET_MAJOR": 21,
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
-        "BLOCKED_NON_TARGET_MAJOR": 16,
+        "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 8,
-        "BLOCKED_TECHNICAL_ROLE": 300,
+        "BLOCKED_TECHNICAL_ROLE": 299,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
       }
     },
@@ -1201,16 +1201,11 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 21,
-      "targetGeneralist": 11,
-      "outOfScope": 7,
-      "needsReview": 3,
-      "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 2,
-        "ALLOWED_TARGET_MAJOR": 9,
-        "BLOCKED_TECHNICAL_ROLE": 7,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
-      }
+      "normalized": 0,
+      "targetGeneralist": 0,
+      "outOfScope": 0,
+      "needsReview": 0,
+      "reasonCounts": {}
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -1624,18 +1619,18 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 461,
-      "targetGeneralist": 150,
-      "outOfScope": 311,
+      "normalized": 458,
+      "targetGeneralist": 149,
+      "outOfScope": 309,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 89,
+        "ALLOWED_GENERALIST_TITLE": 88,
         "ALLOWED_TARGET_MAJOR": 58,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
-        "BLOCKED_NON_TARGET_MAJOR": 86,
+        "BLOCKED_NON_TARGET_MAJOR": 85,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 202
+        "BLOCKED_TECHNICAL_ROLE": 201
       }
     },
     "xueqiu-careers": {
@@ -2929,7 +2924,7 @@
       "jobId": "bytedance:7669716592118352133",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "游戏系统数值策划（搜打撤） - 绿洲工作室",
+      "title": "游戏数值策划（搜打撤） - 绿洲工作室",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4168,33 +4163,6 @@
       ]
     },
     {
-      "jobId": "robinhood:8197614",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "People Partner Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198255",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198097",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "Vendor Management Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4483,6 +4451,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-22T04:59:33.040957+00:00",
-  "catalogVersion": "2026.09.22.0459"
+  "generatedAt": "2026-09-22T09:59:16.761023+00:00",
+  "catalogVersion": "2026.09.22.0959"
 }
