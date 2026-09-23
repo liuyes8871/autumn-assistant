@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4538,
-    "targetGeneralist": 985,
-    "outOfScope": 3340,
-    "needsReview": 213
+    "normalized": 4586,
+    "targetGeneralist": 1003,
+    "outOfScope": 3367,
+    "needsReview": 216
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 511,
-    "ALLOWED_TARGET_MAJOR": 432,
-    "ALLOWED_UNRESTRICTED_MAJOR": 42,
+    "ALLOWED_GENERALIST_TITLE": 517,
+    "ALLOWED_TARGET_MAJOR": 443,
+    "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
-    "BLOCKED_NON_TARGET_MAJOR": 178,
+    "BLOCKED_NON_TARGET_MAJOR": 186,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3008,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 213
+    "BLOCKED_TECHNICAL_ROLE": 3027,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 216
   },
   "bySource": {
     "01ai-careers": {
@@ -1044,16 +1044,16 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 468,
+      "normalized": 469,
       "targetGeneralist": 60,
-      "outOfScope": 323,
+      "outOfScope": 324,
       "needsReview": 85,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
-        "BLOCKED_NON_TARGET_MAJOR": 15,
+        "BLOCKED_NON_TARGET_MAJOR": 16,
         "BLOCKED_SPECIALIST_PORTFOLIO": 8,
         "BLOCKED_TECHNICAL_ROLE": 299,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
@@ -1200,11 +1200,16 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 0,
-      "targetGeneralist": 0,
-      "outOfScope": 0,
-      "needsReview": 0,
-      "reasonCounts": {}
+      "normalized": 21,
+      "targetGeneralist": 11,
+      "outOfScope": 7,
+      "needsReview": 3,
+      "reasonCounts": {
+        "ALLOWED_GENERALIST_TITLE": 2,
+        "ALLOWED_TARGET_MAJOR": 9,
+        "BLOCKED_TECHNICAL_ROLE": 7,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
+      }
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -1618,18 +1623,18 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 458,
-      "targetGeneralist": 147,
-      "outOfScope": 311,
+      "normalized": 484,
+      "targetGeneralist": 154,
+      "outOfScope": 330,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 87,
-        "ALLOWED_TARGET_MAJOR": 57,
-        "ALLOWED_UNRESTRICTED_MAJOR": 3,
+        "ALLOWED_GENERALIST_TITLE": 91,
+        "ALLOWED_TARGET_MAJOR": 59,
+        "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
-        "BLOCKED_NON_TARGET_MAJOR": 85,
+        "BLOCKED_NON_TARGET_MAJOR": 92,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 203
+        "BLOCKED_TECHNICAL_ROLE": 215
       }
     },
     "xueqiu-careers": {
@@ -4162,6 +4167,33 @@
       ]
     },
     {
+      "jobId": "robinhood:8197614",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "People Partner Intern (Summer 2027)",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "robinhood:8198255",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "robinhood:8198097",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "Vendor Management Intern (Summer 2027)",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4441,6 +4473,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-23T10:00:48.187932+00:00",
-  "catalogVersion": "2026.09.23.1000"
+  "generatedAt": "2026-09-23T15:02:25.455488+00:00",
+  "catalogVersion": "2026.09.23.1502"
 }
