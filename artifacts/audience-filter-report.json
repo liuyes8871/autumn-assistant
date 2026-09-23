@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4564,
-    "targetGeneralist": 1002,
-    "outOfScope": 3345,
-    "needsReview": 217
+    "normalized": 4538,
+    "targetGeneralist": 985,
+    "outOfScope": 3340,
+    "needsReview": 213
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 519,
-    "ALLOWED_TARGET_MAJOR": 441,
+    "ALLOWED_GENERALIST_TITLE": 511,
+    "ALLOWED_TARGET_MAJOR": 432,
     "ALLOWED_UNRESTRICTED_MAJOR": 42,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
     "BLOCKED_NON_TARGET_MAJOR": 178,
-    "BLOCKED_SPECIALIST_PORTFOLIO": 127,
-    "BLOCKED_TECHNICAL_ROLE": 3012,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 217
+    "BLOCKED_SPECIALIST_PORTFOLIO": 126,
+    "BLOCKED_TECHNICAL_ROLE": 3008,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 213
   },
   "bySource": {
     "01ai-careers": {
@@ -69,12 +69,12 @@
       "reasonCounts": {}
     },
     "anker-campus": {
-      "normalized": 240,
-      "targetGeneralist": 83,
+      "normalized": 239,
+      "targetGeneralist": 82,
       "outOfScope": 145,
       "needsReview": 12,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 32,
+        "ALLOWED_GENERALIST_TITLE": 31,
         "ALLOWED_TARGET_MAJOR": 44,
         "ALLOWED_UNRESTRICTED_MAJOR": 7,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
@@ -148,13 +148,13 @@
       "reasonCounts": {}
     },
     "bambulab-campus": {
-      "normalized": 108,
-      "targetGeneralist": 30,
+      "normalized": 106,
+      "targetGeneralist": 28,
       "outOfScope": 73,
       "needsReview": 5,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 10,
-        "ALLOWED_TARGET_MAJOR": 17,
+        "ALLOWED_GENERALIST_TITLE": 9,
+        "ALLOWED_TARGET_MAJOR": 16,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
@@ -249,17 +249,17 @@
     },
     "bytedance-campus": {
       "normalized": 2340,
-      "targetGeneralist": 428,
-      "outOfScope": 1851,
+      "targetGeneralist": 427,
+      "outOfScope": 1852,
       "needsReview": 61,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 255,
+        "ALLOWED_GENERALIST_TITLE": 254,
         "ALLOWED_TARGET_MAJOR": 165,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-        "BLOCKED_TECHNICAL_ROLE": 1765,
+        "BLOCKED_TECHNICAL_ROLE": 1766,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
       }
     },
@@ -666,16 +666,16 @@
     },
     "insta360-campus": {
       "normalized": 225,
-      "targetGeneralist": 76,
-      "outOfScope": 145,
+      "targetGeneralist": 77,
+      "outOfScope": 144,
       "needsReview": 4,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 37,
-        "ALLOWED_TARGET_MAJOR": 36,
+        "ALLOWED_TARGET_MAJOR": 37,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 11,
-        "BLOCKED_SPECIALIST_PORTFOLIO": 19,
+        "BLOCKED_SPECIALIST_PORTFOLIO": 18,
         "BLOCKED_TECHNICAL_ROLE": 114,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 4
       }
@@ -1044,18 +1044,18 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 469,
-      "targetGeneralist": 62,
-      "outOfScope": 322,
+      "normalized": 468,
+      "targetGeneralist": 60,
+      "outOfScope": 323,
       "needsReview": 85,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 32,
+        "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 8,
-        "BLOCKED_TECHNICAL_ROLE": 298,
+        "BLOCKED_TECHNICAL_ROLE": 299,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
       }
     },
@@ -1200,16 +1200,11 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 21,
-      "targetGeneralist": 11,
-      "outOfScope": 7,
-      "needsReview": 3,
-      "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 2,
-        "ALLOWED_TARGET_MAJOR": 9,
-        "BLOCKED_TECHNICAL_ROLE": 7,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
-      }
+      "normalized": 0,
+      "targetGeneralist": 0,
+      "outOfScope": 0,
+      "needsReview": 0,
+      "reasonCounts": {}
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -1397,10 +1392,10 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 105,
+      "normalized": 104,
       "targetGeneralist": 28,
       "outOfScope": 67,
-      "needsReview": 10,
+      "needsReview": 9,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 16,
         "ALLOWED_TARGET_MAJOR": 12,
@@ -1408,7 +1403,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
         "BLOCKED_TECHNICAL_ROLE": 58,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
       }
     },
     "tencent-music-campus": {
@@ -1624,17 +1619,17 @@
     },
     "xpeng-campus": {
       "normalized": 458,
-      "targetGeneralist": 148,
-      "outOfScope": 310,
+      "targetGeneralist": 147,
+      "outOfScope": 311,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 88,
+        "ALLOWED_GENERALIST_TITLE": 87,
         "ALLOWED_TARGET_MAJOR": 57,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
         "BLOCKED_NON_TARGET_MAJOR": 85,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 202
+        "BLOCKED_TECHNICAL_ROLE": 203
       }
     },
     "xueqiu-careers": {
@@ -4167,33 +4162,6 @@
       ]
     },
     {
-      "jobId": "robinhood:8197614",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "People Partner Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198255",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198097",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "Vendor Management Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4464,15 +4432,6 @@
       ]
     },
     {
-      "jobId": "tencent:2062102032206184448",
-      "sourceId": "tencent-campus",
-      "companyName": "腾讯",
-      "title": "Computer Graphics Intern 107529",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "tencent:2034590749785489408",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4482,6 +4441,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-23T04:47:16.171128+00:00",
-  "catalogVersion": "2026.09.23.0447"
+  "generatedAt": "2026-09-23T10:00:48.187932+00:00",
+  "catalogVersion": "2026.09.23.1000"
 }
