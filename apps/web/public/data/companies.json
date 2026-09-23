@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.23.1502",
-  "generatedAt": "2026-09-23T15:02:25.455488+00:00",
+  "catalogVersion": "2026.09.23.1904",
+  "generatedAt": "2026-09-23T19:04:23.391604+00:00",
   "isDemo": false,
   "companies": [
     {
@@ -284,7 +284,7 @@
         "evidenceText": "官网页面检测到当前届校园招聘信号；具体岗位以企业官网为准。",
         "detectedSignals": [
           "AUTUMN_RECRUITMENT",
-          "已同步 428 条合格岗位"
+          "已同步 427 条合格岗位"
         ],
         "directorySource": "registry/companies.json",
         "directoryRank": 1,

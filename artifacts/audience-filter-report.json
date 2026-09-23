@@ -9,9 +9,9 @@
     "needsReview": 216
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 517,
+    "ALLOWED_GENERALIST_TITLE": 516,
     "ALLOWED_TARGET_MAJOR": 443,
-    "ALLOWED_UNRESTRICTED_MAJOR": 43,
+    "ALLOWED_UNRESTRICTED_MAJOR": 44,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 28,
     "BLOCKED_NON_TARGET_MAJOR": 186,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
@@ -74,9 +74,9 @@
       "outOfScope": 145,
       "needsReview": 12,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 31,
+        "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 44,
-        "ALLOWED_UNRESTRICTED_MAJOR": 7,
+        "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 4,
         "BLOCKED_SPECIALIST_PORTFOLIO": 10,
@@ -4473,6 +4473,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-23T15:02:25.455488+00:00",
-  "catalogVersion": "2026.09.23.1502"
+  "generatedAt": "2026-09-23T19:04:23.391604+00:00",
+  "catalogVersion": "2026.09.23.1904"
 }
