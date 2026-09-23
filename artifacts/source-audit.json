@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T23:00:09.717705+00:00",
-  "catalogVersion": "2026.09.22.2258",
-  "jobCount": 1061,
+  "generatedAt": "2026-09-23T04:49:15.605004+00:00",
+  "catalogVersion": "2026.09.23.0447",
+  "jobCount": 1064,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -240,29 +240,29 @@
     },
     {
       "sourceId": "insta360-campus",
-      "jobCount": 80,
+      "jobCount": 81,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 3,
       "unknownBatchCount": 41,
       "samples": [
         {
-          "jobId": "insta360:7678640346762316083",
-          "title": "数字营销管培生（增长营销方向）-2027校招",
+          "jobId": "insta360:7688560252304312619",
+          "title": "市场管培生（海外市场营销）-2027校招",
           "companyName": "影石创新",
           "cohort": "2027",
           "batch": "管培生/专项计划",
-          "applyUrl": "https://arashivision.jobs.feishu.cn/campus/position/7678640346762316083/detail",
+          "applyUrl": "https://arashivision.jobs.feishu.cn/campus/position/7688560252304312619/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "insta360:7664505998539507987",
-          "title": "Marketing Trainee-2027校招",
+          "jobId": "insta360:7664492676402432262",
+          "title": "Marketing Trainee（North America）-2027",
           "companyName": "影石创新",
-          "cohort": "2027",
+          "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://arashivision.jobs.feishu.cn/campus/position/7664505998539507987/detail",
+          "applyUrl": "https://arashivision.jobs.feishu.cn/campus/position/7664492676402432262/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -530,11 +530,11 @@
     },
     {
       "sourceId": "tencent-campus",
-      "jobCount": 28,
+      "jobCount": 30,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 28,
-      "unknownBatchCount": 28,
+      "unknownCohortCount": 30,
+      "unknownBatchCount": 30,
       "samples": [
         {
           "jobId": "tencent:2087016233965895680",
@@ -547,12 +547,12 @@
           "httpStatus": 200
         },
         {
-          "jobId": "tencent:2087016229469597696",
-          "title": "HR Generalist Intern 107933",
+          "jobId": "tencent:2102583778101866496",
+          "title": "Global Talent Sourcing Intern 108178",
           "companyName": "腾讯",
           "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/HR-Generalist-Intern_R107933",
+          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Global-Talent-Sourcing-Intern_R108178",
           "domainValid": true,
           "httpStatus": 200
         },
