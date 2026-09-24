@@ -3,9 +3,9 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4591,
+    "normalized": 4589,
     "targetGeneralist": 1005,
-    "outOfScope": 3370,
+    "outOfScope": 3368,
     "needsReview": 216
   },
   "reasonCounts": {
@@ -15,7 +15,7 @@
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 27,
     "BLOCKED_NON_TARGET_MAJOR": 186,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3031,
+    "BLOCKED_TECHNICAL_ROLE": 3029,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 216
   },
   "bySource": {
@@ -248,9 +248,9 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2341,
+      "normalized": 2342,
       "targetGeneralist": 427,
-      "outOfScope": 1853,
+      "outOfScope": 1854,
       "needsReview": 61,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 254,
@@ -259,7 +259,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-        "BLOCKED_TECHNICAL_ROLE": 1767,
+        "BLOCKED_TECHNICAL_ROLE": 1768,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
       }
     },
@@ -1044,9 +1044,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 467,
+      "normalized": 466,
       "targetGeneralist": 60,
-      "outOfScope": 322,
+      "outOfScope": 321,
       "needsReview": 85,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -1054,7 +1054,7 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_NON_TARGET_MAJOR": 16,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
-        "BLOCKED_TECHNICAL_ROLE": 299,
+        "BLOCKED_TECHNICAL_ROLE": 298,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
       }
     },
@@ -1397,9 +1397,9 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 104,
+      "normalized": 102,
       "targetGeneralist": 28,
-      "outOfScope": 67,
+      "outOfScope": 65,
       "needsReview": 9,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 16,
@@ -1407,7 +1407,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 58,
+        "BLOCKED_TECHNICAL_ROLE": 56,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
       }
     },
@@ -4473,6 +4473,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-24T10:03:17.724714+00:00",
-  "catalogVersion": "2026.09.24.1003"
+  "generatedAt": "2026-09-24T15:08:31.726438+00:00",
+  "catalogVersion": "2026.09.24.1508"
 }
