@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T22:59:52.200096+00:00",
-  "catalogVersion": "2026.09.23.2257",
-  "jobCount": 1073,
+  "generatedAt": "2026-09-24T04:56:35.559218+00:00",
+  "catalogVersion": "2026.09.24.0454",
+  "jobCount": 1075,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -13,7 +13,7 @@
       "jobCount": 86,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 12,
+      "unknownCohortCount": 16,
       "unknownBatchCount": 81,
       "samples": [
         {
@@ -120,29 +120,29 @@
     },
     {
       "sourceId": "bambulab-campus",
-      "jobCount": 32,
+      "jobCount": 33,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 25,
-      "unknownBatchCount": 29,
+      "unknownCohortCount": 26,
+      "unknownBatchCount": 30,
       "samples": [
         {
-          "jobId": "bambulab:7681277524110248201",
-          "title": "知识内容运营-社区/社媒方向",
+          "jobId": "bambulab:7688940691204458793",
+          "title": "内容创作者营销（欧洲小语种方向）",
           "companyName": "拓竹科技",
           "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://bambulab.jobs.feishu.cn/campus/position/7681277524110248201/detail",
+          "applyUrl": "https://bambulab.jobs.feishu.cn/campus/position/7688940691204458793/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "bambulab:7670507853891455273",
-          "title": "服务运营 - 培训方向",
+          "jobId": "bambulab:7670505711990245668",
+          "title": "服务运营 - 数据分析",
           "companyName": "拓竹科技",
           "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://bambulab.jobs.feishu.cn/campus/position/7670507853891455273/detail",
+          "applyUrl": "https://bambulab.jobs.feishu.cn/campus/position/7670505711990245668/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -610,19 +610,19 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 165,
+      "jobCount": 166,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 164,
+      "unknownBatchCount": 165,
       "samples": [
         {
-          "jobId": "xpeng:7688668207674509631",
-          "title": "【27届校招】行政培训生",
+          "jobId": "xpeng:7688913722198411570",
+          "title": "【27届校招】大数据开发培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7688668207674509631/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7688913722198411570/detail",
           "domainValid": true,
           "httpStatus": 200
         },
