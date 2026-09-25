@@ -3,10 +3,10 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4589,
+    "normalized": 4588,
     "targetGeneralist": 1005,
     "outOfScope": 3368,
-    "needsReview": 216
+    "needsReview": 215
   },
   "reasonCounts": {
     "ALLOWED_GENERALIST_TITLE": 518,
@@ -16,7 +16,7 @@
     "BLOCKED_NON_TARGET_MAJOR": 186,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
     "BLOCKED_TECHNICAL_ROLE": 3029,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 216
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
   },
   "bySource": {
     "01ai-careers": {
@@ -1044,10 +1044,10 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 466,
+      "normalized": 465,
       "targetGeneralist": 60,
       "outOfScope": 321,
-      "needsReview": 85,
+      "needsReview": 84,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
@@ -1055,7 +1055,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 16,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
         "BLOCKED_TECHNICAL_ROLE": 298,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 85
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 84
       }
     },
     "nsfocus-campus": {
@@ -3753,15 +3753,6 @@
       ]
     },
     {
-      "jobId": "nio:7673027365039409417",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招-技术合作（政企合作）",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "nio:7673027365039114505",
       "sourceId": "nio-campus",
       "companyName": "蔚来",
@@ -4473,6 +4464,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-25T10:13:04.156623+00:00",
-  "catalogVersion": "2026.09.25.1013"
+  "generatedAt": "2026-09-25T15:18:08.287243+00:00",
+  "catalogVersion": "2026.09.25.1518"
 }
