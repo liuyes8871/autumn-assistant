@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T15:20:11.379651+00:00",
-  "catalogVersion": "2026.09.25.1518",
-  "jobCount": 1075,
+  "generatedAt": "2026-09-25T23:20:57.348566+00:00",
+  "catalogVersion": "2026.09.25.2319",
+  "jobCount": 1078,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -530,11 +530,11 @@
     },
     {
       "sourceId": "tencent-campus",
-      "jobCount": 30,
+      "jobCount": 33,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 30,
-      "unknownBatchCount": 30,
+      "unknownCohortCount": 33,
+      "unknownBatchCount": 33,
       "samples": [
         {
           "jobId": "tencent:2087016233965895680",
