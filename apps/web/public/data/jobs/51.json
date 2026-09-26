@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.26.1430",
+  "catalogVersion": "2026.09.26.1837",
   "jobs": [
     {
       "sourceId": "asiainfo-security-campus",
@@ -71,7 +71,7 @@
       "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
       "id": "asiainfo-security:7680767146033678635",
       "firstSeenAt": "2026-09-03T04:50:01.850347Z",
-      "lastVerifiedAt": "2026-09-26T14:30:48.713544Z",
+      "lastVerifiedAt": "2026-09-26T18:37:36.396782Z",
       "contentHash": "959f09393a21b52bca79c0ef8adc6ef00225de00b7de64e59c64ca5030c50ce2",
       "status": "ACTIVE",
       "detailShard": "51",
@@ -133,7 +133,7 @@
       "campaignOfficialUrl": "https://asiainfo-sec.jobs.feishu.cn/campus/",
       "id": "asiainfo-security:7680763872403425572",
       "firstSeenAt": "2026-09-03T04:50:01.850347Z",
-      "lastVerifiedAt": "2026-09-26T14:30:48.713544Z",
+      "lastVerifiedAt": "2026-09-26T18:37:36.396782Z",
       "contentHash": "c3caab3c499622e871a593d7f24c42b42bd0cb4acf78b9e35aa80f018f85ff56",
       "status": "ACTIVE",
       "detailShard": "51",
