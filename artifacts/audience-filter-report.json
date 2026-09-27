@@ -4378,19 +4378,19 @@
       ]
     },
     {
-      "jobId": "tencent:2094852838621626368",
+      "jobId": "tencent:2094852842950148096",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "tencent:2094852842950148096",
+      "jobId": "tencent:2094852838621626368",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4432,6 +4432,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-27T15:10:17.719819+00:00",
-  "catalogVersion": "2026.09.27.1510"
+  "generatedAt": "2026-09-27T18:59:24.632221+00:00",
+  "catalogVersion": "2026.09.27.1859"
 }
