@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T05:28:47.717380+00:00",
-  "catalogVersion": "2026.09.28.0526",
-  "jobCount": 1078,
+  "generatedAt": "2026-09-28T18:12:36.576947+00:00",
+  "catalogVersion": "2026.09.28.1810",
+  "jobCount": 1079,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -570,19 +570,19 @@
     },
     {
       "sourceId": "thundersoft-campus",
-      "jobCount": 13,
+      "jobCount": 14,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 7,
-      "unknownBatchCount": 9,
+      "unknownBatchCount": 10,
       "samples": [
         {
-          "jobId": "thundersoft:7684097483668965638",
-          "title": "智能汽车-采购专员-苏州",
+          "jobId": "thundersoft:7685265847120218394",
+          "title": "智能汽车-项目专员-聚创",
           "companyName": "中科创达",
-          "cohort": "未知",
+          "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7684097483668965638/detail",
+          "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7685265847120218394/detail",
           "domainValid": true,
           "httpStatus": 200
         },

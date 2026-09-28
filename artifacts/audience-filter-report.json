@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4558,
-    "targetGeneralist": 991,
-    "outOfScope": 3356,
-    "needsReview": 211
+    "normalized": 4596,
+    "targetGeneralist": 1002,
+    "outOfScope": 3379,
+    "needsReview": 215
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 516,
-    "ALLOWED_TARGET_MAJOR": 431,
+    "ALLOWED_GENERALIST_TITLE": 519,
+    "ALLOWED_TARGET_MAJOR": 439,
     "ALLOWED_UNRESTRICTED_MAJOR": 44,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 26,
     "BLOCKED_NON_TARGET_MAJOR": 186,
-    "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3018,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 211
+    "BLOCKED_SPECIALIST_PORTFOLIO": 127,
+    "BLOCKED_TECHNICAL_ROLE": 3040,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
   },
   "bySource": {
     "01ai-careers": {
@@ -248,13 +248,13 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2336,
-      "targetGeneralist": 423,
+      "normalized": 2335,
+      "targetGeneralist": 422,
       "outOfScope": 1852,
       "needsReview": 61,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 254,
-        "ALLOWED_TARGET_MAJOR": 161,
+        "ALLOWED_TARGET_MAJOR": 160,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
@@ -369,15 +369,16 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 107,
+      "normalized": 109,
       "targetGeneralist": 20,
-      "outOfScope": 87,
-      "needsReview": 0,
+      "outOfScope": 88,
+      "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 86
+        "BLOCKED_TECHNICAL_ROLE": 87,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
     "dewu-campus": {
@@ -1198,11 +1199,16 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 0,
-      "targetGeneralist": 0,
-      "outOfScope": 0,
-      "needsReview": 0,
-      "reasonCounts": {}
+      "normalized": 21,
+      "targetGeneralist": 11,
+      "outOfScope": 7,
+      "needsReview": 3,
+      "reasonCounts": {
+        "ALLOWED_GENERALIST_TITLE": 2,
+        "ALLOWED_TARGET_MAJOR": 9,
+        "BLOCKED_TECHNICAL_ROLE": 7,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
+      }
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -1419,17 +1425,17 @@
       "reasonCounts": {}
     },
     "thundersoft-campus": {
-      "normalized": 116,
-      "targetGeneralist": 10,
-      "outOfScope": 105,
+      "normalized": 132,
+      "targetGeneralist": 11,
+      "outOfScope": 120,
       "needsReview": 1,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 7,
+        "ALLOWED_GENERALIST_TITLE": 8,
         "ALLOWED_TARGET_MAJOR": 1,
         "ALLOWED_UNRESTRICTED_MAJOR": 2,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_SPECIALIST_PORTFOLIO": 2,
-        "BLOCKED_TECHNICAL_ROLE": 102,
+        "BLOCKED_SPECIALIST_PORTFOLIO": 3,
+        "BLOCKED_TECHNICAL_ROLE": 116,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
@@ -4088,6 +4094,15 @@
       ]
     },
     {
+      "jobId": "desay-sv:7675576697308203291",
+      "sourceId": "desay-sv-campus",
+      "companyName": "德赛西威",
+      "title": "知识产权管理专员（惠州）",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "thundersoft:7550138392778361127",
       "sourceId": "thundersoft-campus",
       "companyName": "中科创达",
@@ -4137,6 +4152,33 @@
       "sourceId": "bambulab-campus",
       "companyName": "拓竹科技",
       "title": "电商服务代表",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "robinhood:8197614",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "People Partner Intern (Summer 2027)",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "robinhood:8198255",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "robinhood:8198097",
+      "sourceId": "robinhood-early-career",
+      "companyName": "Robinhood",
+      "title": "Vendor Management Intern (Summer 2027)",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4421,6 +4463,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-28T05:26:54.568951+00:00",
-  "catalogVersion": "2026.09.28.0526"
+  "generatedAt": "2026-09-28T18:10:43.513575+00:00",
+  "catalogVersion": "2026.09.28.1810"
 }
