@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4572,
-    "targetGeneralist": 997,
-    "outOfScope": 3363,
-    "needsReview": 212
+    "normalized": 4558,
+    "targetGeneralist": 991,
+    "outOfScope": 3356,
+    "needsReview": 211
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 517,
-    "ALLOWED_TARGET_MAJOR": 436,
+    "ALLOWED_GENERALIST_TITLE": 516,
+    "ALLOWED_TARGET_MAJOR": 431,
     "ALLOWED_UNRESTRICTED_MAJOR": 44,
-    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 27,
+    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 26,
     "BLOCKED_NON_TARGET_MAJOR": 186,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3024,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 212
+    "BLOCKED_TECHNICAL_ROLE": 3018,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 211
   },
   "bySource": {
     "01ai-careers": {
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2342,
-      "targetGeneralist": 427,
-      "outOfScope": 1854,
+      "normalized": 2336,
+      "targetGeneralist": 423,
+      "outOfScope": 1852,
       "needsReview": 61,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 254,
-        "ALLOWED_TARGET_MAJOR": 165,
+        "ALLOWED_TARGET_MAJOR": 161,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-        "BLOCKED_TECHNICAL_ROLE": 1768,
+        "BLOCKED_TECHNICAL_ROLE": 1766,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
       }
     },
@@ -369,17 +369,15 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 109,
+      "normalized": 107,
       "targetGeneralist": 20,
-      "outOfScope": 88,
-      "needsReview": 1,
+      "outOfScope": 87,
+      "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
-        "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 86,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
+        "BLOCKED_TECHNICAL_ROLE": 86
       }
     },
     "dewu-campus": {
@@ -1044,9 +1042,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 465,
+      "normalized": 463,
       "targetGeneralist": 60,
-      "outOfScope": 321,
+      "outOfScope": 319,
       "needsReview": 84,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -1054,7 +1052,7 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_NON_TARGET_MAJOR": 16,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
-        "BLOCKED_TECHNICAL_ROLE": 298,
+        "BLOCKED_TECHNICAL_ROLE": 296,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 84
       }
     },
@@ -1392,17 +1390,17 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 107,
-      "targetGeneralist": 31,
-      "outOfScope": 67,
+      "normalized": 104,
+      "targetGeneralist": 30,
+      "outOfScope": 65,
       "needsReview": 9,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 17,
-        "ALLOWED_TARGET_MAJOR": 14,
+        "ALLOWED_TARGET_MAJOR": 13,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 58,
+        "BLOCKED_TECHNICAL_ROLE": 56,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
       }
     },
@@ -1618,12 +1616,12 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 487,
-      "targetGeneralist": 155,
+      "normalized": 486,
+      "targetGeneralist": 154,
       "outOfScope": 332,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 92,
+        "ALLOWED_GENERALIST_TITLE": 91,
         "ALLOWED_TARGET_MAJOR": 59,
         "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
@@ -4090,15 +4088,6 @@
       ]
     },
     {
-      "jobId": "desay-sv:7675576697308203291",
-      "sourceId": "desay-sv-campus",
-      "companyName": "德赛西威",
-      "title": "知识产权管理专员（惠州）",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "thundersoft:7550138392778361127",
       "sourceId": "thundersoft-campus",
       "companyName": "中科创达",
@@ -4432,6 +4421,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-27T23:04:34.197444+00:00",
-  "catalogVersion": "2026.09.27.2304"
+  "generatedAt": "2026-09-28T05:26:54.568951+00:00",
+  "catalogVersion": "2026.09.28.0526"
 }
