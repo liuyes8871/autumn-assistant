@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T11:25:28.032262+00:00",
-  "catalogVersion": "2026.09.29.1123",
+  "generatedAt": "2026-09-29T20:02:16.622847+00:00",
+  "catalogVersion": "2026.09.29.2000",
   "jobCount": 1080,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
@@ -464,7 +464,7 @@
           "batch": "未知",
           "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
           "domainValid": true,
-          "httpStatus": 200
+          "httpStatus": 0
         },
         {
           "jobId": "robinhood:8193710",
@@ -477,12 +477,12 @@
           "httpStatus": 200
         },
         {
-          "jobId": "robinhood:8198153",
-          "title": "Accounting Intern (Summer 2027)",
+          "jobId": "robinhood:8198198",
+          "title": "Brokerage Operations Intern (Summer 2027)",
           "companyName": "Robinhood",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+          "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198",
           "domainValid": true,
           "httpStatus": 200
         }
