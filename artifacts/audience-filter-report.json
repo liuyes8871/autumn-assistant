@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4596,
-    "targetGeneralist": 1002,
-    "outOfScope": 3379,
+    "normalized": 4591,
+    "targetGeneralist": 998,
+    "outOfScope": 3378,
     "needsReview": 215
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 519,
-    "ALLOWED_TARGET_MAJOR": 439,
-    "ALLOWED_UNRESTRICTED_MAJOR": 44,
-    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 26,
-    "BLOCKED_NON_TARGET_MAJOR": 186,
+    "ALLOWED_GENERALIST_TITLE": 517,
+    "ALLOWED_TARGET_MAJOR": 438,
+    "ALLOWED_UNRESTRICTED_MAJOR": 43,
+    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 25,
+    "BLOCKED_NON_TARGET_MAJOR": 185,
     "BLOCKED_SPECIALIST_PORTFOLIO": 127,
-    "BLOCKED_TECHNICAL_ROLE": 3040,
+    "BLOCKED_TECHNICAL_ROLE": 3041,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
   },
   "bySource": {
@@ -69,9 +69,9 @@
       "reasonCounts": {}
     },
     "anker-campus": {
-      "normalized": 239,
+      "normalized": 238,
       "targetGeneralist": 82,
-      "outOfScope": 145,
+      "outOfScope": 144,
       "needsReview": 12,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -80,7 +80,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 4,
         "BLOCKED_SPECIALIST_PORTFOLIO": 10,
-        "BLOCKED_TECHNICAL_ROLE": 125,
+        "BLOCKED_TECHNICAL_ROLE": 124,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 12
       }
     },
@@ -249,17 +249,17 @@
     },
     "bytedance-campus": {
       "normalized": 2335,
-      "targetGeneralist": 422,
-      "outOfScope": 1852,
+      "targetGeneralist": 421,
+      "outOfScope": 1853,
       "needsReview": 61,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 254,
-        "ALLOWED_TARGET_MAJOR": 160,
+        "ALLOWED_TARGET_MAJOR": 159,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 42,
-        "BLOCKED_TECHNICAL_ROLE": 1766,
+        "BLOCKED_TECHNICAL_ROLE": 1767,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
       }
     },
@@ -821,13 +821,12 @@
       "reasonCounts": {}
     },
     "lilith-campus": {
-      "normalized": 19,
-      "targetGeneralist": 2,
+      "normalized": 18,
+      "targetGeneralist": 1,
       "outOfScope": 12,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_TARGET_MAJOR": 1,
-        "ALLOWED_UNRESTRICTED_MAJOR": 1,
         "BLOCKED_SPECIALIST_PORTFOLIO": 1,
         "BLOCKED_TECHNICAL_ROLE": 11,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
@@ -1043,18 +1042,18 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 463,
+      "normalized": 461,
       "targetGeneralist": 60,
-      "outOfScope": 319,
-      "needsReview": 84,
+      "outOfScope": 318,
+      "needsReview": 83,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
-        "BLOCKED_NON_TARGET_MAJOR": 16,
+        "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
         "BLOCKED_TECHNICAL_ROLE": 296,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 84
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 83
       }
     },
     "nsfocus-campus": {
@@ -1396,18 +1395,18 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 104,
+      "normalized": 106,
       "targetGeneralist": 30,
-      "outOfScope": 65,
-      "needsReview": 9,
+      "outOfScope": 66,
+      "needsReview": 10,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 17,
         "ALLOWED_TARGET_MAJOR": 13,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 3,
         "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 56,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
+        "BLOCKED_TECHNICAL_ROLE": 57,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
     "tencent-music-campus": {
@@ -1622,15 +1621,15 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 486,
-      "targetGeneralist": 154,
-      "outOfScope": 332,
+      "normalized": 483,
+      "targetGeneralist": 152,
+      "outOfScope": 331,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 91,
+        "ALLOWED_GENERALIST_TITLE": 89,
         "ALLOWED_TARGET_MAJOR": 59,
         "ALLOWED_UNRESTRICTED_MAJOR": 4,
-        "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 3,
+        "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
         "BLOCKED_NON_TARGET_MAJOR": 92,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
         "BLOCKED_TECHNICAL_ROLE": 217
@@ -3824,15 +3823,6 @@
       ]
     },
     {
-      "jobId": "nio:7673027139705637146",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招-战略分析师",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "nio:7673027139704752410",
       "sourceId": "nio-campus",
       "companyName": "蔚来",
@@ -4097,7 +4087,7 @@
       "jobId": "desay-sv:7675576697308203291",
       "sourceId": "desay-sv-campus",
       "companyName": "德赛西威",
-      "title": "知识产权管理专员（惠州）",
+      "title": "知识产权管理专员（2027届-惠州）",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4400,6 +4390,15 @@
       ]
     },
     {
+      "jobId": "tencent:2104878897891033088",
+      "sourceId": "tencent-campus",
+      "companyName": "腾讯",
+      "title": "Coding Agent Research Intern 108097",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "tencent:2098069031708966912",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4463,6 +4462,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-29T00:22:54.473594+00:00",
-  "catalogVersion": "2026.09.29.0022"
+  "generatedAt": "2026-09-29T11:23:20.351764+00:00",
+  "catalogVersion": "2026.09.29.1123"
 }
