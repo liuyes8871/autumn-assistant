@@ -4,19 +4,19 @@
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
     "normalized": 4592,
-    "targetGeneralist": 998,
-    "outOfScope": 3379,
-    "needsReview": 215
+    "targetGeneralist": 1000,
+    "outOfScope": 3378,
+    "needsReview": 214
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 517,
+    "ALLOWED_GENERALIST_TITLE": 519,
     "ALLOWED_TARGET_MAJOR": 438,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 25,
     "BLOCKED_NON_TARGET_MAJOR": 185,
-    "BLOCKED_SPECIALIST_PORTFOLIO": 127,
+    "BLOCKED_SPECIALIST_PORTFOLIO": 126,
     "BLOCKED_TECHNICAL_ROLE": 3042,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 215
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
     "01ai-careers": {
@@ -248,19 +248,19 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2336,
-      "targetGeneralist": 421,
-      "outOfScope": 1854,
-      "needsReview": 61,
+      "normalized": 2335,
+      "targetGeneralist": 422,
+      "outOfScope": 1853,
+      "needsReview": 60,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 254,
+        "ALLOWED_GENERALIST_TITLE": 255,
         "ALLOWED_TARGET_MAJOR": 159,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 37,
-        "BLOCKED_SPECIALIST_PORTFOLIO": 42,
+        "BLOCKED_SPECIALIST_PORTFOLIO": 41,
         "BLOCKED_TECHNICAL_ROLE": 1768,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 61
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 60
       }
     },
     "cainiao-campus": {
@@ -1621,12 +1621,12 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 483,
-      "targetGeneralist": 152,
+      "normalized": 484,
+      "targetGeneralist": 153,
       "outOfScope": 331,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 89,
+        "ALLOWED_GENERALIST_TITLE": 90,
         "ALLOWED_TARGET_MAJOR": 59,
         "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
@@ -2272,15 +2272,6 @@
         ]
       },
       {
-        "jobId": "bytedance:7669800314486245637",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "战略商业分析师 - 抖音电商",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
         "jobId": "bytedance:7681185345474218245",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2522,6 +2513,15 @@
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
+      },
+      {
+        "jobId": "bytedance:7673774412449450293",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "战略分析师 - 红果短剧",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
       }
     ]
   },
@@ -2630,15 +2630,6 @@
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
       "title": "流媒体传输研究员 - 音视频技术",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "bytedance:7669800314486245637",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "战略商业分析师 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4462,6 +4453,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-29T23:44:27.284976+00:00",
-  "catalogVersion": "2026.09.29.2344"
+  "generatedAt": "2026-09-30T05:35:00.892572+00:00",
+  "catalogVersion": "2026.09.30.0535"
 }
