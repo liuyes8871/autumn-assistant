@@ -12,10 +12,10 @@
     "ALLOWED_GENERALIST_TITLE": 519,
     "ALLOWED_TARGET_MAJOR": 438,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
-    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 25,
+    "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 185,
     "BLOCKED_SPECIALIST_PORTFOLIO": 126,
-    "BLOCKED_TECHNICAL_ROLE": 3042,
+    "BLOCKED_TECHNICAL_ROLE": 3043,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
@@ -248,15 +248,15 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2335,
+      "normalized": 2334,
       "targetGeneralist": 422,
-      "outOfScope": 1853,
+      "outOfScope": 1852,
       "needsReview": 60,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 255,
         "ALLOWED_TARGET_MAJOR": 159,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
-        "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
+        "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 37,
         "BLOCKED_SPECIALIST_PORTFOLIO": 41,
         "BLOCKED_TECHNICAL_ROLE": 1768,
@@ -1621,9 +1621,9 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 484,
+      "normalized": 485,
       "targetGeneralist": 153,
-      "outOfScope": 331,
+      "outOfScope": 332,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 90,
@@ -1632,7 +1632,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
         "BLOCKED_NON_TARGET_MAJOR": 92,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 217
+        "BLOCKED_TECHNICAL_ROLE": 218
       }
     },
     "xueqiu-careers": {
@@ -4453,6 +4453,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-30T05:35:00.892572+00:00",
-  "catalogVersion": "2026.09.30.0535"
+  "generatedAt": "2026-09-30T16:25:34.374738+00:00",
+  "catalogVersion": "2026.09.30.1625"
 }
