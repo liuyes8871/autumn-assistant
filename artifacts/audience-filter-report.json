@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4590,
-    "targetGeneralist": 1000,
-    "outOfScope": 3376,
+    "normalized": 4584,
+    "targetGeneralist": 998,
+    "outOfScope": 3372,
     "needsReview": 214
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 519,
-    "ALLOWED_TARGET_MAJOR": 438,
+    "ALLOWED_GENERALIST_TITLE": 518,
+    "ALLOWED_TARGET_MAJOR": 437,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
-    "BLOCKED_NON_TARGET_MAJOR": 185,
-    "BLOCKED_SPECIALIST_PORTFOLIO": 125,
-    "BLOCKED_TECHNICAL_ROLE": 3042,
+    "BLOCKED_NON_TARGET_MAJOR": 184,
+    "BLOCKED_SPECIALIST_PORTFOLIO": 123,
+    "BLOCKED_TECHNICAL_ROLE": 3041,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
@@ -1395,17 +1395,17 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 106,
-      "targetGeneralist": 30,
-      "outOfScope": 66,
+      "normalized": 100,
+      "targetGeneralist": 28,
+      "outOfScope": 62,
       "needsReview": 10,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 17,
-        "ALLOWED_TARGET_MAJOR": 13,
+        "ALLOWED_GENERALIST_TITLE": 16,
+        "ALLOWED_TARGET_MAJOR": 12,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
-        "BLOCKED_NON_TARGET_MAJOR": 3,
-        "BLOCKED_SPECIALIST_PORTFOLIO": 5,
-        "BLOCKED_TECHNICAL_ROLE": 57,
+        "BLOCKED_NON_TARGET_MAJOR": 2,
+        "BLOCKED_SPECIALIST_PORTFOLIO": 3,
+        "BLOCKED_TECHNICAL_ROLE": 56,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -4399,19 +4399,19 @@
       ]
     },
     {
-      "jobId": "tencent:2094852842950148096",
+      "jobId": "tencent:2094852838621626368",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "tencent:2094852838621626368",
+      "jobId": "tencent:2094852842950148096",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4453,6 +4453,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-02T05:40:38.315164+00:00",
-  "catalogVersion": "2026.10.02.0540"
+  "generatedAt": "2026-10-02T16:17:03.723457+00:00",
+  "catalogVersion": "2026.10.02.1617"
 }
