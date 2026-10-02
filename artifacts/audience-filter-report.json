@@ -2218,10 +2218,10 @@
         ]
       },
       {
-        "jobId": "bytedance:7685652943334279429",
+        "jobId": "bytedance:7670921095745128709",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
-        "title": "居家生活行业经营分析 - 抖音电商",
+        "title": "新品营销 - 抖音电商",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2236,10 +2236,10 @@
         ]
       },
       {
-        "jobId": "bytedance:7670921095745128709",
+        "jobId": "bytedance:7685652943334279429",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
-        "title": "新品营销 - 抖音电商",
+        "title": "居家生活行业经营分析 - 抖音电商",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2281,15 +2281,6 @@
         ]
       },
       {
-        "jobId": "bytedance:7670755843042642181",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "服务商渠道经理 - 抖音生活服务",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
         "jobId": "bytedance:7670755718954682677",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2303,6 +2294,15 @@
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
         "title": "数据分析师 - 抖音音乐",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
+      },
+      {
+        "jobId": "bytedance:7670755843042642181",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "服务商渠道经理 - 抖音生活服务",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2335,6 +2335,15 @@
         ]
       },
       {
+        "jobId": "bytedance:7685209267955075333",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "经营分析师（国际化业务） - Global Business Solutions",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
+      },
+      {
         "jobId": "bytedance:7670755833004804405",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2348,15 +2357,6 @@
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
         "title": "经营分析 - 抖音电商",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
-        "jobId": "bytedance:7685209267955075333",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "经营分析师（国际化业务） - Global Business Solutions",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2389,24 +2389,6 @@
         ]
       },
       {
-        "jobId": "bytedance:7670896417674201349",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "作者策略 - 抖音电商",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
-        "jobId": "bytedance:7676398396087159045",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "货架供给策略 - 抖音电商",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
         "jobId": "bytedance:7665585091687860533",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2416,10 +2398,28 @@
         ]
       },
       {
+        "jobId": "bytedance:7670896417674201349",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "作者策略 - 抖音电商",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
+      },
+      {
         "jobId": "bytedance:7668586666585917701",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
         "title": "智能体安全研究员 - 安全与风控",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
+      },
+      {
+        "jobId": "bytedance:7676398396087159045",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "货架供给策略 - 抖音电商",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2461,6 +2461,15 @@
         ]
       },
       {
+        "jobId": "bytedance:7669707798918007045",
+        "sourceId": "bytedance-campus",
+        "companyName": "字节跳动",
+        "title": "数据分析师 - 番茄小说",
+        "reasonCodes": [
+          "REVIEW_INSUFFICIENT_REQUIREMENTS"
+        ]
+      },
+      {
         "jobId": "bytedance:7683435587500263733",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2470,10 +2479,10 @@
         ]
       },
       {
-        "jobId": "bytedance:7667935633641441589",
+        "jobId": "bytedance:7668138161997875461",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
-        "title": "创新增长营销经理 - 抖音",
+        "title": "集团内控业务伙伴-内控",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2488,15 +2497,6 @@
         ]
       },
       {
-        "jobId": "bytedance:7669707798918007045",
-        "sourceId": "bytedance-campus",
-        "companyName": "字节跳动",
-        "title": "数据分析师 - 番茄小说",
-        "reasonCodes": [
-          "REVIEW_INSUFFICIENT_REQUIREMENTS"
-        ]
-      },
-      {
         "jobId": "bytedance:7673774412449450293",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
@@ -2506,10 +2506,10 @@
         ]
       },
       {
-        "jobId": "bytedance:7668138161997875461",
+        "jobId": "bytedance:7667935633641441589",
         "sourceId": "bytedance-campus",
         "companyName": "字节跳动",
-        "title": "集团内控业务伙伴-内控",
+        "title": "创新增长营销经理 - 抖音",
         "reasonCodes": [
           "REVIEW_INSUFFICIENT_REQUIREMENTS"
         ]
@@ -2581,10 +2581,10 @@
       ]
     },
     {
-      "jobId": "bytedance:7685652943334279429",
+      "jobId": "bytedance:7670921095745128709",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "居家生活行业经营分析 - 抖音电商",
+      "title": "新品营销 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2599,10 +2599,10 @@
       ]
     },
     {
-      "jobId": "bytedance:7670921095745128709",
+      "jobId": "bytedance:7685652943334279429",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "新品营销 - 抖音电商",
+      "title": "居家生活行业经营分析 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2644,15 +2644,6 @@
       ]
     },
     {
-      "jobId": "bytedance:7670755843042642181",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "服务商渠道经理 - 抖音生活服务",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "bytedance:7670755718954682677",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
@@ -2666,6 +2657,15 @@
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
       "title": "数据分析师 - 抖音音乐",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7670755843042642181",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "服务商渠道经理 - 抖音生活服务",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2698,6 +2698,15 @@
       ]
     },
     {
+      "jobId": "bytedance:7685209267955075333",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "经营分析师（国际化业务） - Global Business Solutions",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "bytedance:7670755833004804405",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
@@ -2711,15 +2720,6 @@
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
       "title": "经营分析 - 抖音电商",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "bytedance:7685209267955075333",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "经营分析师（国际化业务） - Global Business Solutions",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2752,24 +2752,6 @@
       ]
     },
     {
-      "jobId": "bytedance:7670896417674201349",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "作者策略 - 抖音电商",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "bytedance:7676398396087159045",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "货架供给策略 - 抖音电商",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "bytedance:7665585091687860533",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
@@ -2779,10 +2761,28 @@
       ]
     },
     {
+      "jobId": "bytedance:7670896417674201349",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "作者策略 - 抖音电商",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "bytedance:7668586666585917701",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
       "title": "智能体安全研究员 - 安全与风控",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7676398396087159045",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "货架供给策略 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2824,33 +2824,6 @@
       ]
     },
     {
-      "jobId": "bytedance:7683435587500263733",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "经营分析 - 抖音电商",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "bytedance:7667935633641441589",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "创新增长营销经理 - 抖音",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "bytedance:7668294219304470837",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "成本管理专员 - Corporate Services",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "bytedance:7669707798918007045",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
@@ -2860,10 +2833,10 @@
       ]
     },
     {
-      "jobId": "bytedance:7673774412449450293",
+      "jobId": "bytedance:7683435587500263733",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "战略分析师 - 红果短剧",
+      "title": "经营分析 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2878,19 +2851,37 @@
       ]
     },
     {
-      "jobId": "bytedance:7669716592118352133",
+      "jobId": "bytedance:7668294219304470837",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "游戏数值策划（搜打撤） - 绿洲工作室",
+      "title": "成本管理专员 - Corporate Services",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "bytedance:7672623614400973061",
+      "jobId": "bytedance:7673774412449450293",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "撮合策略 - 抖音电商",
+      "title": "战略分析师 - 红果短剧",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7667935633641441589",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "创新增长营销经理 - 抖音",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7669716592118352133",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "游戏数值策划（搜打撤） - 绿洲工作室",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2909,6 +2900,15 @@
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
       "title": "数据分析师 - 今日头条",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7672623614400973061",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "撮合策略 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -2968,15 +2968,6 @@
       ]
     },
     {
-      "jobId": "bytedance:7669710776109730101",
-      "sourceId": "bytedance-campus",
-      "companyName": "字节跳动",
-      "title": "增长营销经理 - 番茄小说",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "bytedance:7669756763692960053",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
@@ -2995,19 +2986,19 @@
       ]
     },
     {
-      "jobId": "bytedance:7667419801941592373",
+      "jobId": "bytedance:7668299838714906885",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "业务分析 - 抖音电商",
+      "title": "物理安全策略 - Corporate Services",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "bytedance:7668299838714906885",
+      "jobId": "bytedance:7669687543886022965",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "物理安全策略 - Corporate Services",
+      "title": "战略分析师 - 番茄小说",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -3022,10 +3013,19 @@
       ]
     },
     {
-      "jobId": "bytedance:7669687543886022965",
+      "jobId": "bytedance:7669710776109730101",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "战略分析师 - 番茄小说",
+      "title": "增长营销经理 - 番茄小说",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "bytedance:7667419801941592373",
+      "sourceId": "bytedance-campus",
+      "companyName": "字节跳动",
+      "title": "业务分析 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4453,6 +4453,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-02T16:17:03.723457+00:00",
-  "catalogVersion": "2026.10.02.1617"
+  "generatedAt": "2026-10-02T23:48:06.588078+00:00",
+  "catalogVersion": "2026.10.02.2348"
 }
