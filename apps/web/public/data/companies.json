@@ -33,7 +33,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 102,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.4399om.com/campus/",
@@ -75,7 +75,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 227,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.funplus.com.cn/",
@@ -117,7 +117,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 202,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.yottagames.com.cn/zh/campus",
@@ -163,7 +163,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 116,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.g-bits.com/",
@@ -206,7 +206,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 172,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.sensetime.com/campus",
@@ -250,7 +250,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 112,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://job.tal.com/"
@@ -289,7 +289,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 1,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "coverageException": "官方校招渠道已核验，上市状态与员工规模未纳入当前公开注册表证据",
       "focusSegment": "综合平台与 AI"
@@ -326,7 +326,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 233,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.futunn.com/",
@@ -367,7 +367,7 @@
         "directorySource": "registry/companies.json+community-leads.json",
         "directoryRank": 7,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://hr.xiaomi.com/website/campus.html",
@@ -413,50 +413,11 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 62,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoverySources": [
         "hiring-radar"
       ]
-    },
-    {
-      "id": "giant-network",
-      "name": "巨人网络",
-      "industry": "游戏与内容",
-      "type": "民企",
-      "scale": "未知",
-      "sourceStatus": "TARGET",
-      "listingStatus": "UNKNOWN",
-      "stockCodes": [],
-      "employeeCount": null,
-      "listingEvidenceUrls": [],
-      "employeeEvidenceUrls": [],
-      "careerUrl": "https://hr.ztgame.com/campus/",
-      "verifiedAt": null,
-      "aliases": [],
-      "directory": {
-        "companyId": "giant-network",
-        "cohort": "2027",
-        "directoryStatus": "ACTIVE_CONFIRMED",
-        "entryType": "OFFICIAL_CAMPAIGN_PAGE",
-        "careerUrl": "https://hr.ztgame.com/campus/",
-        "evidenceUrl": "https://hr.ztgame.com/campus/",
-        "evidenceText": "官网页面检测到当前届校园招聘信号；具体岗位以企业官网为准。",
-        "detectedSignals": [
-          "2027_CAMPUS"
-        ],
-        "directorySource": "registry/companies.json",
-        "directoryRank": 90,
-        "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
-      },
-      "discoveryEvidenceUrls": [
-        "https://hr.ztgame.com/campus/",
-        "https://hr.ztgame.com/campus/join/faq/"
-      ],
-      "discoveryCheckedAt": "2026-09-09",
-      "discoveryNote": "巨人网络官方校园招聘页明确面向 2027 届毕业生；岗位采集尚未完成来源审核。",
-      "focusSegment": "游戏与数字娱乐"
     },
     {
       "id": "duxiaoman",
@@ -490,7 +451,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 174,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.duxiaoman.com/",
@@ -529,7 +490,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 63,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://careers.pddglobalhr.com/campus/"
@@ -570,7 +531,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 218,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.changyou.com/"
@@ -613,7 +574,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 106,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://talent.autohome.com.cn/campus_index.html",
@@ -655,7 +616,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 195,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://campus.yoozoo.com/",
@@ -707,7 +668,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 2,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "focusSegment": "搜索与 AI"
     },
@@ -745,7 +706,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 108,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://www.nsfocus.com.cn/campus/",
@@ -789,7 +750,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 222,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://iyoudao.com.cn/campus.html",
@@ -828,7 +789,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 89,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://join.tencentmusic.com/campus/"
@@ -870,7 +831,7 @@
         "directorySource": "registry/companies.json",
         "directoryRank": 197,
         "firstConfirmedAt": "2026-09-20T07:09:35.139476+00:00",
-        "lastCheckedAt": "2026-10-02T07:45:14.280854+00:00"
+        "lastCheckedAt": "2026-10-03T07:18:05.595910+00:00"
       },
       "discoveryEvidenceUrls": [
         "https://career.hypergryph.com/",
