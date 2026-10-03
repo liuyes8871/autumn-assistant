@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4584,
-    "targetGeneralist": 998,
-    "outOfScope": 3372,
-    "needsReview": 214
+    "normalized": 4563,
+    "targetGeneralist": 987,
+    "outOfScope": 3365,
+    "needsReview": 211
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 518,
-    "ALLOWED_TARGET_MAJOR": 437,
+    "ALLOWED_GENERALIST_TITLE": 516,
+    "ALLOWED_TARGET_MAJOR": 428,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 184,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
-    "BLOCKED_TECHNICAL_ROLE": 3041,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
+    "BLOCKED_TECHNICAL_ROLE": 3034,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 211
   },
   "bySource": {
     "01ai-careers": {
@@ -1198,16 +1198,11 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 21,
-      "targetGeneralist": 11,
-      "outOfScope": 7,
-      "needsReview": 3,
-      "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 2,
-        "ALLOWED_TARGET_MAJOR": 9,
-        "BLOCKED_TECHNICAL_ROLE": 7,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
-      }
+      "normalized": 0,
+      "targetGeneralist": 0,
+      "outOfScope": 0,
+      "needsReview": 0,
+      "reasonCounts": {}
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -4138,33 +4133,6 @@
       ]
     },
     {
-      "jobId": "robinhood:8197614",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "People Partner Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198255",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198097",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "Vendor Management Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4453,6 +4421,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-02T23:48:06.588078+00:00",
-  "catalogVersion": "2026.10.02.2348"
+  "generatedAt": "2026-10-03T05:21:50.312824+00:00",
+  "catalogVersion": "2026.10.03.0521"
 }
