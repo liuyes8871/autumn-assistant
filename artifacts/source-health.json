@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T05:58:27.352931+00:00",
-  "catalogVersion": "2026.10.04.0556",
+  "generatedAt": "2026-10-04T15:25:14.185523+00:00",
+  "catalogVersion": "2026.10.04.1523",
   "summary": {
     "sourceCount": 235,
     "healthy": 20,
@@ -167,7 +167,7 @@
       "unknownCohortRatio": 0.09663865546218488,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "6ef63e36536bf30c6bf80d4a4058efc8dba9f8ee7785391a76bb9f821d0c16f2",
+      "contentHash": "9108c24590b8ea76c56652537cc835bc3768da5b6bc57f83d0cc930d1447ad75",
       "statusCode": 200,
       "reason": null
     },
@@ -227,7 +227,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "a9bad0257bab51802bd307d7bd1a154149fa4977c456f0db5434e9eee4705cea",
+      "contentHash": "e245f0b5f3bd73e505ab9de87eeaf5e329e6bbb609ca036b95c291cf6df0ac7d",
       "statusCode": 200,
       "reason": null
     },
@@ -327,7 +327,7 @@
       "unknownCohortRatio": 0.8703703703703703,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "1fbce6a172b837eaea7b3ab8622777183bb9fcb86d18feb3a0788e828e247e00",
+      "contentHash": "2efd370d72e8b5963401ee827bb41420a40e0f4ddf956d3014bdc2fffbfaf344",
       "statusCode": 200,
       "reason": null
     },
@@ -587,7 +587,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "f5179df5a6c6dd1d93f7d50b890c5d6b4452582e1d7ab067a8639148cb264c90",
+      "contentHash": "d3e2396fc63c55c244b433802426eb1ac61be0fcbe1ed216a55d1850100e8e76",
       "statusCode": 200,
       "reason": null
     },
@@ -907,7 +907,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "df5bb688c6eca79cd370a817ae5c6e49fed679e19a11de492cc9949106ea0fc9",
+      "contentHash": "01b5e73ffaae63fb25a0c8f465bd0a16b4de4ed753e7e023c715581d668ad612",
       "statusCode": 200,
       "reason": null
     },
@@ -1167,7 +1167,7 @@
       "unknownCohortRatio": 1.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "5d2b1ff1723042611afb844979fae30e7bb06f570c270dbb31c884681edd63ee",
+      "contentHash": "33fcd68c7ef59fb47f8465afd835421aadfbfacbf2562e6a56bdb12886a5a480",
       "statusCode": 200,
       "reason": null
     },
@@ -1727,7 +1727,7 @@
       "unknownCohortRatio": 0.013333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "421260a8b60bed4b2c3c09fc54f9d4251fb4941c1f88c4fa553970b84ae8800f",
+      "contentHash": "8dd771bf3843b359ddd108f069fabee0103ee6cc689fd60feeed99dc9f44926f",
       "statusCode": 200,
       "reason": null
     },
@@ -2127,7 +2127,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "7403081af121bc37cf0a231c52ce50fc5383255fec47b29bc4a4bdaf9d6e147f",
+      "contentHash": "6303a323ed2d415d581d281046e5d7e007f844aae50c2d5c28964f30bbb75585",
       "statusCode": 200,
       "reason": null
     },
@@ -2327,7 +2327,7 @@
       "unknownCohortRatio": 0.8,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "59484a261596935b0b19fb03452f2aa2dd56ce32e357c823211bb95785c2ef85",
+      "contentHash": "e622358dbfe81747d61d457f3a4608f75c3e45f8ae3f687ef5067066f510f755",
       "statusCode": 200,
       "reason": null
     },
@@ -2727,7 +2727,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "9e48f866abedb55874773605ac3ce6b0a05e552e6a6ee2701996987e722ce488",
+      "contentHash": "d817448bd320552b27f0835f56b5a47c9521fc8a20b5a8cc4404d440d4960374",
       "statusCode": 200,
       "reason": null
     },
@@ -2927,7 +2927,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "f6b673d7617d0f0ad4a91cd6d9e2d9b8b38f93a5e9a972a61a5f6ece21af6b76",
+      "contentHash": "43ecfe8230ff4bd0b3f067296b089ce87f9e603dd5b2500225ab55cf7328828b",
       "statusCode": 200,
       "reason": null
     },
@@ -3107,7 +3107,7 @@
       "unknownCohortRatio": 0.08695652173913043,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "69525fc5dd3e7c7e30c5f35daf268ab46dc76a005cb3212eac78152a709c95ad",
+      "contentHash": "4afe6b7d20536e296b71e6c0d9c2c44e8e4f85a0e12321bafe7dc0da78f56ab9",
       "statusCode": 200,
       "reason": null
     },
@@ -3207,7 +3207,7 @@
       "unknownCohortRatio": 0.9090909090909091,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "89e4bf6c6edce98807f5a996bea274d58ef0c23cca34d791218e9706188c560b",
+      "contentHash": "a4292d75d555d93e493910ff0e8f29707cc14563fddc6e746e2be90fd91ac23b",
       "statusCode": 200,
       "reason": null
     },
@@ -3587,7 +3587,7 @@
       "unknownCohortRatio": 0.23333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "35558fa3eee0dea72f47a3c5cd9eebef8ecad0ed8e66608eecd2f6b55d22fe7f",
+      "contentHash": "f75ad0981c7e7ffc5e24996fab3ebf7396a6dd177bf8bf658698959bde0915a0",
       "statusCode": 200,
       "reason": null
     },
@@ -3707,7 +3707,7 @@
       "unknownCohortRatio": 0.2196969696969697,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "6fe8cda5185b04704152c8ce07a21534651f6754484c80f4eb82fcb27e37f96c",
+      "contentHash": "91a97b794fbfd0089ba56b7a242f67c6cceff31db9c1c8543d73586a71971299",
       "statusCode": 200,
       "reason": null
     },
@@ -4247,7 +4247,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "1e1e12531b0e4051adb5d1e44d0e225ec40f36f10a8b8c9de036563f6111918b",
+      "contentHash": "598c866af4f07f4b4a3161e9e47b642dd4283471888064873519396fc9e0e72d",
       "statusCode": 200,
       "reason": null
     },
