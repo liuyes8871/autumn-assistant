@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "locationSchemaVersion": 1,
-  "catalogVersion": "2026.10.07.0603",
-  "generatedAt": "2026-10-07T06:03:10.006157+00:00",
-  "businessDate": "2026-10-07",
+  "catalogVersion": "2026.10.07.1726",
+  "generatedAt": "2026-10-07T17:26:12.206205+00:00",
+  "businessDate": "2026-10-08",
   "totalJobs": 1081,
   "activeJobs": 998,
   "sourceCount": 235,
@@ -71,10 +71,10 @@
   "audiencePolicy": {
     "version": "humanities-social-business-v1",
     "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
-    "normalizedJobCount": 4589,
+    "normalizedJobCount": 4575,
     "eligibleJobCount": 998,
     "excludedJobCount": 3377,
-    "reviewJobCount": 214
+    "reviewJobCount": 200
   },
   "companyDirectory": {
     "cohort": "2027",
@@ -246,7 +246,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "anker-campus",
-      "fetched_at": "2026-10-07T06:03:28.467000Z",
+      "fetched_at": "2026-10-07T17:26:28.902247Z",
       "fetch_complete": true,
       "raw_count": 238,
       "unique_count": 238,
@@ -304,7 +304,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "asiainfo-security-campus",
-      "fetched_at": "2026-10-07T06:03:40.571049Z",
+      "fetched_at": "2026-10-07T17:26:42.710736Z",
       "fetch_complete": true,
       "raw_count": 12,
       "unique_count": 12,
@@ -362,7 +362,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "baidu-campus",
-      "fetched_at": "2026-10-07T06:03:19.310640Z",
+      "fetched_at": "2026-10-07T17:26:21.961738Z",
       "fetch_complete": true,
       "raw_count": 159,
       "unique_count": 147,
@@ -400,7 +400,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "bambulab-campus",
-      "fetched_at": "2026-10-07T06:03:53.479069Z",
+      "fetched_at": "2026-10-07T17:26:54.697149Z",
       "fetch_complete": true,
       "raw_count": 108,
       "unique_count": 108,
@@ -658,7 +658,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "bytedance-campus",
-      "fetched_at": "2026-10-07T06:04:05.083650Z",
+      "fetched_at": "2026-10-07T17:27:00.938017Z",
       "fetch_complete": true,
       "raw_count": 2332,
       "unique_count": 2332,
@@ -976,7 +976,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "desay-sv-campus",
-      "fetched_at": "2026-10-07T06:03:48.201334Z",
+      "fetched_at": "2026-10-07T17:26:49.878495Z",
       "fetch_complete": true,
       "raw_count": 109,
       "unique_count": 109,
@@ -1234,7 +1234,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "ecarx-campus",
-      "fetched_at": "2026-10-07T06:03:55.043050Z",
+      "fetched_at": "2026-10-07T17:26:56.253886Z",
       "fetch_complete": true,
       "raw_count": 1,
       "unique_count": 1,
@@ -1792,7 +1792,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "insta360-campus",
-      "fetched_at": "2026-10-07T06:03:45.558730Z",
+      "fetched_at": "2026-10-07T17:26:47.491036Z",
       "fetch_complete": true,
       "raw_count": 225,
       "unique_count": 225,
@@ -1830,7 +1830,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "jd-campus",
-      "fetched_at": "2026-10-07T06:03:23.489067Z",
+      "fetched_at": "2026-10-07T17:26:26.469841Z",
       "fetch_complete": true,
       "raw_count": 124,
       "unique_count": 124,
@@ -2188,7 +2188,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "lilith-campus",
-      "fetched_at": "2026-10-07T06:03:38.466556Z",
+      "fetched_at": "2026-10-07T17:26:40.091696Z",
       "fetch_complete": true,
       "raw_count": 18,
       "unique_count": 18,
@@ -2386,7 +2386,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "meihua-campus",
-      "fetched_at": "2026-10-07T06:03:37.372410Z",
+      "fetched_at": "2026-10-07T17:26:38.845093Z",
       "fetch_complete": true,
       "raw_count": 5,
       "unique_count": 5,
@@ -2779,15 +2779,15 @@
       "freshness_days": null
     },
     {
-      "accepted": 461,
+      "accepted": 447,
       "rejected": 0,
       "quarantined": false,
       "reasons": [],
       "source_id": "nio-campus",
-      "fetched_at": "2026-10-07T06:03:23.921565Z",
+      "fetched_at": "2026-10-07T17:26:24.881547Z",
       "fetch_complete": true,
-      "raw_count": 461,
-      "unique_count": 461,
+      "raw_count": 447,
+      "unique_count": 447,
       "duplicate_count": 0,
       "duplicate_ratio": 0.0,
       "field_completeness": 1.0,
@@ -2982,7 +2982,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "pony-ai-campus",
-      "fetched_at": "2026-10-07T06:03:56.851915Z",
+      "fetched_at": "2026-10-07T17:26:58.276163Z",
       "fetch_complete": true,
       "raw_count": 2,
       "unique_count": 2,
@@ -3160,7 +3160,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "rigol-campus",
-      "fetched_at": "2026-10-07T06:03:39.650471Z",
+      "fetched_at": "2026-10-07T17:26:41.584390Z",
       "fetch_complete": true,
       "raw_count": 23,
       "unique_count": 23,
@@ -3178,12 +3178,12 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "robinhood-early-career",
-      "fetched_at": "2026-10-07T06:03:19.654742Z",
+      "fetched_at": "2026-10-07T17:26:22.253420Z",
       "fetch_complete": true,
-      "raw_count": 160,
+      "raw_count": 164,
       "unique_count": 21,
-      "duplicate_count": 139,
-      "duplicate_ratio": 0.86875,
+      "duplicate_count": 143,
+      "duplicate_ratio": 0.8719512195121951,
       "field_completeness": 1.0,
       "unknown_cohort_ratio": 0.0,
       "baseline_count": 21,
@@ -3256,7 +3256,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "seer-robotics-campus",
-      "fetched_at": "2026-10-07T06:03:55.901807Z",
+      "fetched_at": "2026-10-07T17:26:57.094175Z",
       "fetch_complete": true,
       "raw_count": 11,
       "unique_count": 11,
@@ -3634,7 +3634,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "syoung-campus",
-      "fetched_at": "2026-10-07T06:03:41.557008Z",
+      "fetched_at": "2026-10-07T17:26:43.742212Z",
       "fetch_complete": true,
       "raw_count": 30,
       "unique_count": 30,
@@ -3750,7 +3750,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "thundersoft-campus",
-      "fetched_at": "2026-10-07T06:03:50.811939Z",
+      "fetched_at": "2026-10-07T17:26:52.451847Z",
       "fetch_complete": true,
       "raw_count": 132,
       "unique_count": 132,
@@ -4288,7 +4288,7 @@
       "quarantined": false,
       "reasons": [],
       "source_id": "xpeng-campus",
-      "fetched_at": "2026-10-07T06:03:36.302179Z",
+      "fetched_at": "2026-10-07T17:26:37.815879Z",
       "fetch_complete": true,
       "raw_count": 485,
       "unique_count": 485,
@@ -4765,10 +4765,10 @@
       "policyVersion": "humanities-social-business-v1",
       "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
       "current": {
-        "normalized": 4589,
+        "normalized": 4575,
         "targetGeneralist": 998,
         "outOfScope": 3377,
-        "needsReview": 214
+        "needsReview": 200
       },
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 518,
@@ -4778,7 +4778,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 184,
         "BLOCKED_SPECIALIST_PORTFOLIO": 123,
         "BLOCKED_TECHNICAL_ROLE": 3046,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 200
       },
       "bySource": {
         "01ai-careers": {
@@ -5804,10 +5804,10 @@
           "reasonCounts": {}
         },
         "nio-campus": {
-          "normalized": 461,
+          "normalized": 447,
           "targetGeneralist": 60,
           "outOfScope": 318,
-          "needsReview": 83,
+          "needsReview": 69,
           "reasonCounts": {
             "ALLOWED_GENERALIST_TITLE": 30,
             "ALLOWED_TARGET_MAJOR": 21,
@@ -5815,7 +5815,7 @@
             "BLOCKED_NON_TARGET_MAJOR": 15,
             "BLOCKED_SPECIALIST_PORTFOLIO": 7,
             "BLOCKED_TECHNICAL_ROLE": 296,
-            "REVIEW_INSUFFICIENT_REQUIREMENTS": 83
+            "REVIEW_INSUFFICIENT_REQUIREMENTS": 69
           }
         },
         "nsfocus-campus": {
@@ -7910,73 +7910,10 @@
           ]
         },
         {
-          "jobId": "nio:7683048638940203302",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-金华",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7683044395137894662",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-金华",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
           "jobId": "nio:7680477826159855881",
           "sourceId": "nio-campus",
           "companyName": "蔚来",
           "title": "校招正式-蔚来顾问（25/26可投）-桂林",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7678666028570970395",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-嵊州",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7678666028570380571",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-上虞",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7678666028570085659",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-诸暨",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7678666021473749298",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-桐乡",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7678666021473159474",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-乐道顾问（25/26可投）-海宁",
           "reasonCodes": [
             "REVIEW_INSUFFICIENT_REQUIREMENTS"
           ]
@@ -8013,15 +7950,6 @@
           "sourceId": "nio-campus",
           "companyName": "蔚来",
           "title": "校招正式-蔚来顾问（25/26可投）-秦皇岛",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676317601975355684",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-吉安",
           "reasonCodes": [
             "REVIEW_INSUFFICIENT_REQUIREMENTS"
           ]
@@ -8184,60 +8112,6 @@
           "sourceId": "nio-campus",
           "companyName": "蔚来",
           "title": "校招正式-乐道顾问（25/26可投）-太原",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071897323030827",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-景德镇",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071897322735915",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-抚州",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071897322441003",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-赣州",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071888469592383",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-九江",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071888469297471",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-上饶",
-          "reasonCodes": [
-            "REVIEW_INSUFFICIENT_REQUIREMENTS"
-          ]
-        },
-        {
-          "jobId": "nio:7676071888469002559",
-          "sourceId": "nio-campus",
-          "companyName": "蔚来",
-          "title": "校招正式-蔚来顾问（25/26可投）-南昌",
           "reasonCodes": [
             "REVIEW_INSUFFICIENT_REQUIREMENTS"
           ]
@@ -9161,19 +9035,19 @@
           ]
         },
         {
-          "jobId": "tencent:2094852838621626368",
+          "jobId": "tencent:2094852842950148096",
           "sourceId": "tencent-campus",
           "companyName": "腾讯",
-          "title": "Tencent Cloud CPaaS Product Management Intern 108020",
+          "title": "Tencent Cloud CPaaS Product Management Intern 108019",
           "reasonCodes": [
             "REVIEW_INSUFFICIENT_REQUIREMENTS"
           ]
         },
         {
-          "jobId": "tencent:2094852842950148096",
+          "jobId": "tencent:2094852838621626368",
           "sourceId": "tencent-campus",
           "companyName": "腾讯",
-          "title": "Tencent Cloud CPaaS Product Management Intern 108019",
+          "title": "Tencent Cloud CPaaS Product Management Intern 108020",
           "reasonCodes": [
             "REVIEW_INSUFFICIENT_REQUIREMENTS"
           ]
@@ -9215,8 +9089,8 @@
           ]
         }
       ],
-      "generatedAt": "2026-10-07T06:03:10.006157+00:00",
-      "catalogVersion": "2026.10.07.0603"
+      "generatedAt": "2026-10-07T17:26:12.206205+00:00",
+      "catalogVersion": "2026.10.07.1726"
     }
   ]
 }

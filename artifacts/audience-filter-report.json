@@ -3,10 +3,10 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4589,
+    "normalized": 4575,
     "targetGeneralist": 998,
     "outOfScope": 3377,
-    "needsReview": 214
+    "needsReview": 200
   },
   "reasonCounts": {
     "ALLOWED_GENERALIST_TITLE": 518,
@@ -16,7 +16,7 @@
     "BLOCKED_NON_TARGET_MAJOR": 184,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
     "BLOCKED_TECHNICAL_ROLE": 3046,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 200
   },
   "bySource": {
     "01ai-careers": {
@@ -1042,10 +1042,10 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 461,
+      "normalized": 447,
       "targetGeneralist": 60,
       "outOfScope": 318,
-      "needsReview": 83,
+      "needsReview": 69,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
@@ -1053,7 +1053,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
         "BLOCKED_TECHNICAL_ROLE": 296,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 83
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 69
       }
     },
     "nsfocus-campus": {
@@ -3148,73 +3148,10 @@
       ]
     },
     {
-      "jobId": "nio:7683048638940203302",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-金华",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7683044395137894662",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-金华",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "nio:7680477826159855881",
       "sourceId": "nio-campus",
       "companyName": "蔚来",
       "title": "校招正式-蔚来顾问（25/26可投）-桂林",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7678666028570970395",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-嵊州",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7678666028570380571",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-上虞",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7678666028570085659",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-诸暨",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7678666021473749298",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-桐乡",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7678666021473159474",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-乐道顾问（25/26可投）-海宁",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -3251,15 +3188,6 @@
       "sourceId": "nio-campus",
       "companyName": "蔚来",
       "title": "校招正式-蔚来顾问（25/26可投）-秦皇岛",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676317601975355684",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-吉安",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -3422,60 +3350,6 @@
       "sourceId": "nio-campus",
       "companyName": "蔚来",
       "title": "校招正式-乐道顾问（25/26可投）-太原",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071897323030827",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-景德镇",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071897322735915",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-抚州",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071897322441003",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-赣州",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071888469592383",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-九江",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071888469297471",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-上饶",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "nio:7676071888469002559",
-      "sourceId": "nio-campus",
-      "companyName": "蔚来",
-      "title": "校招正式-蔚来顾问（25/26可投）-南昌",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4399,19 +4273,19 @@
       ]
     },
     {
-      "jobId": "tencent:2094852838621626368",
+      "jobId": "tencent:2094852842950148096",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "tencent:2094852842950148096",
+      "jobId": "tencent:2094852838621626368",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4453,6 +4327,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-07T06:03:10.006157+00:00",
-  "catalogVersion": "2026.10.07.0603"
+  "generatedAt": "2026-10-07T17:26:12.206205+00:00",
+  "catalogVersion": "2026.10.07.1726"
 }
