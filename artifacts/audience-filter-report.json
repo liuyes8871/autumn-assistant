@@ -3,9 +3,9 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4588,
+    "normalized": 4589,
     "targetGeneralist": 998,
-    "outOfScope": 3376,
+    "outOfScope": 3377,
     "needsReview": 214
   },
   "reasonCounts": {
@@ -15,7 +15,7 @@
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 184,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
-    "BLOCKED_TECHNICAL_ROLE": 3045,
+    "BLOCKED_TECHNICAL_ROLE": 3046,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 214
   },
   "bySource": {
@@ -1395,9 +1395,9 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 104,
+      "normalized": 105,
       "targetGeneralist": 28,
-      "outOfScope": 66,
+      "outOfScope": 67,
       "needsReview": 10,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 16,
@@ -1405,7 +1405,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 3,
-        "BLOCKED_TECHNICAL_ROLE": 60,
+        "BLOCKED_TECHNICAL_ROLE": 61,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -4453,6 +4453,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-06T20:21:16.147775+00:00",
-  "catalogVersion": "2026.10.06.2021"
+  "generatedAt": "2026-10-07T06:03:10.006157+00:00",
+  "catalogVersion": "2026.10.07.0603"
 }
