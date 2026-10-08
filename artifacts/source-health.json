@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T00:15:00.105490+00:00",
-  "catalogVersion": "2026.10.08.0013",
+  "generatedAt": "2026-10-08T06:12:04.835594+00:00",
+  "catalogVersion": "2026.10.08.0610",
   "summary": {
     "sourceCount": 235,
     "healthy": 20,
@@ -157,17 +157,17 @@
       "companyName": "安克创新",
       "status": "healthy",
       "registryStatus": "VERIFIED",
-      "fetchedJobCount": 238,
-      "eligibleJobCount": 82,
+      "fetchedJobCount": 240,
+      "eligibleJobCount": 83,
       "baselineCount": 238,
       "anomalousDrop": false,
       "duplicateRatio": 0.0,
       "fieldCompleteness": 1.0,
       "detailSuccessRate": null,
-      "unknownCohortRatio": 0.09663865546218488,
+      "unknownCohortRatio": 0.1,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "785f2f48d8c4a548e167fa27b9ab5690ab52fbebc3e354859b185d8a4bab37f3",
+      "contentHash": "0ab8fd7d6e9fdc9bbd1175fc62e738815089b9a08ddaeab73e20bdbd9edc9b39",
       "statusCode": 200,
       "reason": null
     },
@@ -227,7 +227,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "f42ba35b54563076b6a544faa8cfd3031fdc1da245687460a3a24cf9940a134b",
+      "contentHash": "97055eb3524c714920b490050aa40c6d288b9881ef8c24c7f89cf0583cfe7145",
       "statusCode": 200,
       "reason": null
     },
@@ -327,7 +327,7 @@
       "unknownCohortRatio": 0.8703703703703703,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "ed5a2365c1dd4eb6a3fc41e3d96ad2a761503a5cdee24a50c0a30b4ebc045d47",
+      "contentHash": "707c69afac927ff6831e1f40087c875f5b2d26494f366b15d995b7aac16ea0f2",
       "statusCode": 200,
       "reason": null
     },
@@ -577,7 +577,7 @@
       "companyName": "字节跳动",
       "status": "healthy",
       "registryStatus": "VERIFIED",
-      "fetchedJobCount": 2332,
+      "fetchedJobCount": 2333,
       "eligibleJobCount": 422,
       "baselineCount": 2332,
       "anomalousDrop": false,
@@ -587,7 +587,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "d60aba644f8cd59ab89e87dff6ff8f184c85ac3a98ff88126a67be44f01508ca",
+      "contentHash": "aff45cbebe9693a81e155deb47e2306b77c81689113b9b2ee2e1c1d8589eeb76",
       "statusCode": 200,
       "reason": null
     },
@@ -907,7 +907,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "96097aefe37750d9bcfb180f4828f643e91c8ef4490cb0bd07799d6bf77e7cab",
+      "contentHash": "f9abf2c667ab48be39bd9227931f2872574276e8dac6dc19174c03b942677524",
       "statusCode": 200,
       "reason": null
     },
@@ -1167,7 +1167,7 @@
       "unknownCohortRatio": 1.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "7e77255b36b0c9969182fedf01066ac6320134597222fe0468839b974f33f42f",
+      "contentHash": "27e40cf8fcaac26ab08473d846d7b0fe483fe8ca5a0308910e2e4d0be27a6153",
       "statusCode": 200,
       "reason": null
     },
@@ -1727,7 +1727,7 @@
       "unknownCohortRatio": 0.013333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "cb146d756e105389b9e622908f91e4ba32a6bbd586ef32a192797311279faac2",
+      "contentHash": "1bc561ddcf6b96d04918df3eb5787619f9792149286256ac40133ec042fed30b",
       "statusCode": 200,
       "reason": null
     },
@@ -2127,7 +2127,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "7707f98d52f7877a59138c82772ced38737129de8188d5b31a573186ac8458ef",
+      "contentHash": "4e2a5a629441b92f50b7c1f1b31943070610851fb1c583141b12d2ffe9904aef",
       "statusCode": 200,
       "reason": null
     },
@@ -2327,7 +2327,7 @@
       "unknownCohortRatio": 0.8,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "1f723e3fb8d716b18dddd33c8bc920afb91e1b41c90fad156cd1cbb34a5ca391",
+      "contentHash": "60828848276076dd00e6befc94b28ae85ebb51d0cad6ee5e8a070fddb98236bd",
       "statusCode": 200,
       "reason": null
     },
@@ -2717,7 +2717,7 @@
       "companyName": "蔚来",
       "status": "healthy",
       "registryStatus": "VERIFIED",
-      "fetchedJobCount": 447,
+      "fetchedJobCount": 446,
       "eligibleJobCount": 60,
       "baselineCount": 447,
       "anomalousDrop": false,
@@ -2727,7 +2727,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "6026a38606ab5c9ae0b79adf13f30da4e11ba57312c8dea8765e263e452bd542",
+      "contentHash": "9f64993e16a2480b042d170469e56ba327dbe3777c79fa9c9b4ac3316489aa9c",
       "statusCode": 200,
       "reason": null
     },
@@ -2927,7 +2927,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "455663e678e2b4028aa3908a06db4510bb932706231b7fe9715d82fd675bf9fc",
+      "contentHash": "2ecde5f87c4a9bee92fac60f4cfad31ad64c2f85fb5660279acae8f693009de3",
       "statusCode": 200,
       "reason": null
     },
@@ -3107,7 +3107,7 @@
       "unknownCohortRatio": 0.08695652173913043,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "641982f9884368b9365471e4c69bd4ebf63240afb45973f9cd75f34f1a532035",
+      "contentHash": "03e00c3fa8d436b82a78171486bb2d7dbefe8feb71b5aba3fac8cafcc2e443da",
       "statusCode": 200,
       "reason": null
     },
@@ -3127,7 +3127,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "36e7ee22149857711b58070fcfa53503e4f426e636131b1eba941e93ef99f60d",
+      "contentHash": "c8749cdb977ff13b5bef2979f395cc7f97e1a69a733eedf10bcac1bdab54c90d",
       "statusCode": 200,
       "reason": null
     },
@@ -3207,7 +3207,7 @@
       "unknownCohortRatio": 0.9090909090909091,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "9922b98964639bfe1d27e48eaa95de816ba4c215db74e246830f97dd28d94eb7",
+      "contentHash": "2f3b40eed62391cc103f2e58d4965f652067455553fda2db31a3834e527d3c74",
       "statusCode": 200,
       "reason": null
     },
@@ -3587,7 +3587,7 @@
       "unknownCohortRatio": 0.23333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "c7163a13638c7730484738a91e7a3f5fb4062b1682f404df5c7b027dcf429c70",
+      "contentHash": "14a32b8e25845c5e5288d2ac8ad8b699a47f772b1b82dc82bc862e161f145864",
       "statusCode": 200,
       "reason": null
     },
@@ -3707,7 +3707,7 @@
       "unknownCohortRatio": 0.2196969696969697,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "181ff4615f2b1628c2fd12a6bf9848bb666dd560fc177fca8a25c99713c245a7",
+      "contentHash": "d573bbae4d043a37bb4a690d9893271edddbf35ebd156d7cc8c36294fad8f43a",
       "statusCode": 200,
       "reason": null
     },
@@ -4237,7 +4237,7 @@
       "companyName": "小鹏汽车",
       "status": "healthy",
       "registryStatus": "VERIFIED",
-      "fetchedJobCount": 485,
+      "fetchedJobCount": 484,
       "eligibleJobCount": 153,
       "baselineCount": 485,
       "anomalousDrop": false,
@@ -4247,7 +4247,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "40a8ec0ad08b3ecd2b061c0dce2f11f6bd48cd93a58e3eaf82b2384496f6b332",
+      "contentHash": "a21d7fb8bd642900ed6d12882f3f3ad3bc495198d919c5603633959f2bb9076d",
       "statusCode": 200,
       "reason": null
     },

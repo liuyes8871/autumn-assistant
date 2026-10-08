@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T00:15:00.035241+00:00",
-  "catalogVersion": "2026.10.08.0013",
-  "jobCount": 1081,
+  "generatedAt": "2026-10-08T06:12:04.731149+00:00",
+  "catalogVersion": "2026.10.08.0610",
+  "jobCount": 1083,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -10,29 +10,29 @@
   "sources": [
     {
       "sourceId": "anker-campus",
-      "jobCount": 86,
+      "jobCount": 87,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 16,
-      "unknownBatchCount": 81,
+      "unknownBatchCount": 82,
       "samples": [
         {
-          "jobId": "anker:7678288562307336458",
-          "title": "Regional Sales Specialist - UK",
+          "jobId": "anker:7694108765382543652",
+          "title": "行政专员-长沙",
           "companyName": "安克创新",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7678288562307336458/detail",
+          "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7694108765382543652/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "anker:7678256668485404955",
-          "title": "Brand Communications Specialist - Argentina",
+          "jobId": "anker:7678288554191554857",
+          "title": "Brand Communications Specialist - Australia",
           "companyName": "安克创新",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7678256668485404955/detail",
+          "applyUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7678288554191554857/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -160,19 +160,19 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 453,
+      "jobCount": 454,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 447,
+      "unknownBatchCount": 448,
       "samples": [
         {
-          "jobId": "bytedance:7691185619025103157",
-          "title": "垂类Agent产品经理 - TikTok",
+          "jobId": "bytedance:7694136306792548613",
+          "title": "用户运营经理（校园方向） - 抖音UGC",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7691185619025103157/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7694136306792548613/detail",
           "domainValid": true,
           "httpStatus": 200
         },
