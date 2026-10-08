@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4576,
-    "targetGeneralist": 999,
-    "outOfScope": 3378,
-    "needsReview": 199
+    "normalized": 4632,
+    "targetGeneralist": 1013,
+    "outOfScope": 3410,
+    "needsReview": 209
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 517,
-    "ALLOWED_TARGET_MAJOR": 439,
+    "ALLOWED_GENERALIST_TITLE": 528,
+    "ALLOWED_TARGET_MAJOR": 442,
     "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
-    "BLOCKED_NON_TARGET_MAJOR": 184,
+    "BLOCKED_NON_TARGET_MAJOR": 189,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
-    "BLOCKED_TECHNICAL_ROLE": 3047,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 199
+    "BLOCKED_TECHNICAL_ROLE": 3074,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 209
   },
   "bySource": {
     "01ai-careers": {
@@ -148,9 +148,9 @@
       "reasonCounts": {}
     },
     "bambulab-campus": {
-      "normalized": 108,
+      "normalized": 111,
       "targetGeneralist": 29,
-      "outOfScope": 74,
+      "outOfScope": 77,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 10,
@@ -159,7 +159,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 9,
-        "BLOCKED_TECHNICAL_ROLE": 62,
+        "BLOCKED_TECHNICAL_ROLE": 65,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
       }
     },
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2333,
-      "targetGeneralist": 422,
+      "normalized": 2332,
+      "targetGeneralist": 421,
       "outOfScope": 1852,
       "needsReview": 59,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 254,
+        "ALLOWED_GENERALIST_TITLE": 253,
         "ALLOWED_TARGET_MAJOR": 160,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
-        "BLOCKED_NON_TARGET_MAJOR": 37,
+        "BLOCKED_NON_TARGET_MAJOR": 36,
         "BLOCKED_SPECIALIST_PORTFOLIO": 40,
-        "BLOCKED_TECHNICAL_ROLE": 1769,
+        "BLOCKED_TECHNICAL_ROLE": 1770,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 59
       }
     },
@@ -687,10 +687,10 @@
       "reasonCounts": {}
     },
     "jd-campus": {
-      "normalized": 124,
+      "normalized": 125,
       "targetGeneralist": 42,
       "outOfScope": 60,
-      "needsReview": 22,
+      "needsReview": 23,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 23,
         "ALLOWED_TARGET_MAJOR": 19,
@@ -698,7 +698,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 12,
         "BLOCKED_SPECIALIST_PORTFOLIO": 4,
         "BLOCKED_TECHNICAL_ROLE": 38,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 22
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 23
       }
     },
     "jj-world-campus": {
@@ -1042,18 +1042,18 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 446,
+      "normalized": 457,
       "targetGeneralist": 60,
-      "outOfScope": 317,
-      "needsReview": 69,
+      "outOfScope": 318,
+      "needsReview": 79,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
         "ALLOWED_TARGET_MAJOR": 21,
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
-        "BLOCKED_TECHNICAL_ROLE": 295,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 69
+        "BLOCKED_TECHNICAL_ROLE": 296,
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 79
       }
     },
     "nsfocus-campus": {
@@ -1395,10 +1395,10 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 105,
+      "normalized": 104,
       "targetGeneralist": 28,
       "outOfScope": 67,
-      "needsReview": 10,
+      "needsReview": 9,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 16,
         "ALLOWED_TARGET_MAJOR": 12,
@@ -1406,7 +1406,7 @@
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 3,
         "BLOCKED_TECHNICAL_ROLE": 61,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
       }
     },
     "tencent-music-campus": {
@@ -1621,18 +1621,18 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 484,
-      "targetGeneralist": 153,
-      "outOfScope": 331,
+      "normalized": 527,
+      "targetGeneralist": 168,
+      "outOfScope": 359,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 90,
-        "ALLOWED_TARGET_MAJOR": 59,
+        "ALLOWED_GENERALIST_TITLE": 102,
+        "ALLOWED_TARGET_MAJOR": 62,
         "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
-        "BLOCKED_NON_TARGET_MAJOR": 92,
+        "BLOCKED_NON_TARGET_MAJOR": 98,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 217
+        "BLOCKED_TECHNICAL_ROLE": 239
       }
     },
     "xueqiu-careers": {
@@ -3121,6 +3121,96 @@
       ]
     },
     {
+      "jobId": "nio:7694203152891463946",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-焦作",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694202703089551657",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-漯河",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201802598402342",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-连云港",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201802598107430",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-开封",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201802597779750",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-平顶山",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201796739451174",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-濮阳",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201796739156262",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-鹤壁",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694201796738861350",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-许昌",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694182887604439346",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-韶关",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
+      "jobId": "nio:7694182717021358345",
+      "sourceId": "nio-campus",
+      "companyName": "蔚来",
+      "title": "校招正式-乐道顾问（25/26可投）-清远",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "nio:7686040605752330534",
       "sourceId": "nio-campus",
       "companyName": "蔚来",
@@ -4075,6 +4165,15 @@
       ]
     },
     {
+      "jobId": "jd:9380",
+      "sourceId": "jd-campus",
+      "companyName": "京东",
+      "title": "保险服务",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "jd:9054",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4264,15 +4363,6 @@
       ]
     },
     {
-      "jobId": "tencent:2094852842950148096",
-      "sourceId": "tencent-campus",
-      "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "tencent:2094852838621626368",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4282,19 +4372,19 @@
       ]
     },
     {
-      "jobId": "tencent:2080327158533898240",
+      "jobId": "tencent:2094852842950148096",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Global Recruitment Intern 107847",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "tencent:2080327162589786112",
+      "jobId": "tencent:2080327158533898240",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Global Recruitment Intern 107849",
+      "title": "Global Recruitment Intern 107847",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4318,6 +4408,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-08T06:10:03.957010+00:00",
-  "catalogVersion": "2026.10.08.0610"
+  "generatedAt": "2026-10-08T17:24:59.059175+00:00",
+  "catalogVersion": "2026.10.08.1724"
 }
