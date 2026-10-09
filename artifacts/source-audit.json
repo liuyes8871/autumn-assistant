@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T00:25:52.292790+00:00",
-  "catalogVersion": "2026.10.09.0024",
-  "jobCount": 1099,
+  "generatedAt": "2026-10-09T11:57:23.057404+00:00",
+  "catalogVersion": "2026.10.09.1155",
+  "jobCount": 1102,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -530,11 +530,11 @@
     },
     {
       "sourceId": "tencent-campus",
-      "jobCount": 33,
+      "jobCount": 34,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 33,
-      "unknownBatchCount": 33,
+      "unknownCohortCount": 34,
+      "unknownBatchCount": 34,
       "samples": [
         {
           "jobId": "tencent:2087016233965895680",
@@ -547,22 +547,22 @@
           "httpStatus": 200
         },
         {
-          "jobId": "tencent:2102583778101866496",
-          "title": "Global Talent Sourcing Intern 108178",
+          "jobId": "tencent:2102583782212288512",
+          "title": "Global Talent Sourcing Intern 108177",
           "companyName": "腾讯",
           "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Global-Talent-Sourcing-Intern_R108178",
+          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Global-Talent-Sourcing-Intern_R108177",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "tencent:2090217297359843328",
-          "title": "Brand Marketing Intern 107926",
+          "jobId": "tencent:2066556381242245120",
+          "title": "Associate Account Representative, Intern 107662",
           "companyName": "腾讯",
           "cohort": "未知",
           "batch": "未知",
-          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Brand-Marketing-Intern_R107926-1",
+          "applyUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Account-Representative--Intern_R107662",
           "domainValid": true,
           "httpStatus": 200
         }
@@ -610,19 +610,19 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 181,
+      "jobCount": 183,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 180,
+      "unknownBatchCount": 182,
       "samples": [
         {
-          "jobId": "xpeng:7694269176613505290",
-          "title": "【27届校招】海外售后远程诊断培训生",
+          "jobId": "xpeng:7694472802544896319",
+          "title": "【27届校招】建设服务培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7694269176613505290/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7694472802544896319/detail",
           "domainValid": true,
           "httpStatus": 200
         },

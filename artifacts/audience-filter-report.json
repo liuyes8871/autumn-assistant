@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4632,
-    "targetGeneralist": 1013,
-    "outOfScope": 3410,
-    "needsReview": 209
+    "normalized": 4635,
+    "targetGeneralist": 1012,
+    "outOfScope": 3413,
+    "needsReview": 210
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 528,
-    "ALLOWED_TARGET_MAJOR": 442,
-    "ALLOWED_UNRESTRICTED_MAJOR": 43,
+    "ALLOWED_GENERALIST_TITLE": 527,
+    "ALLOWED_TARGET_MAJOR": 441,
+    "ALLOWED_UNRESTRICTED_MAJOR": 44,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
-    "BLOCKED_NON_TARGET_MAJOR": 189,
+    "BLOCKED_NON_TARGET_MAJOR": 185,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
-    "BLOCKED_TECHNICAL_ROLE": 3074,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 209
+    "BLOCKED_TECHNICAL_ROLE": 3081,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 210
   },
   "bySource": {
     "01ai-careers": {
@@ -148,13 +148,13 @@
       "reasonCounts": {}
     },
     "bambulab-campus": {
-      "normalized": 111,
-      "targetGeneralist": 29,
+      "normalized": 110,
+      "targetGeneralist": 28,
       "outOfScope": 77,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 10,
-        "ALLOWED_TARGET_MAJOR": 16,
+        "ALLOWED_TARGET_MAJOR": 15,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2332,
+      "normalized": 2340,
       "targetGeneralist": 421,
-      "outOfScope": 1852,
+      "outOfScope": 1860,
       "needsReview": 59,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 253,
         "ALLOWED_TARGET_MAJOR": 160,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
-        "BLOCKED_NON_TARGET_MAJOR": 36,
+        "BLOCKED_NON_TARGET_MAJOR": 34,
         "BLOCKED_SPECIALIST_PORTFOLIO": 40,
-        "BLOCKED_TECHNICAL_ROLE": 1770,
+        "BLOCKED_TECHNICAL_ROLE": 1780,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 59
       }
     },
@@ -369,15 +369,15 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 109,
+      "normalized": 107,
       "targetGeneralist": 20,
-      "outOfScope": 88,
+      "outOfScope": 86,
       "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 87,
+        "BLOCKED_TECHNICAL_ROLE": 85,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
@@ -1042,9 +1042,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 457,
+      "normalized": 456,
       "targetGeneralist": 60,
-      "outOfScope": 318,
+      "outOfScope": 317,
       "needsReview": 79,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -1052,7 +1052,7 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
-        "BLOCKED_TECHNICAL_ROLE": 296,
+        "BLOCKED_TECHNICAL_ROLE": 295,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 79
       }
     },
@@ -1395,18 +1395,18 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 104,
+      "normalized": 105,
       "targetGeneralist": 28,
       "outOfScope": 67,
-      "needsReview": 9,
+      "needsReview": 10,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 16,
-        "ALLOWED_TARGET_MAJOR": 12,
+        "ALLOWED_GENERALIST_TITLE": 15,
+        "ALLOWED_TARGET_MAJOR": 13,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 3,
         "BLOCKED_TECHNICAL_ROLE": 61,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 9
+        "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
     "tencent-music-campus": {
@@ -1424,13 +1424,12 @@
       "reasonCounts": {}
     },
     "thundersoft-campus": {
-      "normalized": 132,
-      "targetGeneralist": 11,
+      "normalized": 131,
+      "targetGeneralist": 10,
       "outOfScope": 120,
       "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 8,
-        "ALLOWED_TARGET_MAJOR": 1,
         "ALLOWED_UNRESTRICTED_MAJOR": 2,
         "BLOCKED_NON_TARGET_MAJOR": 1,
         "BLOCKED_SPECIALIST_PORTFOLIO": 3,
@@ -1621,16 +1620,16 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 527,
-      "targetGeneralist": 168,
-      "outOfScope": 359,
+      "normalized": 526,
+      "targetGeneralist": 169,
+      "outOfScope": 357,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 102,
         "ALLOWED_TARGET_MAJOR": 62,
-        "ALLOWED_UNRESTRICTED_MAJOR": 4,
+        "ALLOWED_UNRESTRICTED_MAJOR": 5,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
-        "BLOCKED_NON_TARGET_MAJOR": 98,
+        "BLOCKED_NON_TARGET_MAJOR": 96,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
         "BLOCKED_TECHNICAL_ROLE": 239
       }
@@ -3007,7 +3006,7 @@
       "jobId": "bytedance:7667419801941592373",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "业务分析 - 抖音电商",
+      "title": "风险策略 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4345,6 +4344,15 @@
       ]
     },
     {
+      "jobId": "tencent:2108502775083216896",
+      "sourceId": "tencent-campus",
+      "companyName": "腾讯",
+      "title": "Coding Agent Research Intern 108212",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "tencent:2104878897891033088",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4408,6 +4416,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-09T00:24:03.356235+00:00",
-  "catalogVersion": "2026.10.09.0024"
+  "generatedAt": "2026-10-09T11:55:20.539221+00:00",
+  "catalogVersion": "2026.10.09.1155"
 }

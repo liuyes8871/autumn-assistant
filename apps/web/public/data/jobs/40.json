@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.10.09.0024",
+  "catalogVersion": "2026.10.09.1155",
   "jobs": [
     {
       "sourceId": "thundersoft-campus",
@@ -54,7 +54,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7685265847120218394",
       "firstSeenAt": "2026-09-28T18:10:43.513575Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "8c1ea88f23530567898d7087a2ef5c5b8cbd0cae0b752736bae0804f6493774f",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -117,7 +117,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7684097483668965638",
       "firstSeenAt": "2026-09-13T10:31:01.906196Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "9219721b37853868fd4992eb8585731168e15b261541221ebf4bc23b54bf253a",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -189,7 +189,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681886755960703268",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "0ef8103ce75f1f135db206c4cf519949f25b7e2f3581e291988bc7a0635a9120",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -252,7 +252,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681883133865150739",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "8c1ea88f23530567898d7087a2ef5c5b8cbd0cae0b752736bae0804f6493774f",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -315,7 +315,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681875773506521382",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "5c2266a6b2c620df1cdd66a1a0ec2bafe03f9aa5258e3f05366afa9f013af144",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -387,7 +387,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681874864173992242",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "34aa07e970ac11e5d4a8038157f4feecc1ec0a63a01c998580996593a6d62b66",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -459,7 +459,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7681871205174954278",
       "firstSeenAt": "2026-09-08T05:20:49.968601Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "a83e72f3e93c9b6022f01483f650757884e2b5c6d0b3034f3d587ce4f38b1997",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -522,7 +522,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7618881787998144774",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "9ded98f3185b3e57b4e4d4a9f7df7dea6697dd63839b03e78e63cf98ba482aba",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -594,7 +594,7 @@
       "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
       "id": "thundersoft:7545746085987715366",
       "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
       "contentHash": "048288ea3ad7fed22eec988d29650675412712a133002d3f774fe12f78e84ba0",
       "status": "ACTIVE",
       "detailShard": "40",
@@ -603,6 +603,69 @@
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
         "ALLOWED_GENERALIST_TITLE"
+      ]
+    },
+    {
+      "sourceId": "thundersoft-campus",
+      "sourceJobId": "7524895522356840754",
+      "companyId": "thundersoft",
+      "companyName": "中科创达",
+      "title": "意大利语管培生",
+      "city": "北京",
+      "locations": [
+        {
+          "scope": "MAINLAND_CHINA",
+          "countryCode": "CN",
+          "provinceCode": "BJ",
+          "cityCode": "BJ-北京",
+          "districtCode": null,
+          "displayName": "北京",
+          "raw": "北京"
+        }
+      ],
+      "roleCategory": "其他",
+      "companyIndustry": "智能制造、汽车与硬件",
+      "companyType": "民企",
+      "companyScale": "10000+",
+      "cohort": "未知",
+      "batch": "管培生/专项计划",
+      "education": "未知",
+      "majorTags": [],
+      "skills": [],
+      "description": "作为管培生，您将参与公司的项目管理和业务对接工作，接受全面的培训和实践机会，以培养您成为公司未来的管理骨干。您将有机会深入了解公司的业务流程、项目管理方法和国际市场动态，为公司全球的业务拓展做出贡献。",
+      "requirements": [
+        "1，专业不限，但项目管理、商务、语言类相关专业优先。 2，意大利语流利，能够作为工作语言进行沟通。 3，良好的意大利语语沟通能力，能够进行基本的商务交流。 4，具备良好的组织、协调和沟通能力。 5，能够适应频繁出差和灵活的工作时间。 6，具有较强的学习能力和适应能力，愿意接受挑战。 7，具有团队合作精神，能够在多元文化环境中工作。"
+      ],
+      "publishDate": "2025-07-09",
+      "publishDateSource": "OFFICIAL",
+      "deadline": null,
+      "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7524895522356840754/detail",
+      "sourceUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7524895522356840754/detail",
+      "sourceName": "中科创达官方校招来源",
+      "sourceLevel": "A",
+      "sourceEvidence": [
+        "https://thundersoft.jobs.feishu.cn/campus/",
+        "https://www.thundersoft.com/xiaozhao/",
+        "https://www.thundersoft.com/company-overview/",
+        "https://thundersoft.jobs.feishu.cn/campus/"
+      ],
+      "isCampus": true,
+      "campaignId": "thundersoft:未知:管培生/专项计划",
+      "campaignName": "正式",
+      "campaignOpenDate": null,
+      "campaignDeadline": null,
+      "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
+      "id": "thundersoft:7524895522356840754",
+      "firstSeenAt": "2026-09-04T10:35:17.101869Z",
+      "lastVerifiedAt": "2026-10-09T11:55:20.539221Z",
+      "contentHash": "5c8d3831d2d2802a9250632061123e463ac4ecc781485babb84d530cc16d0c97",
+      "status": "ACTIVE",
+      "detailShard": "40",
+      "firstMissingSuccesses": 0,
+      "changedAt": null,
+      "audienceDecision": "TARGET_GENERALIST",
+      "audienceReasonCodes": [
+        "ALLOWED_UNRESTRICTED_MAJOR"
       ]
     },
     {
@@ -661,74 +724,11 @@
       "contentHash": "75272ee76d6817fd05dc30669b7ab88b1dc62528f9ba15551001a74b38a8f459",
       "status": "ACTIVE",
       "detailShard": "40",
-      "firstMissingSuccesses": 0,
+      "firstMissingSuccesses": 1,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
         "ALLOWED_TARGET_MAJOR"
-      ]
-    },
-    {
-      "sourceId": "thundersoft-campus",
-      "sourceJobId": "7524895522356840754",
-      "companyId": "thundersoft",
-      "companyName": "中科创达",
-      "title": "意大利语管培生",
-      "city": "北京",
-      "locations": [
-        {
-          "scope": "MAINLAND_CHINA",
-          "countryCode": "CN",
-          "provinceCode": "BJ",
-          "cityCode": "BJ-北京",
-          "districtCode": null,
-          "displayName": "北京",
-          "raw": "北京"
-        }
-      ],
-      "roleCategory": "其他",
-      "companyIndustry": "智能制造、汽车与硬件",
-      "companyType": "民企",
-      "companyScale": "10000+",
-      "cohort": "未知",
-      "batch": "管培生/专项计划",
-      "education": "未知",
-      "majorTags": [],
-      "skills": [],
-      "description": "作为管培生，您将参与公司的项目管理和业务对接工作，接受全面的培训和实践机会，以培养您成为公司未来的管理骨干。您将有机会深入了解公司的业务流程、项目管理方法和国际市场动态，为公司全球的业务拓展做出贡献。",
-      "requirements": [
-        "1，专业不限，但项目管理、商务、语言类相关专业优先。 2，意大利语流利，能够作为工作语言进行沟通。 3，良好的意大利语语沟通能力，能够进行基本的商务交流。 4，具备良好的组织、协调和沟通能力。 5，能够适应频繁出差和灵活的工作时间。 6，具有较强的学习能力和适应能力，愿意接受挑战。 7，具有团队合作精神，能够在多元文化环境中工作。"
-      ],
-      "publishDate": "2025-07-09",
-      "publishDateSource": "OFFICIAL",
-      "deadline": null,
-      "applyUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7524895522356840754/detail",
-      "sourceUrl": "https://thundersoft.jobs.feishu.cn/campus/position/7524895522356840754/detail",
-      "sourceName": "中科创达官方校招来源",
-      "sourceLevel": "A",
-      "sourceEvidence": [
-        "https://thundersoft.jobs.feishu.cn/campus/",
-        "https://www.thundersoft.com/xiaozhao/",
-        "https://www.thundersoft.com/company-overview/",
-        "https://thundersoft.jobs.feishu.cn/campus/"
-      ],
-      "isCampus": true,
-      "campaignId": "thundersoft:未知:管培生/专项计划",
-      "campaignName": "正式",
-      "campaignOpenDate": null,
-      "campaignDeadline": null,
-      "campaignOfficialUrl": "https://thundersoft.jobs.feishu.cn/campus/",
-      "id": "thundersoft:7524895522356840754",
-      "firstSeenAt": "2026-09-04T10:35:17.101869Z",
-      "lastVerifiedAt": "2026-10-09T00:24:03.356235Z",
-      "contentHash": "5c8d3831d2d2802a9250632061123e463ac4ecc781485babb84d530cc16d0c97",
-      "status": "ACTIVE",
-      "detailShard": "40",
-      "firstMissingSuccesses": 0,
-      "changedAt": null,
-      "audienceDecision": "TARGET_GENERALIST",
-      "audienceReasonCodes": [
-        "ALLOWED_UNRESTRICTED_MAJOR"
       ]
     },
     {
@@ -787,7 +787,7 @@
       "contentHash": "9ea9ffbb3feaa4c057876996b98bf3c26d34697cbc8e4f148e06f2f259b89413",
       "status": "CLOSED",
       "detailShard": "40",
-      "firstMissingSuccesses": 73,
+      "firstMissingSuccesses": 74,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
@@ -850,7 +850,7 @@
       "contentHash": "d6a152f05b71e622e5010b497503ca71aaf9ea693b62488bb655052749e9669b",
       "status": "CLOSED",
       "detailShard": "40",
-      "firstMissingSuccesses": 73,
+      "firstMissingSuccesses": 74,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
@@ -913,7 +913,7 @@
       "contentHash": "5a9fc10f7766fd080a4523400ccd3312fb8ebeeceb9a31bd516e11d2b13f71c6",
       "status": "CLOSED",
       "detailShard": "40",
-      "firstMissingSuccesses": 77,
+      "firstMissingSuccesses": 78,
       "changedAt": null,
       "audienceDecision": "TARGET_GENERALIST",
       "audienceReasonCodes": [
