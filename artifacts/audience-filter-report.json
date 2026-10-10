@@ -3,20 +3,20 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4627,
-    "targetGeneralist": 1011,
-    "outOfScope": 3413,
-    "needsReview": 203
+    "normalized": 4605,
+    "targetGeneralist": 1000,
+    "outOfScope": 3405,
+    "needsReview": 200
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 527,
-    "ALLOWED_TARGET_MAJOR": 440,
-    "ALLOWED_UNRESTRICTED_MAJOR": 44,
+    "ALLOWED_GENERALIST_TITLE": 526,
+    "ALLOWED_TARGET_MAJOR": 431,
+    "ALLOWED_UNRESTRICTED_MAJOR": 43,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 185,
     "BLOCKED_SPECIALIST_PORTFOLIO": 123,
-    "BLOCKED_TECHNICAL_ROLE": 3081,
-    "REVIEW_INSUFFICIENT_REQUIREMENTS": 203
+    "BLOCKED_TECHNICAL_ROLE": 3073,
+    "REVIEW_INSUFFICIENT_REQUIREMENTS": 200
   },
   "bySource": {
     "01ai-careers": {
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2340,
-      "targetGeneralist": 421,
-      "outOfScope": 1860,
+      "normalized": 2342,
+      "targetGeneralist": 422,
+      "outOfScope": 1861,
       "needsReview": 59,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 253,
+        "ALLOWED_GENERALIST_TITLE": 254,
         "ALLOWED_TARGET_MAJOR": 160,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 34,
         "BLOCKED_SPECIALIST_PORTFOLIO": 40,
-        "BLOCKED_TECHNICAL_ROLE": 1780,
+        "BLOCKED_TECHNICAL_ROLE": 1781,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 59
       }
     },
@@ -1042,9 +1042,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 449,
+      "normalized": 448,
       "targetGeneralist": 60,
-      "outOfScope": 317,
+      "outOfScope": 316,
       "needsReview": 72,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -1052,7 +1052,7 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 9,
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 7,
-        "BLOCKED_TECHNICAL_ROLE": 295,
+        "BLOCKED_TECHNICAL_ROLE": 294,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 72
       }
     },
@@ -1198,16 +1198,11 @@
       }
     },
     "robinhood-early-career": {
-      "normalized": 21,
-      "targetGeneralist": 11,
-      "outOfScope": 7,
-      "needsReview": 3,
-      "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 2,
-        "ALLOWED_TARGET_MAJOR": 9,
-        "BLOCKED_TECHNICAL_ROLE": 7,
-        "REVIEW_INSUFFICIENT_REQUIREMENTS": 3
-      }
+      "normalized": 0,
+      "targetGeneralist": 0,
+      "outOfScope": 0,
+      "needsReview": 0,
+      "reasonCounts": {}
     },
     "sandbox-careers": {
       "normalized": 0,
@@ -1620,18 +1615,18 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 526,
-      "targetGeneralist": 169,
-      "outOfScope": 357,
+      "normalized": 524,
+      "targetGeneralist": 168,
+      "outOfScope": 356,
       "needsReview": 0,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 102,
         "ALLOWED_TARGET_MAJOR": 62,
-        "ALLOWED_UNRESTRICTED_MAJOR": 5,
+        "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
         "BLOCKED_NON_TARGET_MAJOR": 96,
         "BLOCKED_SPECIALIST_PORTFOLIO": 20,
-        "BLOCKED_TECHNICAL_ROLE": 239
+        "BLOCKED_TECHNICAL_ROLE": 238
       }
     },
     "xueqiu-careers": {
@@ -4029,33 +4024,6 @@
       ]
     },
     {
-      "jobId": "robinhood:8197614",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "People Partner Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198255",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
-      "jobId": "robinhood:8198097",
-      "sourceId": "robinhood-early-career",
-      "companyName": "Robinhood",
-      "title": "Vendor Management Intern (Summer 2027)",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "jd:9260",
       "sourceId": "jd-campus",
       "companyName": "京东",
@@ -4353,6 +4321,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-10T00:03:23.679688+00:00",
-  "catalogVersion": "2026.10.10.0003"
+  "generatedAt": "2026-10-10T05:55:17.023500+00:00",
+  "catalogVersion": "2026.10.10.0555"
 }

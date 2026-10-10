@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T00:05:16.675869+00:00",
-  "catalogVersion": "2026.10.10.0003",
-  "jobCount": 1102,
+  "generatedAt": "2026-10-10T05:57:34.753775+00:00",
+  "catalogVersion": "2026.10.10.0555",
+  "jobCount": 1104,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -160,19 +160,19 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 455,
+      "jobCount": 456,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 449,
+      "unknownBatchCount": 450,
       "samples": [
         {
-          "jobId": "bytedance:7694216805270800693",
-          "title": "美国物流解决方案运营 - TikTok Shop",
+          "jobId": "bytedance:7694861390842382645",
+          "title": "交易产品经理 - 财经业务",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7694216805270800693/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7694861390842382645/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -610,19 +610,19 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 183,
+      "jobCount": 184,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 182,
+      "unknownBatchCount": 183,
       "samples": [
         {
-          "jobId": "xpeng:7694472802544896319",
-          "title": "【27届校招】建设服务培训生",
+          "jobId": "xpeng:7694866208344017194",
+          "title": "【27届校招】质量运营培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7694472802544896319/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7694866208344017194/detail",
           "domainValid": true,
           "httpStatus": 200
         },
