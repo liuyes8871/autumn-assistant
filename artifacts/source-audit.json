@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T05:57:34.753775+00:00",
-  "catalogVersion": "2026.10.10.0555",
-  "jobCount": 1104,
+  "generatedAt": "2026-10-10T15:54:56.287177+00:00",
+  "catalogVersion": "2026.10.10.1552",
+  "jobCount": 1108,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -160,29 +160,29 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 456,
+      "jobCount": 457,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 450,
+      "unknownBatchCount": 451,
       "samples": [
         {
-          "jobId": "bytedance:7694861390842382645",
-          "title": "交易产品经理 - 财经业务",
+          "jobId": "bytedance:7694918252576835845",
+          "title": "营销激励产品经理（广告策略方向） - 抖音生活服务",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7694861390842382645/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7694918252576835845/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "bytedance:7668583584987252997",
+          "jobId": "bytedance:7668569718668757253",
           "title": "用户产品经理 - 抖音生活服务",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7668583584987252997/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7668569718668757253/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -380,19 +380,19 @@
     },
     {
       "sourceId": "nio-campus",
-      "jobCount": 75,
+      "jobCount": 76,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 74,
+      "unknownBatchCount": 75,
       "samples": [
         {
-          "jobId": "nio:7687447327914068287",
-          "title": "校招-体系与指标运营 - 合作伙伴管理",
+          "jobId": "nio:7694207937543997723",
+          "title": "校招-产品采购-大宗原材料",
           "companyName": "蔚来",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7687447327914068287/detail",
+          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7694207937543997723/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -610,11 +610,11 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 184,
+      "jobCount": 186,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 183,
+      "unknownBatchCount": 185,
       "samples": [
         {
           "jobId": "xpeng:7694866208344017194",
@@ -627,12 +627,12 @@
           "httpStatus": 200
         },
         {
-          "jobId": "xpeng:7672337624824449318",
-          "title": "【27届校招】域控制器项目管理培训生",
+          "jobId": "xpeng:7672220215727458623",
+          "title": "【27届校招】行政培训生（员工活动运营）",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672337624824449318/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672220215727458623/detail",
           "domainValid": true,
           "httpStatus": 200
         },
