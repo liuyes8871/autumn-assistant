@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T15:54:56.391909+00:00",
-  "catalogVersion": "2026.10.10.1552",
+  "generatedAt": "2026-10-10T23:36:34.426033+00:00",
+  "catalogVersion": "2026.10.10.2334",
   "summary": {
     "sourceCount": 235,
     "healthy": 20,
-    "notModified": 0,
+    "notModified": 1,
     "anomalousDrop": 0,
     "stale": 0,
     "quarantined": 0
@@ -159,7 +159,7 @@
       "registryStatus": "VERIFIED",
       "fetchedJobCount": 242,
       "eligibleJobCount": 83,
-      "baselineCount": 240,
+      "baselineCount": 242,
       "anomalousDrop": false,
       "duplicateRatio": 0.0,
       "fieldCompleteness": 1.0,
@@ -167,7 +167,7 @@
       "unknownCohortRatio": 0.09917355371900827,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "fc0e3d189ccd946a9dd92856f0a34c43f9f5cc6de12c19b5ad5066bce32af12d",
+      "contentHash": "deb815e59dc291168e11eb6acf087e23f2812730b00ca92049e54eb029b70c56",
       "statusCode": 200,
       "reason": null
     },
@@ -227,7 +227,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "f64c86acd995dd5cde3e2f98d2187168f73e71d43d86e162bd64cd0a719646af",
+      "contentHash": "e8d9aaa3f425da97f17bf51203d6e7e79dd14649dfc630cfb836a010eda772fb",
       "statusCode": 200,
       "reason": null
     },
@@ -327,7 +327,7 @@
       "unknownCohortRatio": 0.8727272727272727,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "88b06f77365d95ea1750191230c6a9de2371ad6c7d4f99fc456c5254280cd2ba",
+      "contentHash": "cf4062e55ec541cae98a9ea1a17cfaeb8d90874240668793f4f7e7a5dca9100e",
       "statusCode": 200,
       "reason": null
     },
@@ -579,7 +579,7 @@
       "registryStatus": "VERIFIED",
       "fetchedJobCount": 2349,
       "eligibleJobCount": 423,
-      "baselineCount": 2342,
+      "baselineCount": 2349,
       "anomalousDrop": false,
       "duplicateRatio": 0.0,
       "fieldCompleteness": 1.0,
@@ -587,7 +587,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "92a89e58f5e0c9696b4ddae6795375ff7df4ba9a2d3d15a5b9b2d1a984b24450",
+      "contentHash": "db5a2c7c14f86baba61316eaa1cde3a03324e4b8211abbc0f770f011499e2812",
       "statusCode": 200,
       "reason": null
     },
@@ -907,7 +907,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "e6052c756839e012d38c192a35f09499d022fbd470075e2ba7d2a19e7ad685e0",
+      "contentHash": "7f2a3c1cf6445f616dd2928a3687ecbec79e4d452b5448628c31630e12389b97",
       "statusCode": 200,
       "reason": null
     },
@@ -1167,7 +1167,7 @@
       "unknownCohortRatio": 1.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "c9aaa1dfe97a5225b1ab98e7af4008e001d7aae992165a0e36459c0daeb363b3",
+      "contentHash": "e94aaec571008ea0425dd63533d88f924b0b8f8acdfa5a422f53686ef72d4bd5",
       "statusCode": 200,
       "reason": null
     },
@@ -1727,7 +1727,7 @@
       "unknownCohortRatio": 0.013333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "a078e6178710e86503c336721fbf8a8b7e133dccc49f97e56cef4355237243c8",
+      "contentHash": "95098e9ea776fbc79a4cc4ba78f891b79cd59cee7d7bb3cb79d7e7bdcb4721fe",
       "statusCode": 200,
       "reason": null
     },
@@ -1759,7 +1759,7 @@
       "registryStatus": "VERIFIED",
       "fetchedJobCount": 124,
       "eligibleJobCount": 42,
-      "baselineCount": 125,
+      "baselineCount": 124,
       "anomalousDrop": false,
       "duplicateRatio": 0.0,
       "fieldCompleteness": 1.0,
@@ -2127,7 +2127,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "d2ca5dfab48fdcc3d88b70c921160e80e460aa48d42977b1d30f0e33fab87b09",
+      "contentHash": "297d87dc3b1e9c5ab579fa5280d8de31cf2cb6804fa58fe0b2bdcaa6403d60d7",
       "statusCode": 200,
       "reason": null
     },
@@ -2327,7 +2327,7 @@
       "unknownCohortRatio": 0.8,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "7da08389580e1d9d05bb94eb99e0e3db53193a07304bc98146feb29777e706d2",
+      "contentHash": "e3e09893ba90c8564639077d5153e650132f7ee573743108fac8e36c0dcd83ba",
       "statusCode": 200,
       "reason": null
     },
@@ -2727,7 +2727,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "613641b0809eb055b53cc4febfc6a665739baace6e5e281922334f8fcab1fe2a",
+      "contentHash": "e3b8c8e18e0e84a9f1b8be5b56274644fbf0ceb7e1aee7513deac953692ecf11",
       "statusCode": 200,
       "reason": null
     },
@@ -2927,7 +2927,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "e0a85e633a71ac4567c869b95244dfa01ba86169d13c4b335ef2b279626ec8f8",
+      "contentHash": "44f28a325932c28db7872aae75b4178b1d716b3f268b6d6c5bd4ad44e807003d",
       "statusCode": 200,
       "reason": null
     },
@@ -3107,7 +3107,7 @@
       "unknownCohortRatio": 0.08695652173913043,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "cd2d52c5bcbc99a4ea250623b365d801e944e658de77c18e8d5bca6a1126ee83",
+      "contentHash": "8d214eae60c389dc57b7c65d5ce261de63f01d5112815b017782f11f208d59c8",
       "statusCode": 200,
       "reason": null
     },
@@ -3115,20 +3115,20 @@
       "sourceId": "robinhood-early-career",
       "companyId": "robinhood",
       "companyName": "Robinhood",
-      "status": "healthy",
+      "status": "not_modified",
       "registryStatus": "VERIFIED",
-      "fetchedJobCount": 21,
+      "fetchedJobCount": 11,
       "eligibleJobCount": 11,
       "baselineCount": 21,
       "anomalousDrop": false,
-      "duplicateRatio": 0.8846153846153846,
+      "duplicateRatio": 0.0,
       "fieldCompleteness": 1.0,
       "detailSuccessRate": null,
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
-      "notModified": false,
+      "notModified": true,
       "contentHash": "9310a2a682c5b19e14fd0965319197a69e7b30203d2ee4e5ac5ef8e653deec6d",
-      "statusCode": 200,
+      "statusCode": 304,
       "reason": null
     },
     {
@@ -3207,7 +3207,7 @@
       "unknownCohortRatio": 0.9090909090909091,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "0f2a9a0bee3d1fb7a7cbfcb956b0584cf2fd2520ab64235bbe32fae63e7a218d",
+      "contentHash": "677e807028b0c4143903bd1cd7fc5362e1dba907eb0ec875ba631942381a64da",
       "statusCode": 200,
       "reason": null
     },
@@ -3587,7 +3587,7 @@
       "unknownCohortRatio": 0.23333333333333334,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "9454c87ab0e2b65603a10af6e064227d61d50113e7f158858ee7900f3db9c741",
+      "contentHash": "48ebcb2b9810f1d95c95dd8c34f9f4fa46c04e62cb2ecfce6a668dae910b0713",
       "statusCode": 200,
       "reason": null
     },
@@ -3707,7 +3707,7 @@
       "unknownCohortRatio": 0.21374045801526717,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "210667fa6576cbcf7a35a017fad6de087b76e18800fb73dae920dd032e6277aa",
+      "contentHash": "9f57706b2ad0ae8f2f136bfc384e14241f6aaecbd005ec4230613c82690a5c43",
       "statusCode": 200,
       "reason": null
     },
@@ -4247,7 +4247,7 @@
       "unknownCohortRatio": 0.0,
       "freshnessDays": 0.0,
       "notModified": false,
-      "contentHash": "b796d5a51424c19a613826f93b848819750ec8662f3d5625d2248455e22c9e07",
+      "contentHash": "f65e50f3625e6b382d11e2730ceb17cfe7bd7c17adb39149f9441dd74ad08668",
       "statusCode": 200,
       "reason": null
     },
