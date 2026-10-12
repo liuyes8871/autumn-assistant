@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T06:03:39.479430+00:00",
-  "catalogVersion": "2026.10.12.0601",
-  "jobCount": 1111,
+  "generatedAt": "2026-10-12T19:50:46.230448+00:00",
+  "catalogVersion": "2026.10.12.1948",
+  "jobCount": 1116,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -13,7 +13,7 @@
       "jobCount": 87,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 16,
+      "unknownCohortCount": 18,
       "unknownBatchCount": 82,
       "samples": [
         {
@@ -160,11 +160,11 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 458,
+      "jobCount": 459,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 452,
+      "unknownBatchCount": 453,
       "samples": [
         {
           "jobId": "bytedance:7695605430324201781",
@@ -177,12 +177,12 @@
           "httpStatus": 200
         },
         {
-          "jobId": "bytedance:7668569718668757253",
-          "title": "用户产品经理 - 抖音生活服务",
+          "jobId": "bytedance:7668518017689995573",
+          "title": "用户体验运营 - 抖音生活服务",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7668569718668757253/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7668518017689995573/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -243,7 +243,7 @@
       "jobCount": 82,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 3,
+      "unknownCohortCount": 1,
       "unknownBatchCount": 42,
       "samples": [
         {
@@ -380,29 +380,29 @@
     },
     {
       "sourceId": "nio-campus",
-      "jobCount": 76,
+      "jobCount": 78,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 75,
+      "unknownBatchCount": 77,
       "samples": [
         {
-          "jobId": "nio:7694207937543997723",
-          "title": "校招-产品采购-大宗原材料",
+          "jobId": "nio:7695720318284318985",
+          "title": "校招-供应链战略运营",
           "companyName": "蔚来",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7694207937543997723/detail",
+          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7695720318284318985/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "nio:7673027221095942451",
-          "title": "校招-技术营销策略",
+          "jobId": "nio:7673027376418687278",
+          "title": "校招-数据产品经理",
           "companyName": "蔚来",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7673027221095942451/detail",
+          "applyUrl": "https://nio.jobs.feishu.cn/campus/position/7673027376418687278/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -610,11 +610,11 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 187,
+      "jobCount": 189,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 186,
+      "unknownBatchCount": 188,
       "samples": [
         {
           "jobId": "xpeng:7695624933589862699",
@@ -627,12 +627,12 @@
           "httpStatus": 200
         },
         {
-          "jobId": "xpeng:7672590339177842953",
-          "title": "【27届校招】备件运输培训生",
+          "jobId": "xpeng:7672616684646320438",
+          "title": "【27届校招】海外售后保修培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672590339177842953/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672616684646320438/detail",
           "domainValid": true,
           "httpStatus": 200
         },
