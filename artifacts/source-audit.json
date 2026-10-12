@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T23:42:41.258787+00:00",
-  "catalogVersion": "2026.10.11.2340",
-  "jobCount": 1108,
+  "generatedAt": "2026-10-12T06:03:39.479430+00:00",
+  "catalogVersion": "2026.10.12.0601",
+  "jobCount": 1111,
   "sourceCount": 17,
   "invalidApplyDomainCount": 0,
   "invalidApplyDomains": [],
@@ -160,19 +160,19 @@
     },
     {
       "sourceId": "bytedance-campus",
-      "jobCount": 457,
+      "jobCount": 458,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 451,
+      "unknownBatchCount": 452,
       "samples": [
         {
-          "jobId": "bytedance:7694918252576835845",
-          "title": "营销激励产品经理（广告策略方向） - 抖音生活服务",
+          "jobId": "bytedance:7695605430324201781",
+          "title": "短剧内容运营 - 红果短剧",
           "companyName": "字节跳动",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://jobs.bytedance.com/campus/position/7694918252576835845/detail",
+          "applyUrl": "https://jobs.bytedance.com/campus/position/7695605430324201781/detail",
           "domainValid": true,
           "httpStatus": 200
         },
@@ -530,11 +530,11 @@
     },
     {
       "sourceId": "tencent-campus",
-      "jobCount": 34,
+      "jobCount": 35,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
-      "unknownCohortCount": 34,
-      "unknownBatchCount": 34,
+      "unknownCohortCount": 35,
+      "unknownBatchCount": 35,
       "samples": [
         {
           "jobId": "tencent:2087016233965895680",
@@ -610,29 +610,29 @@
     },
     {
       "sourceId": "xpeng-campus",
-      "jobCount": 186,
+      "jobCount": 187,
       "sampleCount": 3,
       "meetsThreeSampleTarget": true,
       "unknownCohortCount": 0,
-      "unknownBatchCount": 185,
+      "unknownBatchCount": 186,
       "samples": [
         {
-          "jobId": "xpeng:7694866208344017194",
-          "title": "【27届校招】质量运营培训生",
+          "jobId": "xpeng:7695624933589862699",
+          "title": "【27届校招】海外产品规划培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7694866208344017194/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7695624933589862699/detail",
           "domainValid": true,
           "httpStatus": 200
         },
         {
-          "jobId": "xpeng:7672220215727458623",
-          "title": "【27届校招】行政培训生（员工活动运营）",
+          "jobId": "xpeng:7672590339177842953",
+          "title": "【27届校招】备件运输培训生",
           "companyName": "小鹏汽车",
           "cohort": "2027",
           "batch": "未知",
-          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672220215727458623/detail",
+          "applyUrl": "https://xiaopeng.jobs.feishu.cn/campus/position/7672590339177842953/detail",
           "domainValid": true,
           "httpStatus": 200
         },

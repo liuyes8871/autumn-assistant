@@ -3,13 +3,13 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4636,
-    "targetGeneralist": 1013,
+    "normalized": 4639,
+    "targetGeneralist": 1016,
     "outOfScope": 3420,
     "needsReview": 203
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 531,
+    "ALLOWED_GENERALIST_TITLE": 534,
     "ALLOWED_TARGET_MAJOR": 440,
     "ALLOWED_UNRESTRICTED_MAJOR": 42,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 23,
@@ -248,18 +248,18 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2349,
-      "targetGeneralist": 423,
-      "outOfScope": 1867,
+      "normalized": 2351,
+      "targetGeneralist": 424,
+      "outOfScope": 1868,
       "needsReview": 59,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 255,
+        "ALLOWED_GENERALIST_TITLE": 256,
         "ALLOWED_TARGET_MAJOR": 160,
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 6,
         "BLOCKED_NON_TARGET_MAJOR": 35,
         "BLOCKED_SPECIALIST_PORTFOLIO": 40,
-        "BLOCKED_TECHNICAL_ROLE": 1786,
+        "BLOCKED_TECHNICAL_ROLE": 1787,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 59
       }
     },
@@ -369,15 +369,15 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 107,
+      "normalized": 108,
       "targetGeneralist": 20,
-      "outOfScope": 86,
+      "outOfScope": 87,
       "needsReview": 1,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 18,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 85,
+        "BLOCKED_TECHNICAL_ROLE": 86,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 1
       }
     },
@@ -1042,9 +1042,9 @@
       "reasonCounts": {}
     },
     "nio-campus": {
-      "normalized": 449,
+      "normalized": 446,
       "targetGeneralist": 60,
-      "outOfScope": 317,
+      "outOfScope": 314,
       "needsReview": 72,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 30,
@@ -1052,7 +1052,7 @@
         "ALLOWED_UNRESTRICTED_MAJOR": 8,
         "BLOCKED_NON_TARGET_MAJOR": 15,
         "BLOCKED_SPECIALIST_PORTFOLIO": 10,
-        "BLOCKED_TECHNICAL_ROLE": 292,
+        "BLOCKED_TECHNICAL_ROLE": 289,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 72
       }
     },
@@ -1395,17 +1395,17 @@
       "reasonCounts": {}
     },
     "tencent-campus": {
-      "normalized": 104,
-      "targetGeneralist": 27,
-      "outOfScope": 67,
+      "normalized": 106,
+      "targetGeneralist": 28,
+      "outOfScope": 68,
       "needsReview": 10,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 15,
+        "ALLOWED_GENERALIST_TITLE": 16,
         "ALLOWED_TARGET_MAJOR": 12,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 3,
-        "BLOCKED_TECHNICAL_ROLE": 61,
+        "BLOCKED_TECHNICAL_ROLE": 62,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 10
       }
     },
@@ -1620,12 +1620,12 @@
       "reasonCounts": {}
     },
     "xpeng-campus": {
-      "normalized": 525,
-      "targetGeneralist": 170,
+      "normalized": 526,
+      "targetGeneralist": 171,
       "outOfScope": 355,
       "needsReview": 0,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 104,
+        "ALLOWED_GENERALIST_TITLE": 105,
         "ALLOWED_TARGET_MAJOR": 62,
         "ALLOWED_UNRESTRICTED_MAJOR": 4,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 2,
@@ -4281,6 +4281,15 @@
       ]
     },
     {
+      "jobId": "tencent:2080327162589786112",
+      "sourceId": "tencent-campus",
+      "companyName": "腾讯",
+      "title": "Global Recruitment Intern 107849",
+      "reasonCodes": [
+        "REVIEW_INSUFFICIENT_REQUIREMENTS"
+      ]
+    },
+    {
       "jobId": "tencent:2108502775083216896",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4326,15 +4335,6 @@
       ]
     },
     {
-      "jobId": "tencent:2080327158533898240",
-      "sourceId": "tencent-campus",
-      "companyName": "腾讯",
-      "title": "Global Recruitment Intern 107847",
-      "reasonCodes": [
-        "REVIEW_INSUFFICIENT_REQUIREMENTS"
-      ]
-    },
-    {
       "jobId": "tencent:2062328526257958912",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
@@ -4353,6 +4353,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-11T23:40:55.179205+00:00",
-  "catalogVersion": "2026.10.11.2340"
+  "generatedAt": "2026-10-12T06:01:14.909050+00:00",
+  "catalogVersion": "2026.10.12.0601"
 }
