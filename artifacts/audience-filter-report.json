@@ -3,9 +3,9 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4625,
+    "normalized": 4623,
     "targetGeneralist": 1003,
-    "outOfScope": 3419,
+    "outOfScope": 3417,
     "needsReview": 203
   },
   "reasonCounts": {
@@ -15,7 +15,7 @@
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 188,
     "BLOCKED_SPECIALIST_PORTFOLIO": 125,
-    "BLOCKED_TECHNICAL_ROLE": 3082,
+    "BLOCKED_TECHNICAL_ROLE": 3080,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 203
   },
   "bySource": {
@@ -248,9 +248,9 @@
       "reasonCounts": {}
     },
     "bytedance-campus": {
-      "normalized": 2332,
+      "normalized": 2330,
       "targetGeneralist": 409,
-      "outOfScope": 1864,
+      "outOfScope": 1862,
       "needsReview": 59,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 249,
@@ -259,7 +259,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 7,
         "BLOCKED_NON_TARGET_MAJOR": 33,
         "BLOCKED_SPECIALIST_PORTFOLIO": 41,
-        "BLOCKED_TECHNICAL_ROLE": 1783,
+        "BLOCKED_TECHNICAL_ROLE": 1781,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 59
       }
     },
@@ -4317,19 +4317,19 @@
       ]
     },
     {
-      "jobId": "tencent:2094852842950148096",
+      "jobId": "tencent:2094852838621626368",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
     },
     {
-      "jobId": "tencent:2094852838621626368",
+      "jobId": "tencent:2094852842950148096",
       "sourceId": "tencent-campus",
       "companyName": "腾讯",
-      "title": "Tencent Cloud CPaaS Product Management Intern 108020",
+      "title": "Tencent Cloud CPaaS Product Management Intern 108019",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4353,6 +4353,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-13T12:44:03.970522+00:00",
-  "catalogVersion": "2026.10.13.1244"
+  "generatedAt": "2026-10-13T20:42:05.419832+00:00",
+  "catalogVersion": "2026.10.13.2042"
 }
