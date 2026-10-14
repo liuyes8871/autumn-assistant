@@ -3,19 +3,19 @@
   "policyVersion": "humanities-social-business-v1",
   "targetAudience": "文科、社科、商科及不限专业的通用校招岗位",
   "current": {
-    "normalized": 4623,
-    "targetGeneralist": 1003,
-    "outOfScope": 3417,
+    "normalized": 4627,
+    "targetGeneralist": 1005,
+    "outOfScope": 3419,
     "needsReview": 203
   },
   "reasonCounts": {
-    "ALLOWED_GENERALIST_TITLE": 529,
+    "ALLOWED_GENERALIST_TITLE": 531,
     "ALLOWED_TARGET_MAJOR": 432,
     "ALLOWED_UNRESTRICTED_MAJOR": 42,
     "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 24,
     "BLOCKED_NON_TARGET_MAJOR": 188,
     "BLOCKED_SPECIALIST_PORTFOLIO": 125,
-    "BLOCKED_TECHNICAL_ROLE": 3080,
+    "BLOCKED_TECHNICAL_ROLE": 3082,
     "REVIEW_INSUFFICIENT_REQUIREMENTS": 203
   },
   "bySource": {
@@ -148,9 +148,9 @@
       "reasonCounts": {}
     },
     "bambulab-campus": {
-      "normalized": 110,
+      "normalized": 111,
       "targetGeneralist": 27,
-      "outOfScope": 78,
+      "outOfScope": 79,
       "needsReview": 5,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 10,
@@ -159,7 +159,7 @@
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
         "BLOCKED_NON_TARGET_MAJOR": 2,
         "BLOCKED_SPECIALIST_PORTFOLIO": 10,
-        "BLOCKED_TECHNICAL_ROLE": 65,
+        "BLOCKED_TECHNICAL_ROLE": 66,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 5
       }
     },
@@ -369,15 +369,15 @@
       "reasonCounts": {}
     },
     "desay-sv-campus": {
-      "normalized": 110,
+      "normalized": 111,
       "targetGeneralist": 21,
-      "outOfScope": 87,
+      "outOfScope": 88,
       "needsReview": 2,
       "reasonCounts": {
         "ALLOWED_GENERALIST_TITLE": 2,
         "ALLOWED_TARGET_MAJOR": 19,
         "BLOCKED_NON_TARGET_MAJOR": 1,
-        "BLOCKED_TECHNICAL_ROLE": 86,
+        "BLOCKED_TECHNICAL_ROLE": 87,
         "REVIEW_INSUFFICIENT_REQUIREMENTS": 2
       }
     },
@@ -664,12 +664,12 @@
       "reasonCounts": {}
     },
     "insta360-campus": {
-      "normalized": 225,
-      "targetGeneralist": 77,
+      "normalized": 227,
+      "targetGeneralist": 79,
       "outOfScope": 144,
       "needsReview": 4,
       "reasonCounts": {
-        "ALLOWED_GENERALIST_TITLE": 37,
+        "ALLOWED_GENERALIST_TITLE": 39,
         "ALLOWED_TARGET_MAJOR": 37,
         "ALLOWED_UNRESTRICTED_MAJOR": 3,
         "BLOCKED_LEGAL_OR_MEDICAL_ROLE": 1,
@@ -2952,7 +2952,7 @@
       "jobId": "bytedance:7667934860749654325",
       "sourceId": "bytedance-campus",
       "companyName": "字节跳动",
-      "title": "治理策略 - 抖音电商",
+      "title": "生态策略 - 抖音电商",
       "reasonCodes": [
         "REVIEW_INSUFFICIENT_REQUIREMENTS"
       ]
@@ -4353,6 +4353,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-13T20:42:05.419832+00:00",
-  "catalogVersion": "2026.10.13.2042"
+  "generatedAt": "2026-10-14T04:56:15.436343+00:00",
+  "catalogVersion": "2026.10.14.0456"
 }
