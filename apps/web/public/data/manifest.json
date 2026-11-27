@@ -78,13 +78,13 @@
   },
   "companyDirectory": {
     "cohort": "2027",
-    "directorySourceCompanyCount": 17,
-    "activeRecruitingCompanyCount": 17,
-    "officialEntryCount": 17,
+    "directorySourceCompanyCount": 18,
+    "activeRecruitingCompanyCount": 18,
+    "officialEntryCount": 18,
     "entryLeadCount": 0,
     "companiesWithEligibleJobs": 3,
     "eligibleJobCount": 928,
-    "lastDiscoveryAt": "2026-11-26T10:14:30.466333+00:00",
+    "lastDiscoveryAt": "2026-11-27T10:18:59.063875+00:00",
     "lastVerifiedAt": "2026-09-04"
   },
   "shards": [
